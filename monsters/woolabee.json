@@ -1,0 +1,14 @@
+{
+  "name": "Woolabee",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Woolabee",
+    "Epic Woolabee"
+  ],
+  "breeding": {}
+}

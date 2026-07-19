@@ -1,0 +1,32 @@
+{
+  "name": "Punkleton",
+  "class": "Seasonal",
+  "subclass": "Core",
+  "elements": [
+    "Spooktacle"
+  ],
+  "variants": [
+    "Rare Punkleton",
+    "Epic Punkleton"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": {
+        "pair": [
+          "Bowgart",
+          "T-Rox"
+        ],
+        "time": "18h",
+        "enhanced_time": "13h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Entbrat",
+          "Drumpler"
+        ],
+        "time": "1d 7h 10m",
+        "enhanced_time": "23h 22m 30s"
+      }
+    }
+  }
+}

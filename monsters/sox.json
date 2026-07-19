@@ -1,0 +1,13 @@
+{
+  "name": "Sox",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Crystal"
+  ],
+  "variants": [
+    "Rare Sox",
+    "Epic Sox"
+  ],
+  "breeding": {}
+}

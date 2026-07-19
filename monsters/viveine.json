@@ -1,0 +1,13 @@
+{
+  "name": "Viveine",
+  "class": "Seasonal",
+  "subclass": "Aux.",
+  "elements": [
+    "Echoes of Eco"
+  ],
+  "variants": [
+    "Rare Viveine",
+    "Epic Viveine"
+  ],
+  "breeding": {}
+}

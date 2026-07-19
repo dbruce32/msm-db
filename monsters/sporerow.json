@@ -1,0 +1,13 @@
+{
+  "name": "Sporerow",
+  "class": "Mythical",
+  "elements": [
+    "Dream",
+    "Mythical"
+  ],
+  "variants": [
+    "Rare Sporerow",
+    "Epic Sporerow"
+  ],
+  "breeding": {}
+}

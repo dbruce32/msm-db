@@ -1,0 +1,12 @@
+{
+  "name": "Hawlo",
+  "class": "Magical",
+  "elements": [
+    "Fire",
+    "Bone"
+  ],
+  "variants": [
+    "Rare Hawlo"
+  ],
+  "breeding": {}
+}

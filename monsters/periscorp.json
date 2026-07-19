@@ -1,0 +1,13 @@
+{
+  "name": "Periscorp",
+  "class": "Magical",
+  "elements": [
+    "Water",
+    "Fire",
+    "Psychic"
+  ],
+  "variants": [
+    "Rare Periscorp"
+  ],
+  "breeding": {}
+}

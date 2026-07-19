@@ -1,0 +1,53 @@
+{
+  "name": "Tweedle",
+  "class": "Natural",
+  "elements": [
+    "Air"
+  ],
+  "variants": [
+    "Rare Tweedle",
+    "Epic Tweedle"
+  ],
+  "breeding": {
+    "Air Island": {
+      "epic": {
+        "pair": [
+          "Riff",
+          "Cybop"
+        ],
+        "time": "11h",
+        "enhanced_time": "8h 15m"
+      }
+    },
+    "Earth Island": {
+      "epic": {
+        "pair": [
+          "Quarrister",
+          "Pango"
+        ],
+        "time": "11h",
+        "enhanced_time": "8h 15m"
+      }
+    },
+    "Water Island": {
+      "epic": {
+        "pair": [
+          "Shellbeat",
+          "Quibble"
+        ],
+        "time": "11h",
+        "enhanced_time": "8h 15m"
+      }
+    },
+    "Cold Island": {
+      "epic": {
+        "pair": [
+          "Deedge",
+          "Dandidoo"
+        ],
+        "time": "11h",
+        "enhanced_time": "8h 15m"
+      }
+    }
+  }
+}

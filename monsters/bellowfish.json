@@ -1,0 +1,13 @@
+{
+  "name": "Bellowfish",
+  "class": "Ethereal",
+  "elements": [
+    "Mech",
+    "Crystal"
+  ],
+  "variants": [
+    "Rare Bellowfish",
+    "Epic Bellowfish"
+  ],
+  "breeding": {}
+}

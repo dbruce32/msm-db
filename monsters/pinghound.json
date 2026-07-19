@@ -1,0 +1,13 @@
+{
+  "name": "Pinghound",
+  "class": "Mythical",
+  "elements": [
+    "Dream",
+    "Mythical"
+  ],
+  "variants": [
+    "Rare Pinghound",
+    "Epic Pinghound"
+  ],
+  "breeding": {}
+}

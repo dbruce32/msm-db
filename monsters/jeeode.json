@@ -1,0 +1,31 @@
+{
+  "name": "Jeeode",
+  "class": "Ethereal",
+  "elements": [
+    "Crystal"
+  ],
+  "variants": [
+    "Rare Jeeode",
+    "Epic Jeeode"
+  ],
+  "breeding": {
+    "Water Island": {
+      "common": {
+        "pair": [
+          "Shellbeat",
+          "Any Triple"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      },
+      "epic": {
+        "pair": [
+          "Pummel",
+          "Quibble"
+        ],
+        "time": "1d 2h",
+        "enhanced_time": "19h 30m"
+      }
+    }
+  }
+}

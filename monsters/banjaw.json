@@ -1,0 +1,13 @@
+{
+  "name": "Banjaw",
+  "class": "Magical",
+  "elements": [
+    "Water",
+    "Fire",
+    "Bone"
+  ],
+  "variants": [
+    "Rare Banjaw"
+  ],
+  "breeding": {}
+}

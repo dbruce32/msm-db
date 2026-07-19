@@ -1,0 +1,62 @@
+{
+  "name": "Noggin",
+  "class": "Natural",
+  "elements": [
+    "Earth"
+  ],
+  "variants": [
+    "Rare Noggin",
+    "Epic Noggin"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": null,
+      "rare": {
+        "pair": [
+          "Any Earth Triple",
+          "Any Earth Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Entbrat",
+          "Fwog"
+        ],
+        "time": "1h",
+        "enhanced_time": "45m"
+      }
+    },
+    "Air Island": {
+      "epic": {
+        "pair": [
+          "Riff",
+          "Drumpler"
+        ],
+        "time": "1h",
+        "enhanced_time": "45m"
+      }
+    },
+    "Earth Island": {
+      "epic": {
+        "pair": [
+          "Quarrister",
+          "Cybop"
+        ],
+        "time": "1h",
+        "enhanced_time": "45m"
+      }
+    },
+    "Water Island": {
+      "epic": {
+        "pair": [
+          "Shellbeat",
+          "Shrubb"
+        ],
+        "time": "1h",
+        "enhanced_time": "45m"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Krillby",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Earth",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Krillby",
+    "Epic Krillby"
+  ],
+  "breeding": {}
+}

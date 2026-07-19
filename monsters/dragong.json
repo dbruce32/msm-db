@@ -1,0 +1,13 @@
+{
+  "name": "Dragong",
+  "class": "Ethereal",
+  "elements": [
+    "Mech",
+    "Poison"
+  ],
+  "variants": [
+    "Rare Dragong",
+    "Epic Dragong"
+  ],
+  "breeding": {}
+}

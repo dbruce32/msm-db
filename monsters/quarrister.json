@@ -1,0 +1,34 @@
+{
+  "name": "Quarrister",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Plant",
+    "Earth",
+    "Cold"
+  ],
+  "variants": [
+    "Rare Quarrister",
+    "Epic Quarrister"
+  ],
+  "breeding": {
+    "Earth Island": {
+      "common": {
+        "pair": [
+          "Thumpies",
+          "Noggin"
+        ],
+        "time": "1d",
+        "enhanced_time": "18h"
+      },
+      "epic": {
+        "pair": [
+          "Clamble",
+          "Dandidoo"
+        ],
+        "time": "1d 11h",
+        "enhanced_time": "1d 2h 15m"
+      }
+    }
+  }
+}

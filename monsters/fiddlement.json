@@ -1,0 +1,13 @@
+{
+  "name": "Fiddlement",
+  "class": "Magical",
+  "elements": [
+    "Cold",
+    "Fire",
+    "Light"
+  ],
+  "variants": [
+    "Rare Fiddlement"
+  ],
+  "breeding": {}
+}

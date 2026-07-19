@@ -1,0 +1,13 @@
+{
+  "name": "Boo'qwurm",
+  "class": "Seasonal",
+  "subclass": "Aux.",
+  "elements": [
+    "MindBoggle"
+  ],
+  "variants": [
+    "Rare Boo'qwurm",
+    "Epic Boo'qwurm"
+  ],
+  "breeding": {}
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Spurrit",
+  "class": "Seasonal",
+  "subclass": "Aux.",
+  "elements": [
+    "Perplexplore"
+  ],
+  "variants": [
+    "Rare Spurrit",
+    "Epic Spurrit"
+  ],
+  "breeding": {}
+}

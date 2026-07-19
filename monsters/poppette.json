@@ -1,0 +1,12 @@
+{
+  "name": "Poppette",
+  "class": "Magical",
+  "elements": [
+    "Water",
+    "Psychic"
+  ],
+  "variants": [
+    "Rare Poppette"
+  ],
+  "breeding": {}
+}

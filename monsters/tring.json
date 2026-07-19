@@ -1,0 +1,15 @@
+{
+  "name": "Tring",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Plant",
+    "Earth",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Tring",
+    "Epic Tring"
+  ],
+  "breeding": {}
+}

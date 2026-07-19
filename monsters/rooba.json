@@ -1,0 +1,14 @@
+{
+  "name": "Rooba",
+  "class": "Magical",
+  "elements": [
+    "Plant",
+    "Fire",
+    "Psychic"
+  ],
+  "variants": [
+    "Rare Rooba",
+    "Epic Rooba"
+  ],
+  "breeding": {}
+}

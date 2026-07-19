@@ -1,0 +1,15 @@
+{
+  "name": "Tiawa",
+  "class": "Fire",
+  "elements": [
+    "Earth",
+    "Water",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Tiawa",
+    "Epic Tiawa"
+  ],
+  "breeding": {}
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Boskus",
+  "class": "Fire",
+  "elements": [
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Boskus",
+    "Epic Boskus"
+  ],
+  "breeding": {}
+}

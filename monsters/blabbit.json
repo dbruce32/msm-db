@@ -1,0 +1,32 @@
+{
+  "name": "Blabbit",
+  "class": "Seasonal",
+  "subclass": "Core",
+  "elements": [
+    "Eggs-Travaganza"
+  ],
+  "variants": [
+    "Rare Blabbit",
+    "Epic Blabbit"
+  ],
+  "breeding": {
+    "Water Island": {
+      "common": {
+        "pair": [
+          "Spunge",
+          "Scups"
+        ],
+        "time": "19h",
+        "enhanced_time": "14h 15m"
+      },
+      "epic": {
+        "pair": [
+          "Shellbeat",
+          "Oaktopus"
+        ],
+        "time": "1d 1h 22m",
+        "enhanced_time": "19h 1m 30s"
+      }
+    }
+  }
+}

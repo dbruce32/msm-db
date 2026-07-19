@@ -1,0 +1,68 @@
+{
+  "name": "Dandidoo",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Plant"
+  ],
+  "variants": [
+    "Rare Dandidoo",
+    "Epic Dandidoo"
+  ],
+  "breeding": {
+    "Earth Island": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Potbelly"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Clamble",
+          "Pango"
+        ],
+        "time": "1d 5h",
+        "enhanced_time": "21h 45m"
+      }
+    },
+    "Water Island": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Potbelly"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Pummel",
+          "Cybop"
+        ],
+        "time": "1d 5h",
+        "enhanced_time": "21h 45m"
+      }
+    },
+    "Cold Island": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Potbelly"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Bowgart",
+          "Quibble"
+        ],
+        "time": "1d 5h",
+        "enhanced_time": "21h 45m"
+      }
+    }
+  }
+}

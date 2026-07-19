@@ -1,0 +1,13 @@
+{
+  "name": "Spytrap",
+  "class": "Magical",
+  "elements": [
+    "Plant",
+    "Cold",
+    "Light"
+  ],
+  "variants": [
+    "Rare Spytrap"
+  ],
+  "breeding": {}
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Jellbilly",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Poison"
+  ],
+  "variants": [
+    "Rare Jellbilly",
+    "Epic Jellbilly"
+  ],
+  "breeding": {}
+}

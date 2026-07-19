@@ -1,0 +1,12 @@
+{
+  "name": "Wimmzies",
+  "class": "Magical",
+  "elements": [
+    "Fire",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Wimmzies"
+  ],
+  "breeding": {}
+}

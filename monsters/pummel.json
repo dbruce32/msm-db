@@ -1,0 +1,51 @@
+{
+  "name": "Pummel",
+  "class": "Natural",
+  "elements": [
+    "Plant",
+    "Earth",
+    "Water"
+  ],
+  "variants": [
+    "Rare Pummel",
+    "Epic Pummel"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": {
+        "pair": [
+          "Oaktopus",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Bowgart",
+          "Fwog"
+        ],
+        "time": "1d 7h",
+        "enhanced_time": "23h 15m"
+      }
+    },
+    "Water Island": {
+      "common": {
+        "pair": [
+          "Oaktopus",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Scups",
+          "Shrubb"
+        ],
+        "time": "1d 7h",
+        "enhanced_time": "23h 15m"
+      }
+    }
+  }
+}

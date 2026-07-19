@@ -1,0 +1,13 @@
+{
+  "name": "Phangler",
+  "class": "Fire",
+  "elements": [
+    "Water",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Phangler",
+    "Epic Phangler"
+  ],
+  "breeding": {}
+}

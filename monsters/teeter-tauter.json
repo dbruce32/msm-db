@@ -1,0 +1,11 @@
+{
+  "name": "Teeter-Tauter",
+  "class": "Ethereal",
+  "elements": [
+    "Mech",
+    "Crystal",
+    "Poison"
+  ],
+  "variants": [],
+  "breeding": {}
+}

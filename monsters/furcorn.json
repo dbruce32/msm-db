@@ -1,0 +1,68 @@
+{
+  "name": "Furcorn",
+  "class": "Natural",
+  "elements": [
+    "Plant",
+    "Cold"
+  ],
+  "variants": [
+    "Rare Furcorn",
+    "Epic Furcorn"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Clamble",
+          "Fwog"
+        ],
+        "time": "17h",
+        "enhanced_time": "12h 45m"
+      }
+    },
+    "Earth Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Thumpies",
+          "Drumpler"
+        ],
+        "time": "17h",
+        "enhanced_time": "12h 45m"
+      }
+    },
+    "Cold Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Spunge",
+          "Maw"
+        ],
+        "time": "17h",
+        "enhanced_time": "12h 45m"
+      }
+    }
+  }
+}

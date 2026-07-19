@@ -1,0 +1,31 @@
+{
+  "name": "Reebro",
+  "class": "Ethereal",
+  "elements": [
+    "Mech"
+  ],
+  "variants": [
+    "Rare Reebro",
+    "Epic Reebro"
+  ],
+  "breeding": {
+    "Air Island": {
+      "common": {
+        "pair": [
+          "Riff",
+          "Any Triple"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      },
+      "epic": {
+        "pair": [
+          "T-Rox",
+          "Pango"
+        ],
+        "time": "1d 10h",
+        "enhanced_time": "1d 1h 30m"
+      }
+    }
+  }
+}

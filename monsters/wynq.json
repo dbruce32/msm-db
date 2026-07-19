@@ -1,0 +1,14 @@
+{
+  "name": "Wynq",
+  "class": "Fire",
+  "elements": [
+    "Water",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Wynq",
+    "Epic Wynq"
+  ],
+  "breeding": {}
+}

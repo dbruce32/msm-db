@@ -1,0 +1,14 @@
+{
+  "name": "Enchantling",
+  "class": "Magical",
+  "elements": [
+    "Psychic",
+    "Bone",
+    "Light",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Enchantling"
+  ],
+  "breeding": {}
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Auglur",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Mech",
+    "Poison"
+  ],
+  "variants": [
+    "Rare Auglur"
+  ],
+  "breeding": {}
+}

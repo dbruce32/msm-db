@@ -1,0 +1,13 @@
+{
+  "name": "Ffidyll",
+  "class": "Seasonal",
+  "subclass": "Aux.",
+  "elements": [
+    "Cloverspell"
+  ],
+  "variants": [
+    "Rare Ffidyll",
+    "Epic Ffidyll"
+  ],
+  "breeding": {}
+}

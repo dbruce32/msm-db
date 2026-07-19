@@ -1,0 +1,14 @@
+{
+  "name": "Whaddle",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Water",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Whaddle",
+    "Epic Whaddle"
+  ],
+  "breeding": {}
+}

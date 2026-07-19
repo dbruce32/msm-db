@@ -1,0 +1,13 @@
+{
+  "name": "Knucklehead",
+  "class": "Magical",
+  "elements": [
+    "Light",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Knucklehead",
+    "Epic Knucklehead"
+  ],
+  "breeding": {}
+}

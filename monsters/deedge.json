@@ -1,0 +1,34 @@
+{
+  "name": "Deedge",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Plant",
+    "Water",
+    "Cold"
+  ],
+  "variants": [
+    "Rare Deedge",
+    "Epic Deedge"
+  ],
+  "breeding": {
+    "Cold Island": {
+      "common": {
+        "pair": [
+          "Thumpies",
+          "Toe Jammer"
+        ],
+        "time": "1d",
+        "enhanced_time": "18h"
+      },
+      "epic": {
+        "pair": [
+          "Bowgart",
+          "Pango"
+        ],
+        "time": "1d 17h",
+        "enhanced_time": "1d 6h 45m"
+      }
+    }
+  }
+}

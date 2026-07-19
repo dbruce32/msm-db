@@ -1,0 +1,14 @@
+{
+  "name": "TooToo",
+  "class": "Magical",
+  "elements": [
+    "Plant",
+    "Fire",
+    "Light"
+  ],
+  "variants": [
+    "Rare TooToo",
+    "Epic TooToo"
+  ],
+  "breeding": {}
+}

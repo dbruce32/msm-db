@@ -1,0 +1,14 @@
+{
+  "name": "Sooza",
+  "class": "Fire",
+  "elements": [
+    "Plant",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Sooza",
+    "Epic Sooza"
+  ],
+  "breeding": {}
+}

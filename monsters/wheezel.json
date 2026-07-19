@@ -1,0 +1,13 @@
+{
+  "name": "Wheezel",
+  "class": "Mythical",
+  "elements": [
+    "Dream",
+    "Mythical"
+  ],
+  "variants": [
+    "Rare Wheezel",
+    "Epic Wheezel"
+  ],
+  "breeding": {}
+}

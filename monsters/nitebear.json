@@ -1,0 +1,13 @@
+{
+  "name": "Nitebear",
+  "class": "Ethereal",
+  "elements": [
+    "Shadow",
+    "Mech",
+    "Crystal"
+  ],
+  "variants": [
+    "Rare Nitebear"
+  ],
+  "breeding": {}
+}

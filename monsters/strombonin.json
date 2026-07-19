@@ -1,0 +1,31 @@
+{
+  "name": "Strombonin",
+  "class": "Mythical",
+  "elements": [
+    "Mythical"
+  ],
+  "variants": [
+    "Rare Strombonin",
+    "Epic Strombonin"
+  ],
+  "breeding": {
+    "Cold Island": {
+      "common": {
+        "pair": [
+          "Spunge",
+          "Bowgart"
+        ],
+        "time": "23h",
+        "enhanced_time": "17h 15m"
+      },
+      "epic": {
+        "pair": [
+          "Deedge",
+          "Furcorn"
+        ],
+        "time": "1d 10h 30m",
+        "enhanced_time": "1d 1h 52m 30s"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Mammott",
+  "class": "Natural",
+  "elements": [
+    "Cold"
+  ],
+  "variants": [
+    "Rare Mammott",
+    "Epic Mammott"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": null,
+      "rare": {
+        "pair": [
+          "Any Cold Triple",
+          "Any Cold Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Entbrat",
+          "Furcorn"
+        ],
+        "time": "5h",
+        "enhanced_time": "3h 45m"
+      }
+    },
+    "Air Island": {
+      "epic": {
+        "pair": [
+          "Riff",
+          "Pango"
+        ],
+        "time": "5h",
+        "enhanced_time": "3h 45m"
+      }
+    },
+    "Earth Island": {
+      "epic": {
+        "pair": [
+          "Quarrister",
+          "Drumpler"
+        ],
+        "time": "5h",
+        "enhanced_time": "3h 45m"
+      }
+    },
+    "Cold Island": {
+      "epic": {
+        "pair": [
+          "Deedge",
+          "Maw"
+        ],
+        "time": "5h",
+        "enhanced_time": "3h 45m"
+      }
+    }
+  }
+}

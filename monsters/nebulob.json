@@ -1,0 +1,13 @@
+{
+  "name": "Nebulob",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Mech"
+  ],
+  "variants": [
+    "Rare Nebulob",
+    "Epic Nebulob"
+  ],
+  "breeding": {}
+}

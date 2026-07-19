@@ -1,0 +1,14 @@
+{
+  "name": "Repatillo",
+  "class": "Fire",
+  "elements": [
+    "Plant",
+    "Earth",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Repatillo",
+    "Epic Repatillo"
+  ],
+  "breeding": {}
+}

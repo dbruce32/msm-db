@@ -1,0 +1,31 @@
+{
+  "name": "Hyehehe",
+  "class": "Mythical",
+  "elements": [
+    "Mythical"
+  ],
+  "variants": [
+    "Rare Hyehehe",
+    "Epic Hyehehe"
+  ],
+  "breeding": {
+    "Earth Island": {
+      "common": {
+        "pair": [
+          "Thumpies",
+          "PomPom"
+        ],
+        "time": "1d 4h",
+        "enhanced_time": "21h"
+      },
+      "epic": {
+        "pair": [
+          "Quarrister",
+          "Shrubb"
+        ],
+        "time": "1d 9h 28m",
+        "enhanced_time": "1d 1h 6m"
+      }
+    }
+  }
+}
