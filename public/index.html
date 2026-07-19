@@ -113,7 +113,7 @@
   <p class="hero-sub">A free, static JSON API for My Singing Monsters data. No authentication required. Fetch from any app or website.</p>
 
   <h2>Base URL</h2>
-  <pre><code>https://dylanbruce.github.io/msm-db/api</code></pre>
+  <pre><code>https://dbruce32.github.io/msm-db/api</code></pre>
 
   <h2>Endpoints</h2>
 
@@ -138,30 +138,30 @@
   <h2>Usage Examples</h2>
 
   <h3>Fetch all monsters (JavaScript)</h3>
-  <pre><code>const res = await fetch('https://dylanbruce.github.io/msm-db/api/monsters/index.json');
+  <pre><code>const res = await fetch('https://dbruce32.github.io/msm-db/api/monsters/index.json');
 const data = await res.json();
 console.log(`Total monsters: ${data.total}`);
 data.monsters.forEach(m => console.log(m.name, m.elements));</code></pre>
 
   <h3>Fetch a specific monster</h3>
-  <pre><code>const res = await fetch('https://dylanbruce.github.io/msm-db/api/monsters/bowgart.json');
+  <pre><code>const res = await fetch('https://dbruce32.github.io/msm-db/api/monsters/bowgart.json');
 const bowgart = await res.json();
 console.log(bowgart.name);          // "Bowgart"
 console.log(bowgart.elements);      // ["Plant", "Water", "Cold"]
 console.log(bowgart.breeding);      // { "Plant Island": { common: {...}, epic: {...} }, ... }</code></pre>
 
   <h3>Fetch all islands</h3>
-  <pre><code>const res = await fetch('https://dylanbruce.github.io/msm-db/api/islands/index.json');
+  <pre><code>const res = await fetch('https://dbruce32.github.io/msm-db/api/islands/index.json');
 const data = await res.json();
 data.islands.forEach(island => console.log(island.name, island.elements));</code></pre>
 
   <h3>Using with Python</h3>
   <pre><code>import requests
 
-monsters = requests.get('https://dylanbruce.github.io/msm-db/api/monsters/index.json').json()
+monsters = requests.get('https://dbruce32.github.io/msm-db/api/monsters/index.json').json()
 print(f"Total monsters: {monsters['total']}")
 
-bowgart = requests.get('https://dylanbruce.github.io/msm-db/api/monsters/bowgart.json').json()
+bowgart = requests.get('https://dbruce32.github.io/msm-db/api/monsters/bowgart.json').json()
 print(bowgart['breeding']['Plant Island']['common'])</code></pre>
 
   <h2>Try It</h2>
@@ -209,7 +209,7 @@ print(bowgart['breeding']['Plant Island']['common'])</code></pre>
 
   <div class="footer">
     <p>Data sourced from the My Singing Monsters wiki. This is a fan project and is not affiliated with Big Blue Bubble.</p>
-    <p>Source: <a href="https://github.com/dylanbruce/msm-db">github.com/dylanbruce/msm-db</a></p>
+    <p>Source: <a href="https://github.com/dbruce32/msm-db">github.com/dbruce32/msm-db</a></p>
   </div>
 
   <script>
