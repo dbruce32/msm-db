@@ -1,0 +1,32 @@
+{
+  "name": "Knurv",
+  "class": "Mythical",
+  "elements": [
+    "Dream",
+    "Mythical"
+  ],
+  "variants": [
+    "Rare Knurv",
+    "Epic Knurv"
+  ],
+  "breeding": {
+    "Mythical Island": {
+      "common": {
+        "pair": [
+          "Cataliszt",
+          "Buzzinga"
+        ],
+        "time": "1d 8h",
+        "enhanced_time": "1d"
+      },
+      "epic": {
+        "pair": [
+          "Cataliszt",
+          "G'joob"
+        ],
+        "time": "2d 8h 10m",
+        "enhanced_time": "1d 18h 7m 30s"
+      }
+    }
+  }
+}

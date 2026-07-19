@@ -1,0 +1,34 @@
+{
+  "name": "Sneyser",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Water",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Sneyser",
+    "Epic Sneyser"
+  ],
+  "breeding": {
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Woolabee",
+          "Toe Jammer"
+        ],
+        "time": "1d 16h",
+        "enhanced_time": "1d 6h"
+      },
+      "epic": {
+        "pair": [
+          "Woolabee",
+          "Phangler"
+        ],
+        "time": "1d 17h",
+        "enhanced_time": "1d 6h 45m"
+      }
+    }
+  }
+}

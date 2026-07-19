@@ -1,0 +1,24 @@
+{
+  "name": "Periscorp",
+  "class": "Magical",
+  "elements": [
+    "Water",
+    "Fire",
+    "Psychic"
+  ],
+  "variants": [
+    "Rare Periscorp"
+  ],
+  "breeding": {
+    "Psychic Island": {
+      "common": {
+        "pair": [
+          "Yuggler",
+          "Toe Jammer"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      }
+    }
+  }
+}

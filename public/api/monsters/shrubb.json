@@ -1,0 +1,86 @@
+{
+  "name": "Shrubb",
+  "class": "Natural",
+  "elements": [
+    "Plant",
+    "Earth"
+  ],
+  "variants": [
+    "Rare Shrubb",
+    "Epic Shrubb"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "T-Rox",
+          "Oaktopus"
+        ],
+        "time": "19h",
+        "enhanced_time": "14h 15m"
+      }
+    },
+    "Earth Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "PomPom",
+          "Dandidoo"
+        ],
+        "time": "19h",
+        "enhanced_time": "14h 15m"
+      }
+    },
+    "Water Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Reedling",
+          "Quibble"
+        ],
+        "time": "19h",
+        "enhanced_time": "14h 15m"
+      }
+    },
+    "Fire Haven": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Barrb",
+          "Cybop"
+        ],
+        "time": "19h",
+        "enhanced_time": "14h 15m"
+      }
+    }
+  }
+}

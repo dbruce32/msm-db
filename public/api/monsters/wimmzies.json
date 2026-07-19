@@ -1,0 +1,23 @@
+{
+  "name": "Wimmzies",
+  "class": "Magical",
+  "elements": [
+    "Fire",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Wimmzies"
+  ],
+  "breeding": {
+    "Faerie Island": {
+      "common": {
+        "pair": [
+          "Kayna",
+          "Floot Fly"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Squot",
+  "class": "Magical",
+  "elements": [
+    "Cold",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Squot"
+  ],
+  "breeding": {
+    "Faerie Island": {
+      "common": {
+        "pair": [
+          "Mammott",
+          "Floot Fly"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
+}

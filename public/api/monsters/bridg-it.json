@@ -1,0 +1,24 @@
+{
+  "name": "Bridg-it",
+  "class": "Magical",
+  "elements": [
+    "Earth",
+    "Fire",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Bridg-it"
+  ],
+  "breeding": {
+    "Faerie Island": {
+      "common": {
+        "pair": [
+          "Wimmzies",
+          "Noggin"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      }
+    }
+  }
+}

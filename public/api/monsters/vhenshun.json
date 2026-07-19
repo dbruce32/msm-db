@@ -1,0 +1,14 @@
+{
+  "name": "Vhenshun",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Shadow",
+    "Mech",
+    "Poison"
+  ],
+  "variants": [
+    "Rare Vhenshun"
+  ],
+  "breeding": {}
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Ziggurab",
+  "class": "Fire",
+  "elements": [
+    "Earth",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Ziggurab",
+    "Epic Ziggurab"
+  ],
+  "breeding": {
+    "Faerie Island": {
+      "common": {
+        "pair": [
+          "Boskus",
+          "Noggin"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "epic": {
+        "pair": [
+          "Bridg-it",
+          "Drumpler"
+        ],
+        "time": "1d 11h",
+        "enhanced_time": "1d 2h 15m"
+      }
+    }
+  }
+}

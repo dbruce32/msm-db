@@ -1,0 +1,69 @@
+{
+  "name": "Reedling",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Plant",
+    "Earth"
+  ],
+  "variants": [
+    "Rare Reedling",
+    "Epic Reedling"
+  ],
+  "breeding": {
+    "Earth Island": {
+      "common": {
+        "pair": [
+          "Dandidoo",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Thumpies",
+          "Shrubb"
+        ],
+        "time": "17h",
+        "enhanced_time": "12h 45m"
+      }
+    },
+    "Water Island": {
+      "common": {
+        "pair": [
+          "Dandidoo",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Spunge",
+          "Fwog"
+        ],
+        "time": "17h",
+        "enhanced_time": "12h 45m"
+      }
+    },
+    "Fire Haven": {
+      "common": {
+        "pair": [
+          "Dandidoo",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Repatillo",
+          "Cybop"
+        ],
+        "time": "17h",
+        "enhanced_time": "12h 45m"
+      }
+    }
+  }
+}

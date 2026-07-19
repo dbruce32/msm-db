@@ -1,0 +1,68 @@
+{
+  "name": "Phangler",
+  "class": "Fire",
+  "elements": [
+    "Water",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Phangler",
+    "Epic Phangler"
+  ],
+  "breeding": {
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Toe Jammer",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Congle",
+          "Glowl"
+        ],
+        "time": "23h",
+        "enhanced_time": "17h 15m"
+      }
+    },
+    "Bone Island": {
+      "common": {
+        "pair": [
+          "Toe Jammer",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Banjaw",
+          "Peckidna"
+        ],
+        "time": "23h",
+        "enhanced_time": "17h 15m"
+      }
+    },
+    "Psychic Island": {
+      "common": {
+        "pair": [
+          "Toe Jammer",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Tapricorn",
+          "Yuggler"
+        ],
+        "time": "23h",
+        "enhanced_time": "17h 15m"
+      }
+    }
+  }
+}

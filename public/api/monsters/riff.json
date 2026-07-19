@@ -1,0 +1,34 @@
+{
+  "name": "Riff",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Earth",
+    "Water",
+    "Cold"
+  ],
+  "variants": [
+    "Rare Riff",
+    "Epic Riff"
+  ],
+  "breeding": {
+    "Air Island": {
+      "common": {
+        "pair": [
+          "Congle",
+          "Noggin"
+        ],
+        "time": "1d",
+        "enhanced_time": "18h"
+      },
+      "epic": {
+        "pair": [
+          "PomPom",
+          "Quibble"
+        ],
+        "time": "1d 15h",
+        "enhanced_time": "1d 5h 15m"
+      }
+    }
+  }
+}

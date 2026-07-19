@@ -1,0 +1,32 @@
+{
+  "name": "Bleatnik",
+  "class": "Mythical",
+  "elements": [
+    "Dream",
+    "Mythical"
+  ],
+  "variants": [
+    "Rare Bleatnik",
+    "Epic Bleatnik"
+  ],
+  "breeding": {
+    "Mythical Island": {
+      "common": {
+        "pair": [
+          "Cataliszt",
+          "G'joob"
+        ],
+        "time": "1d 3h",
+        "enhanced_time": "20h 15m"
+      },
+      "epic": {
+        "pair": [
+          "Cataliszt",
+          "Cherubble"
+        ],
+        "time": "2d 1h 13m",
+        "enhanced_time": "1d 12h 54m 45s"
+      }
+    }
+  }
+}

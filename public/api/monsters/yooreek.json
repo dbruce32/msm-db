@@ -1,0 +1,13 @@
+{
+  "name": "Yooreek",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Shadow",
+    "Mech"
+  ],
+  "variants": [
+    "Rare Yooreek"
+  ],
+  "breeding": {}
+}

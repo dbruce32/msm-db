@@ -1,0 +1,96 @@
+{
+  "name": "Oaktopus",
+  "class": "Natural",
+  "elements": [
+    "Plant",
+    "Water"
+  ],
+  "variants": [
+    "Rare Oaktopus",
+    "Epic Oaktopus"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Toe Jammer"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Bowgart",
+          "Shrubb"
+        ],
+        "time": "1d 7h",
+        "enhanced_time": "23h 15m"
+      }
+    },
+    "Water Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Toe Jammer"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Reedling",
+          "Fwog"
+        ],
+        "time": "1d 7h",
+        "enhanced_time": "23h 15m"
+      }
+    },
+    "Cold Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Toe Jammer"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Spunge",
+          "Pango"
+        ],
+        "time": "1d 7h",
+        "enhanced_time": "23h 15m"
+      }
+    },
+    "Shugabush Island": {
+      "epic": {
+        "pair": [
+          "Shugabush",
+          "Quibble"
+        ],
+        "time": "1d 7h",
+        "enhanced_time": "23h 15m"
+      }
+    },
+    "Psychic Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Toe Jammer"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Rootitoot",
+          "Bonkers"
+        ],
+        "time": "1d 7h",
+        "enhanced_time": "23h 15m"
+      }
+    }
+  }
+}

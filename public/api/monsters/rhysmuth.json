@@ -1,0 +1,12 @@
+{
+  "name": "Rhysmuth",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Mech",
+    "Crystal",
+    "Poison"
+  ],
+  "variants": [],
+  "breeding": {}
+}

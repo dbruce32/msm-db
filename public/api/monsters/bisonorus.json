@@ -1,0 +1,15 @@
+{
+  "name": "Bisonorus",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Plant",
+    "Water",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Bisonorus",
+    "Epic Bisonorus"
+  ],
+  "breeding": {}
+}

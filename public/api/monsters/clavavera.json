@@ -1,0 +1,50 @@
+{
+  "name": "Clavavera",
+  "class": "Seasonal",
+  "subclass": "Aux.",
+  "elements": [
+    "Beat Hereafter"
+  ],
+  "variants": [
+    "Rare Clavavera",
+    "Epic Clavavera"
+  ],
+  "breeding": {
+    "Bone Island": {
+      "common": {
+        "pair": [
+          "Withur",
+          "Clackula"
+        ],
+        "time": "22h 11m",
+        "enhanced_time": "16h 38m 15s"
+      },
+      "epic": {
+        "pair": [
+          "Plinkajou",
+          "Hawlo"
+        ],
+        "time": "23h 11m",
+        "enhanced_time": "17h 23m 15s"
+      }
+    },
+    "Seasonal Shanty": {
+      "common": {
+        "pair": [
+          "Punkleton",
+          "Schmoochle"
+        ],
+        "time": "22h 11m",
+        "enhanced_time": "16h 38m 15s"
+      },
+      "epic": {
+        "pair": [
+          "Viveine",
+          "Whiz-bang"
+        ],
+        "time": "23h 11m",
+        "enhanced_time": "17h 23m 15s"
+      }
+    }
+  }
+}

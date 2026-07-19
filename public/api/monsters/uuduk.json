@@ -1,0 +1,24 @@
+{
+  "name": "Uuduk",
+  "class": "Magical",
+  "elements": [
+    "Earth",
+    "Fire",
+    "Bone"
+  ],
+  "variants": [
+    "Rare Uuduk"
+  ],
+  "breeding": {
+    "Bone Island": {
+      "common": {
+        "pair": [
+          "Hawlo",
+          "Noggin"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      }
+    }
+  }
+}

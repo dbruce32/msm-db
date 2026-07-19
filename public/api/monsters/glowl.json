@@ -1,0 +1,50 @@
+{
+  "name": "Glowl",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Glowl",
+    "Epic Glowl"
+  ],
+  "breeding": {
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Wynq",
+          "Quibble"
+        ],
+        "time": "1d 1h",
+        "enhanced_time": "18h 45m"
+      }
+    },
+    "Fire Haven": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Floogull",
+          "Dandidoo"
+        ],
+        "time": "1d 1h",
+        "enhanced_time": "18h 45m"
+      }
+    }
+  }
+}

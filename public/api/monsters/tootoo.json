@@ -1,0 +1,33 @@
+{
+  "name": "TooToo",
+  "class": "Magical",
+  "elements": [
+    "Plant",
+    "Fire",
+    "Light"
+  ],
+  "variants": [
+    "Rare TooToo",
+    "Epic TooToo"
+  ],
+  "breeding": {
+    "Light Island": {
+      "common": {
+        "pair": [
+          "Pluckbill",
+          "Potbelly"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      },
+      "epic": {
+        "pair": [
+          "Spytrap",
+          "Flowah"
+        ],
+        "time": "2d 5h 5m",
+        "enhanced_time": "1d 15h 48m 45s"
+      }
+    }
+  }
+}

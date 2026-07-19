@@ -1,0 +1,1690 @@
+{
+  "total": 180,
+  "monsters": [
+    {
+      "name": "Anglow",
+      "slug": "anglow",
+      "class": "Mythical",
+      "elements": [
+        "Mythical"
+      ]
+    },
+    {
+      "name": "Arackulele",
+      "slug": "arackulele",
+      "class": "Ethereal",
+      "elements": [
+        "Shadow",
+        "Mech"
+      ]
+    },
+    {
+      "name": "Arcorina",
+      "slug": "arcorina",
+      "class": "Paironormal",
+      "elements": [
+        "Ruin"
+      ]
+    },
+    {
+      "name": "Auglur",
+      "slug": "auglur",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Mech",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Banjaw",
+      "slug": "banjaw",
+      "class": "Magical",
+      "elements": [
+        "Water",
+        "Fire",
+        "Bone"
+      ]
+    },
+    {
+      "name": "Barrb",
+      "slug": "barrb",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Plant",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Bellowfish",
+      "slug": "bellowfish",
+      "class": "Ethereal",
+      "elements": [
+        "Mech",
+        "Crystal"
+      ]
+    },
+    {
+      "name": "BeMeebEth",
+      "slug": "bemeebeth",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Shadow",
+        "Mech",
+        "Crystal",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Bisonorus",
+      "slug": "bisonorus",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Plant",
+        "Water",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Blabbit",
+      "slug": "blabbit",
+      "class": "Seasonal",
+      "elements": [
+        "Eggs-Travaganza"
+      ]
+    },
+    {
+      "name": "Blarret",
+      "slug": "blarret",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Shadow",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Bleatnik",
+      "slug": "bleatnik",
+      "class": "Mythical",
+      "elements": [
+        "Dream",
+        "Mythical"
+      ]
+    },
+    {
+      "name": "Blow't",
+      "slug": "blow-t",
+      "class": "Magical",
+      "elements": [
+        "Plant",
+        "Cold",
+        "Fire",
+        "Light"
+      ]
+    },
+    {
+      "name": "Bonkers",
+      "slug": "bonkers",
+      "class": "Magical",
+      "elements": [
+        "Plant",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Boo'qwurm",
+      "slug": "boo-qwurm",
+      "class": "Seasonal",
+      "elements": [
+        "MindBoggle"
+      ]
+    },
+    {
+      "name": "Boodoo",
+      "slug": "boodoo",
+      "class": "Ethereal",
+      "elements": [
+        "Shadow",
+        "Crystal"
+      ]
+    },
+    {
+      "name": "Boskus",
+      "slug": "boskus",
+      "class": "Fire",
+      "elements": [
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Bowgart",
+      "slug": "bowgart",
+      "class": "Natural",
+      "elements": [
+        "Plant",
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Bowhead",
+      "slug": "bowhead",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Plant",
+        "Water",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Bridg-it",
+      "slug": "bridg-it",
+      "class": "Magical",
+      "elements": [
+        "Earth",
+        "Fire",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Bulbo",
+      "slug": "bulbo",
+      "class": "Magical",
+      "elements": [
+        "Cold",
+        "Light"
+      ]
+    },
+    {
+      "name": "Buzzinga",
+      "slug": "buzzinga",
+      "class": "Mythical",
+      "elements": [
+        "Mythical"
+      ]
+    },
+    {
+      "name": "Cahoot",
+      "slug": "cahoot",
+      "class": "Magical",
+      "elements": [
+        "Psychic",
+        "Light"
+      ]
+    },
+    {
+      "name": "Candelavra",
+      "slug": "candelavra",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Plant",
+        "Earth",
+        "Water",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Cantorell",
+      "slug": "cantorell",
+      "class": "Magical",
+      "elements": [
+        "Earth",
+        "Cold",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Carillong",
+      "slug": "carillong",
+      "class": "Seasonal",
+      "elements": [
+        "Crescendo Moon"
+      ]
+    },
+    {
+      "name": "Cataliszt",
+      "slug": "cataliszt",
+      "class": "Mythical",
+      "elements": [
+        "Dream"
+      ]
+    },
+    {
+      "name": "Charrkoll",
+      "slug": "charrkoll",
+      "class": "Legendary",
+      "elements": [
+        "Legendary"
+      ]
+    },
+    {
+      "name": "Cherubble",
+      "slug": "cherubble",
+      "class": "Mythical",
+      "elements": [
+        "Mythical"
+      ]
+    },
+    {
+      "name": "Clackula",
+      "slug": "clackula",
+      "class": "Magical",
+      "elements": [
+        "Bone"
+      ]
+    },
+    {
+      "name": "Clamble",
+      "slug": "clamble",
+      "class": "Natural",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Clavavera",
+      "slug": "clavavera",
+      "class": "Seasonal",
+      "elements": [
+        "Beat Hereafter"
+      ]
+    },
+    {
+      "name": "Clavi Gnat",
+      "slug": "clavi-gnat",
+      "class": "Magical",
+      "elements": [
+        "Cold",
+        "Fire",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Congle",
+      "slug": "congle",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Cranchee",
+      "slug": "cranchee",
+      "class": "Mythical",
+      "elements": [
+        "Dream",
+        "Mythical"
+      ]
+    },
+    {
+      "name": "Cybop",
+      "slug": "cybop",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Earth"
+      ]
+    },
+    {
+      "name": "Déjà-Jin",
+      "slug": "d-j-jin",
+      "class": "Magical",
+      "elements": [
+        "Psychic",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Dandidoo",
+      "slug": "dandidoo",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Plant"
+      ]
+    },
+    {
+      "name": "Deedge",
+      "slug": "deedge",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Plant",
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Denchuhs",
+      "slug": "denchuhs",
+      "class": "Magical",
+      "elements": [
+        "Water",
+        "Bone"
+      ]
+    },
+    {
+      "name": "Dragong",
+      "slug": "dragong",
+      "class": "Ethereal",
+      "elements": [
+        "Mech",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Drummidary",
+      "slug": "drummidary",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Plant",
+        "Earth",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Drumpler",
+      "slug": "drumpler",
+      "class": "Natural",
+      "elements": [
+        "Earth",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Edamimi",
+      "slug": "edamimi",
+      "class": "Fire",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Water",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Enchantling",
+      "slug": "enchantling",
+      "class": "Magical",
+      "elements": [
+        "Psychic",
+        "Bone",
+        "Light",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Entbrat",
+      "slug": "entbrat",
+      "class": "Natural",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Ffidyll",
+      "slug": "ffidyll",
+      "class": "Seasonal",
+      "elements": [
+        "Cloverspell"
+      ]
+    },
+    {
+      "name": "Fiddlement",
+      "slug": "fiddlement",
+      "class": "Magical",
+      "elements": [
+        "Cold",
+        "Fire",
+        "Light"
+      ]
+    },
+    {
+      "name": "Flasque",
+      "slug": "flasque",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Crystal",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Floogull",
+      "slug": "floogull",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Earth",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Floot Fly",
+      "slug": "floot-fly",
+      "class": "Magical",
+      "elements": [
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Flowah",
+      "slug": "flowah",
+      "class": "Fire",
+      "elements": [
+        "Plant",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Flum Ox",
+      "slug": "flum-ox",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Earth",
+        "Water",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Fluoress",
+      "slug": "fluoress",
+      "class": "Magical",
+      "elements": [
+        "Light"
+      ]
+    },
+    {
+      "name": "Frondley",
+      "slug": "frondley",
+      "class": "Magical",
+      "elements": [
+        "Psychic",
+        "Light",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Fung Pray",
+      "slug": "fung-pray",
+      "class": "Ethereal",
+      "elements": [
+        "Crystal",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Furcorn",
+      "slug": "furcorn",
+      "class": "Natural",
+      "elements": [
+        "Plant",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Fwog",
+      "slug": "fwog",
+      "class": "Natural",
+      "elements": [
+        "Earth",
+        "Water"
+      ]
+    },
+    {
+      "name": "G'day",
+      "slug": "g-day",
+      "class": "Magical",
+      "elements": [
+        "Psychic",
+        "Bone",
+        "Light"
+      ]
+    },
+    {
+      "name": "G'joob",
+      "slug": "g-joob",
+      "class": "Mythical",
+      "elements": [
+        "Mythical"
+      ]
+    },
+    {
+      "name": "Gaddzooks",
+      "slug": "gaddzooks",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Mech",
+        "Crystal"
+      ]
+    },
+    {
+      "name": "Ghazt",
+      "slug": "ghazt",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma"
+      ]
+    },
+    {
+      "name": "Gloptic",
+      "slug": "gloptic",
+      "class": "Magical",
+      "elements": [
+        "Plant",
+        "Water",
+        "Fire",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Glowl",
+      "slug": "glowl",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Gnarls",
+      "slug": "gnarls",
+      "class": "Fire",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Water",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Gob",
+      "slug": "gob",
+      "class": "Magical",
+      "elements": [
+        "Plant",
+        "Light"
+      ]
+    },
+    {
+      "name": "Gobbleygourd",
+      "slug": "gobbleygourd",
+      "class": "Seasonal",
+      "elements": [
+        "Feast-Ember"
+      ]
+    },
+    {
+      "name": "Grumpyre",
+      "slug": "grumpyre",
+      "class": "Ethereal",
+      "elements": [
+        "Shadow"
+      ]
+    },
+    {
+      "name": "Hawlo",
+      "slug": "hawlo",
+      "class": "Magical",
+      "elements": [
+        "Fire",
+        "Bone"
+      ]
+    },
+    {
+      "name": "HippityHop",
+      "slug": "hippityhop",
+      "class": "Magical",
+      "elements": [
+        "Earth",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Hoola",
+      "slug": "hoola",
+      "class": "Seasonal",
+      "elements": [
+        "SummerSong"
+      ]
+    },
+    {
+      "name": "Humbug",
+      "slug": "humbug",
+      "class": "Ethereal",
+      "elements": [
+        "Poison"
+      ]
+    },
+    {
+      "name": "Hyehehe",
+      "slug": "hyehehe",
+      "class": "Mythical",
+      "elements": [
+        "Mythical"
+      ]
+    },
+    {
+      "name": "Incisaur",
+      "slug": "incisaur",
+      "class": "Fire",
+      "elements": [
+        "Plant",
+        "Water",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Jam Boree",
+      "slug": "jam-boree",
+      "class": "Seasonal",
+      "elements": [
+        "Anniversary Month"
+      ]
+    },
+    {
+      "name": "Jeeode",
+      "slug": "jeeode",
+      "class": "Ethereal",
+      "elements": [
+        "Crystal"
+      ]
+    },
+    {
+      "name": "Jellbilly",
+      "slug": "jellbilly",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Kayna",
+      "slug": "kayna",
+      "class": "Fire",
+      "elements": [
+        "Fire"
+      ]
+    },
+    {
+      "name": "Kazilleon",
+      "slug": "kazilleon",
+      "class": "Ethereal",
+      "elements": [
+        "Shadow",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Knucklehead",
+      "slug": "knucklehead",
+      "class": "Magical",
+      "elements": [
+        "Light",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Knurv",
+      "slug": "knurv",
+      "class": "Mythical",
+      "elements": [
+        "Dream",
+        "Mythical"
+      ]
+    },
+    {
+      "name": "Krillby",
+      "slug": "krillby",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Earth",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Larvaluss",
+      "slug": "larvaluss",
+      "class": "Magical",
+      "elements": [
+        "Psychic",
+        "Bone",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Maggpi",
+      "slug": "maggpi",
+      "class": "Legendary",
+      "elements": [
+        "Legendary"
+      ]
+    },
+    {
+      "name": "Mammott",
+      "slug": "mammott",
+      "class": "Natural",
+      "elements": [
+        "Cold"
+      ]
+    },
+    {
+      "name": "Maw",
+      "slug": "maw",
+      "class": "Natural",
+      "elements": [
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Meebkin",
+      "slug": "meebkin",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Shadow",
+        "Crystal"
+      ]
+    },
+    {
+      "name": "Mimic",
+      "slug": "mimic",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Plant",
+        "Earth",
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Monculus",
+      "slug": "monculus",
+      "class": "Seasonal",
+      "elements": [
+        "Life-Formula"
+      ]
+    },
+    {
+      "name": "Mushaboom",
+      "slug": "mushaboom",
+      "class": "Magical",
+      "elements": [
+        "Bone",
+        "Light",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Nebulob",
+      "slug": "nebulob",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Mech"
+      ]
+    },
+    {
+      "name": "Nitebear",
+      "slug": "nitebear",
+      "class": "Ethereal",
+      "elements": [
+        "Shadow",
+        "Mech",
+        "Crystal"
+      ]
+    },
+    {
+      "name": "Noggin",
+      "slug": "noggin",
+      "class": "Natural",
+      "elements": [
+        "Earth"
+      ]
+    },
+    {
+      "name": "Oaktopus",
+      "slug": "oaktopus",
+      "class": "Natural",
+      "elements": [
+        "Plant",
+        "Water"
+      ]
+    },
+    {
+      "name": "Oogiddy",
+      "slug": "oogiddy",
+      "class": "Ethereal",
+      "elements": [
+        "Shadow",
+        "Mech",
+        "Crystal",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Osstax",
+      "slug": "osstax",
+      "class": "Magical",
+      "elements": [
+        "Bone",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Pango",
+      "slug": "pango",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Parlsona",
+      "slug": "parlsona",
+      "class": "Legendary",
+      "elements": [
+        "Legendary"
+      ]
+    },
+    {
+      "name": "Peckidna",
+      "slug": "peckidna",
+      "class": "Magical",
+      "elements": [
+        "Earth",
+        "Bone"
+      ]
+    },
+    {
+      "name": "Pentumbra",
+      "slug": "pentumbra",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Shadow",
+        "Crystal",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Periscorp",
+      "slug": "periscorp",
+      "class": "Magical",
+      "elements": [
+        "Water",
+        "Fire",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Phangler",
+      "slug": "phangler",
+      "class": "Fire",
+      "elements": [
+        "Water",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Pinghound",
+      "slug": "pinghound",
+      "class": "Mythical",
+      "elements": [
+        "Dream",
+        "Mythical"
+      ]
+    },
+    {
+      "name": "Piplash",
+      "slug": "piplash",
+      "class": "Ethereal",
+      "elements": [
+        "Shadow",
+        "Mech",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Pladdie",
+      "slug": "pladdie",
+      "class": "Magical",
+      "elements": [
+        "Earth",
+        "Cold",
+        "Fire",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Plinkajou",
+      "slug": "plinkajou",
+      "class": "Magical",
+      "elements": [
+        "Earth",
+        "Water",
+        "Fire",
+        "Bone"
+      ]
+    },
+    {
+      "name": "Pluckbill",
+      "slug": "pluckbill",
+      "class": "Magical",
+      "elements": [
+        "Fire",
+        "Light"
+      ]
+    },
+    {
+      "name": "PomPom",
+      "slug": "pompom",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Earth",
+        "Cold"
+      ]
+    },
+    {
+      "name": "PongPing",
+      "slug": "pongping",
+      "class": "Fire",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Poppette",
+      "slug": "poppette",
+      "class": "Magical",
+      "elements": [
+        "Water",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Potbelly",
+      "slug": "potbelly",
+      "class": "Natural",
+      "elements": [
+        "Plant"
+      ]
+    },
+    {
+      "name": "Pummel",
+      "slug": "pummel",
+      "class": "Natural",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Water"
+      ]
+    },
+    {
+      "name": "Punkleton",
+      "slug": "punkleton",
+      "class": "Seasonal",
+      "elements": [
+        "Spooktacle"
+      ]
+    },
+    {
+      "name": "Quarrister",
+      "slug": "quarrister",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Plant",
+        "Earth",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Quibble",
+      "slug": "quibble",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Water"
+      ]
+    },
+    {
+      "name": "Reebro",
+      "slug": "reebro",
+      "class": "Ethereal",
+      "elements": [
+        "Mech"
+      ]
+    },
+    {
+      "name": "Reedling",
+      "slug": "reedling",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Plant",
+        "Earth"
+      ]
+    },
+    {
+      "name": "Repatillo",
+      "slug": "repatillo",
+      "class": "Fire",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Rhysmuth",
+      "slug": "rhysmuth",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Mech",
+        "Crystal",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Riff",
+      "slug": "riff",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Earth",
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Roarick",
+      "slug": "roarick",
+      "class": "Magical",
+      "elements": [
+        "Bone",
+        "Light"
+      ]
+    },
+    {
+      "name": "Rooba",
+      "slug": "rooba",
+      "class": "Magical",
+      "elements": [
+        "Plant",
+        "Fire",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Rootitoot",
+      "slug": "rootitoot",
+      "class": "Fire",
+      "elements": [
+        "Plant",
+        "Water",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Schmoochle",
+      "slug": "schmoochle",
+      "class": "Seasonal",
+      "elements": [
+        "Season of Love"
+      ]
+    },
+    {
+      "name": "Scups",
+      "slug": "scups",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Earth",
+        "Water"
+      ]
+    },
+    {
+      "name": "Shellbeat",
+      "slug": "shellbeat",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Plant",
+        "Earth",
+        "Water"
+      ]
+    },
+    {
+      "name": "shLep",
+      "slug": "shlep",
+      "class": "Mythical",
+      "elements": [
+        "Dream",
+        "Mythical"
+      ]
+    },
+    {
+      "name": "Shrubb",
+      "slug": "shrubb",
+      "class": "Natural",
+      "elements": [
+        "Plant",
+        "Earth"
+      ]
+    },
+    {
+      "name": "Shugabass",
+      "slug": "shugabass",
+      "class": "Legendary",
+      "elements": [
+        "Legendary"
+      ]
+    },
+    {
+      "name": "Shugabeats",
+      "slug": "shugabeats",
+      "class": "Legendary",
+      "elements": [
+        "Legendary"
+      ]
+    },
+    {
+      "name": "Shugabush",
+      "slug": "shugabush",
+      "class": "Legendary",
+      "elements": [
+        "Legendary"
+      ]
+    },
+    {
+      "name": "Shugabuzz",
+      "slug": "shugabuzz",
+      "class": "Legendary",
+      "elements": [
+        "Legendary"
+      ]
+    },
+    {
+      "name": "Shugajo",
+      "slug": "shugajo",
+      "class": "Legendary",
+      "elements": [
+        "Legendary"
+      ]
+    },
+    {
+      "name": "Shugarock",
+      "slug": "shugarock",
+      "class": "Legendary",
+      "elements": [
+        "Legendary"
+      ]
+    },
+    {
+      "name": "Shugavox",
+      "slug": "shugavox",
+      "class": "Legendary",
+      "elements": [
+        "Legendary"
+      ]
+    },
+    {
+      "name": "Shugitar",
+      "slug": "shugitar",
+      "class": "Legendary",
+      "elements": [
+        "Legendary"
+      ]
+    },
+    {
+      "name": "Sneyser",
+      "slug": "sneyser",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Water",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Sooza",
+      "slug": "sooza",
+      "class": "Fire",
+      "elements": [
+        "Plant",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Sox",
+      "slug": "sox",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Crystal"
+      ]
+    },
+    {
+      "name": "Sporerow",
+      "slug": "sporerow",
+      "class": "Mythical",
+      "elements": [
+        "Dream",
+        "Mythical"
+      ]
+    },
+    {
+      "name": "Spunge",
+      "slug": "spunge",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Plant",
+        "Water"
+      ]
+    },
+    {
+      "name": "Spurrit",
+      "slug": "spurrit",
+      "class": "Seasonal",
+      "elements": [
+        "Perplexplore"
+      ]
+    },
+    {
+      "name": "Spytrap",
+      "slug": "spytrap",
+      "class": "Magical",
+      "elements": [
+        "Plant",
+        "Cold",
+        "Light"
+      ]
+    },
+    {
+      "name": "Squot",
+      "slug": "squot",
+      "class": "Magical",
+      "elements": [
+        "Cold",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Stogg",
+      "slug": "stogg",
+      "class": "Fire",
+      "elements": [
+        "Earth",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Stoowarb",
+      "slug": "stoowarb",
+      "class": "Legendary",
+      "elements": [
+        "Legendary"
+      ]
+    },
+    {
+      "name": "Strombonin",
+      "slug": "strombonin",
+      "class": "Mythical",
+      "elements": [
+        "Mythical"
+      ]
+    },
+    {
+      "name": "T-Rox",
+      "slug": "t-rox",
+      "class": "Natural",
+      "elements": [
+        "Earth",
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Tapricorn",
+      "slug": "tapricorn",
+      "class": "Magical",
+      "elements": [
+        "Plant",
+        "Water",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Tawkerr",
+      "slug": "tawkerr",
+      "class": "Legendary",
+      "elements": [
+        "Legendary"
+      ]
+    },
+    {
+      "name": "Teeter-Tauter",
+      "slug": "teeter-tauter",
+      "class": "Ethereal",
+      "elements": [
+        "Mech",
+        "Crystal",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Theremind",
+      "slug": "theremind",
+      "class": "Magical",
+      "elements": [
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Thrumble",
+      "slug": "thrumble",
+      "class": "Fire",
+      "elements": [
+        "Earth",
+        "Water",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Thumpies",
+      "slug": "thumpies",
+      "class": "Natural",
+      "elements": [
+        "Air",
+        "Plant",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Tiawa",
+      "slug": "tiawa",
+      "class": "Fire",
+      "elements": [
+        "Earth",
+        "Water",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Toe Jammer",
+      "slug": "toe-jammer",
+      "class": "Natural",
+      "elements": [
+        "Water"
+      ]
+    },
+    {
+      "name": "TooToo",
+      "slug": "tootoo",
+      "class": "Magical",
+      "elements": [
+        "Plant",
+        "Fire",
+        "Light"
+      ]
+    },
+    {
+      "name": "Tring",
+      "slug": "tring",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Plant",
+        "Earth",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Tuskski",
+      "slug": "tuskski",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Earth",
+        "Water",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Tweedle",
+      "slug": "tweedle",
+      "class": "Natural",
+      "elements": [
+        "Air"
+      ]
+    },
+    {
+      "name": "Uuduk",
+      "slug": "uuduk",
+      "class": "Magical",
+      "elements": [
+        "Earth",
+        "Fire",
+        "Bone"
+      ]
+    },
+    {
+      "name": "Vhenshun",
+      "slug": "vhenshun",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Shadow",
+        "Mech",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Viveine",
+      "slug": "viveine",
+      "class": "Seasonal",
+      "elements": [
+        "Echoes of Eco"
+      ]
+    },
+    {
+      "name": "Whaddle",
+      "slug": "whaddle",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Water",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Whaill",
+      "slug": "whaill",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Shadow",
+        "Mech",
+        "Crystal"
+      ]
+    },
+    {
+      "name": "Wheezel",
+      "slug": "wheezel",
+      "class": "Mythical",
+      "elements": [
+        "Dream",
+        "Mythical"
+      ]
+    },
+    {
+      "name": "Whisp",
+      "slug": "whisp",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Shadow"
+      ]
+    },
+    {
+      "name": "Whiz-bang",
+      "slug": "whiz-bang",
+      "class": "Seasonal",
+      "elements": [
+        "SkyPainting"
+      ]
+    },
+    {
+      "name": "Wimmzies",
+      "slug": "wimmzies",
+      "class": "Magical",
+      "elements": [
+        "Fire",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Withur",
+      "slug": "withur",
+      "class": "Magical",
+      "elements": [
+        "Earth",
+        "Water",
+        "Bone"
+      ]
+    },
+    {
+      "name": "Woolabee",
+      "slug": "woolabee",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Wynq",
+      "slug": "wynq",
+      "class": "Fire",
+      "elements": [
+        "Water",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "X'rt",
+      "slug": "x-rt",
+      "class": "Ethereal",
+      "elements": [
+        "Shadow",
+        "Crystal",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Xyster",
+      "slug": "xyster",
+      "class": "Magical",
+      "elements": [
+        "Psychic",
+        "Bone"
+      ]
+    },
+    {
+      "name": "Yawstrich",
+      "slug": "yawstrich",
+      "class": "Mythical",
+      "elements": [
+        "Mythical"
+      ]
+    },
+    {
+      "name": "Yelmut",
+      "slug": "yelmut",
+      "class": "Fire",
+      "elements": [
+        "Air",
+        "Plant",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Yool",
+      "slug": "yool",
+      "class": "Seasonal",
+      "elements": [
+        "Festival of Yay"
+      ]
+    },
+    {
+      "name": "Yooreek",
+      "slug": "yooreek",
+      "class": "Ethereal",
+      "elements": [
+        "Plasma",
+        "Shadow",
+        "Mech"
+      ]
+    },
+    {
+      "name": "Yuggler",
+      "slug": "yuggler",
+      "class": "Magical",
+      "elements": [
+        "Fire",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Ziggurab",
+      "slug": "ziggurab",
+      "class": "Fire",
+      "elements": [
+        "Earth",
+        "Cold",
+        "Fire"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Spurrit",
+  "class": "Seasonal",
+  "subclass": "Aux.",
+  "elements": [
+    "Perplexplore"
+  ],
+  "variants": [
+    "Rare Spurrit",
+    "Epic Spurrit"
+  ],
+  "breeding": {
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Wynq",
+          "Maw"
+        ],
+        "time": "20h 18m",
+        "enhanced_time": "15h 13m 30s"
+      },
+      "epic": {
+        "pair": [
+          "Sneyser",
+          "Glowl"
+        ],
+        "time": "1d 3h 20m",
+        "enhanced_time": "20h 30m"
+      }
+    },
+    "Seasonal Shanty": {
+      "common": {
+        "pair": [
+          "Blabbit",
+          "Hoola"
+        ],
+        "time": "20h 18m",
+        "enhanced_time": "15h 13m 30s"
+      },
+      "epic": {
+        "pair": [
+          "Jam Boree",
+          "Carillong"
+        ],
+        "time": "1d 3h 20m",
+        "enhanced_time": "20h 30m"
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "shLep",
+  "class": "Mythical",
+  "elements": [
+    "Dream",
+    "Mythical"
+  ],
+  "variants": [
+    "Rare shLep",
+    "Epic shLep"
+  ],
+  "breeding": {
+    "Mythical Island": {
+      "common": {
+        "pair": [
+          "Cataliszt",
+          "Cherubble"
+        ],
+        "time": "1d 3h",
+        "enhanced_time": "20h 15m"
+      },
+      "epic": {
+        "pair": [
+          "Cataliszt",
+          "Buzzinga"
+        ],
+        "time": "2d 34m",
+        "enhanced_time": "1d 12h 25m 30s"
+      }
+    }
+  }
+}

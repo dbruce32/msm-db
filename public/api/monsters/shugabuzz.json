@@ -1,0 +1,21 @@
+{
+  "name": "Shugabuzz",
+  "class": "Legendary",
+  "subclass": "Shugafam",
+  "elements": [
+    "Legendary"
+  ],
+  "variants": [],
+  "breeding": {
+    "Shugabush Island": {
+      "common": {
+        "pair": [
+          "Shugabush",
+          "Quibble"
+        ],
+        "time": "1d 11h",
+        "enhanced_time": "1d 2h 15m"
+      }
+    }
+  }
+}

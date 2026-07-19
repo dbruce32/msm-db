@@ -1,0 +1,51 @@
+{
+  "name": "Clamble",
+  "class": "Natural",
+  "elements": [
+    "Plant",
+    "Earth",
+    "Cold"
+  ],
+  "variants": [
+    "Rare Clamble",
+    "Epic Clamble"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": {
+        "pair": [
+          "Furcorn",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Pummel",
+          "Maw"
+        ],
+        "time": "21h",
+        "enhanced_time": "15h 45m"
+      }
+    },
+    "Earth Island": {
+      "common": {
+        "pair": [
+          "Furcorn",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "PomPom",
+          "Furcorn"
+        ],
+        "time": "21h",
+        "enhanced_time": "15h 45m"
+      }
+    }
+  }
+}

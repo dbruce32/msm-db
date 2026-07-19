@@ -1,0 +1,51 @@
+{
+  "name": "Bowgart",
+  "class": "Natural",
+  "elements": [
+    "Plant",
+    "Water",
+    "Cold"
+  ],
+  "variants": [
+    "Rare Bowgart",
+    "Epic Bowgart"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": {
+        "pair": [
+          "Furcorn",
+          "Toe Jammer"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Clamble",
+          "Oaktopus"
+        ],
+        "time": "1d 5h",
+        "enhanced_time": "21h 45m"
+      }
+    },
+    "Cold Island": {
+      "common": {
+        "pair": [
+          "Furcorn",
+          "Toe Jammer"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Congle",
+          "Furcorn"
+        ],
+        "time": "1d 5h",
+        "enhanced_time": "21h 45m"
+      }
+    }
+  }
+}

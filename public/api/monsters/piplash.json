@@ -1,0 +1,13 @@
+{
+  "name": "Piplash",
+  "class": "Ethereal",
+  "elements": [
+    "Shadow",
+    "Mech",
+    "Poison"
+  ],
+  "variants": [
+    "Rare Piplash"
+  ],
+  "breeding": {}
+}

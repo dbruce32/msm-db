@@ -1,0 +1,50 @@
+{
+  "name": "Viveine",
+  "class": "Seasonal",
+  "subclass": "Aux.",
+  "elements": [
+    "Echoes of Eco"
+  ],
+  "variants": [
+    "Rare Viveine",
+    "Epic Viveine"
+  ],
+  "breeding": {
+    "Shugabush Island": {
+      "common": {
+        "pair": [
+          "Shugabush",
+          "Oaktopus"
+        ],
+        "time": "1d 2h 5m 20s",
+        "enhanced_time": "19h 34m"
+      },
+      "epic": {
+        "pair": [
+          "Shugabush",
+          "PomPom"
+        ],
+        "time": "1d 8h 10m",
+        "enhanced_time": "1d 7m 30s"
+      }
+    },
+    "Seasonal Shanty": {
+      "common": {
+        "pair": [
+          "Punkleton",
+          "Blabbit"
+        ],
+        "time": "1d 2h 5m 20s",
+        "enhanced_time": "19h 34m"
+      },
+      "epic": {
+        "pair": [
+          "Monculus",
+          "Ffidyll"
+        ],
+        "time": "1d 8h 10m",
+        "enhanced_time": "1d 7m 30s"
+      }
+    }
+  }
+}

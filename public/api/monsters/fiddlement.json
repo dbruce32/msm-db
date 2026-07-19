@@ -1,0 +1,25 @@
+{
+  "name": "Fiddlement",
+  "class": "Magical",
+  "elements": [
+    "Cold",
+    "Fire",
+    "Light"
+  ],
+  "variants": [
+    "Rare Fiddlement",
+    "Epic Fiddlement"
+  ],
+  "breeding": {
+    "Light Island": {
+      "common": {
+        "pair": [
+          "Pluckbill",
+          "Mammott"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      }
+    }
+  }
+}

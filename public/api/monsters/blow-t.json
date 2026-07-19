@@ -1,0 +1,26 @@
+{
+  "name": "Blow't",
+  "class": "Magical",
+  "elements": [
+    "Plant",
+    "Cold",
+    "Fire",
+    "Light"
+  ],
+  "variants": [
+    "Rare Blow't",
+    "Epic Blow't"
+  ],
+  "breeding": {
+    "Light Island": {
+      "common": {
+        "pair": [
+          "TooToo",
+          "Mammott"
+        ],
+        "time": "1d 8h",
+        "enhanced_time": "1d"
+      }
+    }
+  }
+}

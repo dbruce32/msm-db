@@ -1,0 +1,32 @@
+{
+  "name": "Dragong",
+  "class": "Ethereal",
+  "elements": [
+    "Mech",
+    "Poison"
+  ],
+  "variants": [
+    "Rare Dragong",
+    "Epic Dragong"
+  ],
+  "breeding": {
+    "Ethereal Island": {
+      "common": {
+        "pair": [
+          "Reebro",
+          "Humbug"
+        ],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Whisp",
+          "Fung Pray"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      }
+    }
+  }
+}

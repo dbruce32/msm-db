@@ -1,0 +1,15 @@
+{
+  "name": "Edamimi",
+  "class": "Fire",
+  "elements": [
+    "Plant",
+    "Earth",
+    "Water",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Edamimi",
+    "Epic Edamimi"
+  ],
+  "breeding": {}
+}

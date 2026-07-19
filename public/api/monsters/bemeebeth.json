@@ -1,0 +1,13 @@
+{
+  "name": "BeMeebEth",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Shadow",
+    "Mech",
+    "Crystal",
+    "Poison"
+  ],
+  "variants": [],
+  "breeding": {}
+}

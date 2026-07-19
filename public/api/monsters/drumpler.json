@@ -1,0 +1,86 @@
+{
+  "name": "Drumpler",
+  "class": "Natural",
+  "elements": [
+    "Earth",
+    "Cold"
+  ],
+  "variants": [
+    "Rare Drumpler",
+    "Epic Drumpler"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": {
+        "pair": [
+          "Noggin",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
+      },
+      "epic": {
+        "pair": [
+          "Clamble",
+          "Maw"
+        ],
+        "time": "15h",
+        "enhanced_time": "11h 15m"
+      }
+    },
+    "Air Island": {
+      "common": {
+        "pair": [
+          "Noggin",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
+      },
+      "epic": {
+        "pair": [
+          "PomPom",
+          "Fwog"
+        ],
+        "time": "15h",
+        "enhanced_time": "11h 15m"
+      }
+    },
+    "Earth Island": {
+      "common": {
+        "pair": [
+          "Noggin",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
+      },
+      "epic": {
+        "pair": [
+          "Thumpies",
+          "Cybop"
+        ],
+        "time": "15h",
+        "enhanced_time": "11h 15m"
+      }
+    },
+    "Faerie Island": {
+      "common": {
+        "pair": [
+          "Noggin",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
+      },
+      "epic": {
+        "pair": [
+          "Ziggurab",
+          "HippityHop"
+        ],
+        "time": "15h",
+        "enhanced_time": "11h 15m"
+      }
+    }
+  }
+}

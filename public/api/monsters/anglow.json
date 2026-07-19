@@ -1,0 +1,41 @@
+{
+  "name": "Anglow",
+  "class": "Mythical",
+  "elements": [
+    "Mythical"
+  ],
+  "variants": [
+    "Rare Anglow",
+    "Epic Anglow"
+  ],
+  "breeding": {
+    "Water Island": {
+      "common": {
+        "pair": [
+          "Scups",
+          "Pummel"
+        ],
+        "time": "1d 9h",
+        "enhanced_time": "1d 45m"
+      },
+      "epic": {
+        "pair": [
+          "Shellbeat",
+          "Cybop"
+        ],
+        "time": "1d 17h 13m",
+        "enhanced_time": "1d 6h 54m 45s"
+      }
+    },
+    "Mythical Island": {
+      "epic": {
+        "pair": [
+          "Cataliszt",
+          "Cherubble"
+        ],
+        "time": "1d 17h 13m",
+        "enhanced_time": "1d 6h 54m 45s"
+      }
+    }
+  }
+}

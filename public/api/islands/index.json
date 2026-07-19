@@ -1,0 +1,250 @@
+{
+  "total": 28,
+  "islands": [
+    {
+      "name": "Plant Island",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Cold Island",
+      "elements": [
+        "Air",
+        "Plant",
+        "Earth",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Air Island",
+      "elements": [
+        "Air",
+        "Plant",
+        "Earth",
+        "Water"
+      ]
+    },
+    {
+      "name": "Water Island",
+      "elements": [
+        "Air",
+        "Plant",
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Earth Island",
+      "elements": [
+        "Air",
+        "Earth",
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Mirror Plant Island",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Mirror Cold Island",
+      "elements": [
+        "Air",
+        "Plant",
+        "Earth",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Mirror Air Island",
+      "elements": [
+        "Air",
+        "Plant",
+        "Earth",
+        "Water"
+      ]
+    },
+    {
+      "name": "Mirror Water Island",
+      "elements": [
+        "Air",
+        "Plant",
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Mirror Earth Island",
+      "elements": [
+        "Air",
+        "Earth",
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "Fire Haven",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Water",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Fire Oasis",
+      "elements": [
+        "Air",
+        "Plant",
+        "Earth",
+        "Water",
+        "Cold",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Light Island",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Water",
+        "Cold",
+        "Fire",
+        "Light"
+      ]
+    },
+    {
+      "name": "Psychic Island",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Water",
+        "Cold",
+        "Fire",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Faerie Island",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Water",
+        "Cold",
+        "Fire",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Bone Island",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Water",
+        "Cold",
+        "Fire",
+        "Bone"
+      ]
+    },
+    {
+      "name": "Magical Sanctum",
+      "elements": [
+        "Psychic",
+        "Bone",
+        "Light",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Magical Nexus",
+      "elements": [
+        "Psychic",
+        "Bone",
+        "Light",
+        "Faerie"
+      ]
+    },
+    {
+      "name": "Shugabush Island",
+      "elements": [
+        "Legendary"
+      ]
+    },
+    {
+      "name": "Ethereal Island",
+      "elements": [
+        "Plasma",
+        "Shadow",
+        "Mech",
+        "Crystal",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Mythical Island",
+      "elements": [
+        "Dream",
+        "Mythical"
+      ]
+    },
+    {
+      "name": "Wublin Island",
+      "elements": []
+    },
+    {
+      "name": "Celestial Island",
+      "elements": []
+    },
+    {
+      "name": "Amber Island",
+      "elements": []
+    },
+    {
+      "name": "Seasonal Shanty",
+      "elements": [
+        "Spooktacle",
+        "Festival of Yay",
+        "Season of Love",
+        "Eggs-Travaganza",
+        "SummerSong",
+        "Feast-Ember",
+        "Beat Hereafter",
+        "Echoes of Eco",
+        "Anniversary Month",
+        "Crescendo Moon",
+        "SkyPainting",
+        "Life-Formula",
+        "Cloverspell",
+        "MindBoggle",
+        "Perplexplore"
+      ]
+    },
+    {
+      "name": "Gold Island",
+      "elements": []
+    },
+    {
+      "name": "Tribal Island",
+      "elements": [
+        "Plant",
+        "Earth",
+        "Water",
+        "Cold"
+      ]
+    },
+    {
+      "name": "The Colossingum",
+      "elements": []
+    }
+  ]
+}

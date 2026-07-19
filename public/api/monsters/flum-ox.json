@@ -1,0 +1,26 @@
+{
+  "name": "Flum Ox",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Earth",
+    "Water",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Flum Ox",
+    "Epic Flum Ox"
+  ],
+  "breeding": {
+    "Bone Island": {
+      "epic": {
+        "pair": [
+          "Plinkajou",
+          "Kayna"
+        ],
+        "time": "1d 13h",
+        "enhanced_time": "1d 3h 45m"
+      }
+    }
+  }
+}

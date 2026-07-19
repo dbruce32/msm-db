@@ -1,0 +1,27 @@
+{
+  "name": "Gnarls",
+  "class": "Fire",
+  "elements": [
+    "Plant",
+    "Earth",
+    "Water",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Gnarls",
+    "Epic Gnarls"
+  ],
+  "breeding": {
+    "Bone Island": {
+      "epic": {
+        "pair": [
+          "Plinkajou",
+          "Peckidna"
+        ],
+        "time": "1d 23h",
+        "enhanced_time": "1d 11h 15m"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Ghazt",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma"
+  ],
+  "variants": [
+    "Rare Ghazt",
+    "Epic Ghazt"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": {
+        "pair": [
+          "Entbrat",
+          "Any Triple"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      },
+      "epic": {
+        "pair": [
+          "T-Rox",
+          "Furcorn"
+        ],
+        "time": "1d 6h",
+        "enhanced_time": "22h 30m"
+      }
+    },
+    "Ethereal Island": {
+      "epic": {
+        "pair": [
+          "Boodoo",
+          "Dragong"
+        ],
+        "time": "8h 20m",
+        "enhanced_time": "6h 15m"
+      }
+    }
+  }
+}

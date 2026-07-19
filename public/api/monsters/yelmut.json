@@ -1,0 +1,15 @@
+{
+  "name": "Yelmut",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Plant",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Yelmut",
+    "Epic Yelmut"
+  ],
+  "breeding": {}
+}

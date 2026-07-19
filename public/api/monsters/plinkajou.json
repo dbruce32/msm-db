@@ -1,0 +1,25 @@
+{
+  "name": "Plinkajou",
+  "class": "Magical",
+  "elements": [
+    "Earth",
+    "Water",
+    "Fire",
+    "Bone"
+  ],
+  "variants": [
+    "Rare Plinkajou"
+  ],
+  "breeding": {
+    "Bone Island": {
+      "common": {
+        "pair": [
+          "Banjaw",
+          "Noggin"
+        ],
+        "time": "1d 8h",
+        "enhanced_time": "1d"
+      }
+    }
+  }
+}

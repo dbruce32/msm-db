@@ -1,0 +1,21 @@
+{
+  "name": "Shugarock",
+  "class": "Legendary",
+  "subclass": "Shugafam",
+  "elements": [
+    "Legendary"
+  ],
+  "variants": [],
+  "breeding": {
+    "Shugabush Island": {
+      "common": {
+        "pair": [
+          "Shugabush",
+          "Mammott"
+        ],
+        "time": "1d 11h",
+        "enhanced_time": "1d 2h 15m"
+      }
+    }
+  }
+}

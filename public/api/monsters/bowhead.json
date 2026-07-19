@@ -1,0 +1,16 @@
+{
+  "name": "Bowhead",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Plant",
+    "Water",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Bowhead",
+    "Epic Bowhead"
+  ],
+  "breeding": {}
+}

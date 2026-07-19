@@ -1,0 +1,13 @@
+{
+  "name": "Flasque",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Crystal",
+    "Poison"
+  ],
+  "variants": [
+    "Rare Flasque"
+  ],
+  "breeding": {}
+}

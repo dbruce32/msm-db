@@ -1,0 +1,86 @@
+{
+  "name": "Pango",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Cold"
+  ],
+  "variants": [
+    "Rare Pango",
+    "Epic Pango"
+  ],
+  "breeding": {
+    "Air Island": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Congle",
+          "Cybop"
+        ],
+        "time": "1d 3h",
+        "enhanced_time": "20h 15m"
+      }
+    },
+    "Earth Island": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Reedling",
+          "Furcorn"
+        ],
+        "time": "1d 3h",
+        "enhanced_time": "20h 15m"
+      }
+    },
+    "Cold Island": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Thumpies",
+          "Oaktopus"
+        ],
+        "time": "1d 3h",
+        "enhanced_time": "20h 15m"
+      }
+    },
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Whaddle",
+          "Maw"
+        ],
+        "time": "1d 3h",
+        "enhanced_time": "20h 15m"
+      }
+    }
+  }
+}

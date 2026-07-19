@@ -1,0 +1,24 @@
+{
+  "name": "Clavi Gnat",
+  "class": "Magical",
+  "elements": [
+    "Cold",
+    "Fire",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Clavi Gnat"
+  ],
+  "breeding": {
+    "Faerie Island": {
+      "common": {
+        "pair": [
+          "Wimmzies",
+          "Mammott"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      }
+    }
+  }
+}

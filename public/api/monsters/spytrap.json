@@ -1,0 +1,25 @@
+{
+  "name": "Spytrap",
+  "class": "Magical",
+  "elements": [
+    "Plant",
+    "Cold",
+    "Light"
+  ],
+  "variants": [
+    "Rare Spytrap",
+    "Epic Spytrap"
+  ],
+  "breeding": {
+    "Light Island": {
+      "common": {
+        "pair": [
+          "Gob",
+          "Mammott"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      }
+    }
+  }
+}
