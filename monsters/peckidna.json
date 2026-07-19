@@ -1,0 +1,13 @@
+{
+  "name": "Peckidna",
+  "class": "Magical",
+  "elements": [
+    "Earth",
+    "Bone"
+  ],
+  "variants": [
+    "Rare Peckidna",
+    "Epic Peckidna"
+  ],
+  "breeding": {}
+}

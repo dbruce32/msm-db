@@ -1,0 +1,13 @@
+{
+  "name": "Jam Boree",
+  "class": "Seasonal",
+  "subclass": "Aux.",
+  "elements": [
+    "Anniversary Month"
+  ],
+  "variants": [
+    "Rare Jam Boree",
+    "Epic Jam Boree"
+  ],
+  "breeding": {}
+}

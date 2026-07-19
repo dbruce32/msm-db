@@ -1,0 +1,34 @@
+{
+  "name": "Entbrat",
+  "class": "Natural",
+  "elements": [
+    "Plant",
+    "Earth",
+    "Water",
+    "Cold"
+  ],
+  "variants": [
+    "Rare Entbrat",
+    "Epic Entbrat"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": {
+        "pair": [
+          "Bowgart",
+          "Noggin"
+        ],
+        "time": "1d",
+        "enhanced_time": "18h"
+      },
+      "epic": {
+        "pair": [
+          "T-Rox",
+          "Shrubb"
+        ],
+        "time": "1d 21h",
+        "enhanced_time": "1d 9h 45m"
+      }
+    }
+  }
+}

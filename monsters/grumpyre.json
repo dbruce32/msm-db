@@ -1,0 +1,31 @@
+{
+  "name": "Grumpyre",
+  "class": "Ethereal",
+  "elements": [
+    "Shadow"
+  ],
+  "variants": [
+    "Rare Grumpyre",
+    "Epic Grumpyre"
+  ],
+  "breeding": {
+    "Cold Island": {
+      "common": {
+        "pair": [
+          "Deedge",
+          "Any Triple"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      },
+      "epic": {
+        "pair": [
+          "Bowgart",
+          "Dandidoo"
+        ],
+        "time": "1d 4h",
+        "enhanced_time": "21h"
+      }
+    }
+  }
+}

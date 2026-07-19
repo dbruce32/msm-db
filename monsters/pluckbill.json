@@ -1,0 +1,12 @@
+{
+  "name": "Pluckbill",
+  "class": "Magical",
+  "elements": [
+    "Fire",
+    "Light"
+  ],
+  "variants": [
+    "Rare Pluckbill"
+  ],
+  "breeding": {}
+}

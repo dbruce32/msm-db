@@ -1,0 +1,14 @@
+{
+  "name": "Plinkajou",
+  "class": "Magical",
+  "elements": [
+    "Earth",
+    "Water",
+    "Fire",
+    "Bone"
+  ],
+  "variants": [
+    "Rare Plinkajou"
+  ],
+  "breeding": {}
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Toe Jammer",
+  "class": "Natural",
+  "elements": [
+    "Water"
+  ],
+  "variants": [
+    "Rare Toe Jammer",
+    "Epic Toe Jammer"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": null,
+      "rare": {
+        "pair": [
+          "Any Water Triple",
+          "Any Water Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Entbrat",
+          "Oaktopus"
+        ],
+        "time": "3h",
+        "enhanced_time": "2h 15m"
+      }
+    },
+    "Air Island": {
+      "epic": {
+        "pair": [
+          "Riff",
+          "Maw"
+        ],
+        "time": "3h",
+        "enhanced_time": "2h 15m"
+      }
+    },
+    "Water Island": {
+      "epic": {
+        "pair": [
+          "Shellbeat",
+          "Fwog"
+        ],
+        "time": "3h",
+        "enhanced_time": "2h 15m"
+      }
+    },
+    "Cold Island": {
+      "epic": {
+        "pair": [
+          "Deedge",
+          "Quibble"
+        ],
+        "time": "3h",
+        "enhanced_time": "2h 15m"
+      }
+    }
+  }
+}

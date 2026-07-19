@@ -1,0 +1,13 @@
+{
+  "name": "Flowah",
+  "class": "Fire",
+  "elements": [
+    "Plant",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Flowah",
+    "Epic Flowah"
+  ],
+  "breeding": {}
+}

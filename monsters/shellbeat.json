@@ -1,0 +1,34 @@
+{
+  "name": "Shellbeat",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Plant",
+    "Earth",
+    "Water"
+  ],
+  "variants": [
+    "Rare Shellbeat",
+    "Epic Shellbeat"
+  ],
+  "breeding": {
+    "Water Island": {
+      "common": {
+        "pair": [
+          "Spunge",
+          "Noggin"
+        ],
+        "time": "1d",
+        "enhanced_time": "18h"
+      },
+      "epic": {
+        "pair": [
+          "Spunge",
+          "Cybop"
+        ],
+        "time": "1d 19h",
+        "enhanced_time": "1d 8h 15m"
+      }
+    }
+  }
+}

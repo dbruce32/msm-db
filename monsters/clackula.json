@@ -1,0 +1,12 @@
+{
+  "name": "Clackula",
+  "class": "Magical",
+  "elements": [
+    "Bone"
+  ],
+  "variants": [
+    "Rare Clackula",
+    "Epic Clackula"
+  ],
+  "breeding": {}
+}

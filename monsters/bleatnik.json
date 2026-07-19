@@ -1,0 +1,13 @@
+{
+  "name": "Bleatnik",
+  "class": "Mythical",
+  "elements": [
+    "Dream",
+    "Mythical"
+  ],
+  "variants": [
+    "Rare Bleatnik",
+    "Epic Bleatnik"
+  ],
+  "breeding": {}
+}

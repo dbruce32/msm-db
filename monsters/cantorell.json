@@ -1,0 +1,14 @@
+{
+  "name": "Cantorell",
+  "class": "Magical",
+  "elements": [
+    "Earth",
+    "Cold",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Cantorell",
+    "Epic Cantorell"
+  ],
+  "breeding": {}
+}

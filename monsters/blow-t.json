@@ -1,0 +1,14 @@
+{
+  "name": "Blow't",
+  "class": "Magical",
+  "elements": [
+    "Plant",
+    "Cold",
+    "Fire",
+    "Light"
+  ],
+  "variants": [
+    "Rare Blow't"
+  ],
+  "breeding": {}
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gaddzooks",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Mech",
+    "Crystal"
+  ],
+  "variants": [
+    "Rare Gaddzooks"
+  ],
+  "breeding": {}
+}

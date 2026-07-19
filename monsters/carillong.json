@@ -1,0 +1,13 @@
+{
+  "name": "Carillong",
+  "class": "Seasonal",
+  "subclass": "Aux.",
+  "elements": [
+    "Crescendo Moon"
+  ],
+  "variants": [
+    "Rare Carillong",
+    "Epic Carillong"
+  ],
+  "breeding": {}
+}

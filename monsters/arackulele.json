@@ -1,0 +1,13 @@
+{
+  "name": "Arackulele",
+  "class": "Ethereal",
+  "elements": [
+    "Shadow",
+    "Mech"
+  ],
+  "variants": [
+    "Rare Arackulele",
+    "Epic Arackulele"
+  ],
+  "breeding": {}
+}

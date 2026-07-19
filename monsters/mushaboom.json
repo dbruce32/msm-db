@@ -1,0 +1,13 @@
+{
+  "name": "Mushaboom",
+  "class": "Magical",
+  "elements": [
+    "Bone",
+    "Light",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Mushaboom"
+  ],
+  "breeding": {}
+}

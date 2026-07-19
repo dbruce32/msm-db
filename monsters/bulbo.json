@@ -1,0 +1,12 @@
+{
+  "name": "Bulbo",
+  "class": "Magical",
+  "elements": [
+    "Cold",
+    "Light"
+  ],
+  "variants": [
+    "Rare Bulbo"
+  ],
+  "breeding": {}
+}

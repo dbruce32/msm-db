@@ -1,0 +1,68 @@
+{
+  "name": "Quibble",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Water"
+  ],
+  "variants": [
+    "Rare Quibble",
+    "Epic Quibble"
+  ],
+  "breeding": {
+    "Air Island": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Toe Jammer"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Scups",
+          "Maw"
+        ],
+        "time": "21h",
+        "enhanced_time": "15h 45m"
+      }
+    },
+    "Water Island": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Toe Jammer"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Spunge",
+          "Shrubb"
+        ],
+        "time": "21h",
+        "enhanced_time": "15h 45m"
+      }
+    },
+    "Cold Island": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Toe Jammer"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Congle",
+          "Dandidoo"
+        ],
+        "time": "21h",
+        "enhanced_time": "15h 45m"
+      }
+    }
+  }
+}

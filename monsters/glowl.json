@@ -1,0 +1,13 @@
+{
+  "name": "Glowl",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Glowl",
+    "Epic Glowl"
+  ],
+  "breeding": {}
+}

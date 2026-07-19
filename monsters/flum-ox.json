@@ -1,0 +1,15 @@
+{
+  "name": "Flum Ox",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Earth",
+    "Water",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Flum Ox",
+    "Epic Flum Ox"
+  ],
+  "breeding": {}
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tapricorn",
+  "class": "Magical",
+  "elements": [
+    "Plant",
+    "Water",
+    "Psychic"
+  ],
+  "variants": [
+    "Rare Tapricorn"
+  ],
+  "breeding": {}
+}

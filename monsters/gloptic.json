@@ -1,0 +1,14 @@
+{
+  "name": "Gloptic",
+  "class": "Magical",
+  "elements": [
+    "Plant",
+    "Water",
+    "Fire",
+    "Psychic"
+  ],
+  "variants": [
+    "Rare Gloptic"
+  ],
+  "breeding": {}
+}

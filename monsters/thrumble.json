@@ -1,0 +1,14 @@
+{
+  "name": "Thrumble",
+  "class": "Fire",
+  "elements": [
+    "Earth",
+    "Water",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Thrumble",
+    "Epic Thrumble"
+  ],
+  "breeding": {}
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Whiz-bang",
+  "class": "Seasonal",
+  "subclass": "Aux.",
+  "elements": [
+    "SkyPainting"
+  ],
+  "variants": [
+    "Rare Whiz-bang",
+    "Epic Whiz-bang"
+  ],
+  "breeding": {}
+}

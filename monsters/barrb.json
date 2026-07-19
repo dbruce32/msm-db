@@ -1,0 +1,14 @@
+{
+  "name": "Barrb",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Plant",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Barrb",
+    "Epic Barrb"
+  ],
+  "breeding": {}
+}

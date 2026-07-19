@@ -1,0 +1,14 @@
+{
+  "name": "Floogull",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Earth",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Floogull",
+    "Epic Floogull"
+  ],
+  "breeding": {}
+}

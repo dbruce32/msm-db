@@ -1,0 +1,13 @@
+{
+  "name": "Boodoo",
+  "class": "Ethereal",
+  "elements": [
+    "Shadow",
+    "Crystal"
+  ],
+  "variants": [
+    "Rare Boodoo",
+    "Epic Boodoo"
+  ],
+  "breeding": {}
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gobbleygourd",
+  "class": "Seasonal",
+  "subclass": "Aux.",
+  "elements": [
+    "Feast-Ember"
+  ],
+  "variants": [
+    "Rare Gobbleygourd",
+    "Epic Gobbleygourd"
+  ],
+  "breeding": {}
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Gob",
+  "class": "Magical",
+  "elements": [
+    "Plant",
+    "Light"
+  ],
+  "variants": [
+    "Rare Gob"
+  ],
+  "breeding": {}
+}

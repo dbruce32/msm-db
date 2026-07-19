@@ -1,0 +1,15 @@
+{
+  "name": "Incisaur",
+  "class": "Fire",
+  "elements": [
+    "Plant",
+    "Water",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Incisaur",
+    "Epic Incisaur"
+  ],
+  "breeding": {}
+}

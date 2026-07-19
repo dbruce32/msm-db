@@ -1,0 +1,13 @@
+{
+  "name": "Monculus",
+  "class": "Seasonal",
+  "subclass": "Aux.",
+  "elements": [
+    "Life-Formula"
+  ],
+  "variants": [
+    "Rare Monculus",
+    "Epic Monculus"
+  ],
+  "breeding": {}
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Spunge",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Plant",
+    "Water"
+  ],
+  "variants": [
+    "Rare Spunge",
+    "Epic Spunge"
+  ],
+  "breeding": {
+    "Water Island": {
+      "common": {
+        "pair": [
+          "Dandidoo",
+          "Toe Jammer"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Scups",
+          "Oaktopus"
+        ],
+        "time": "1d 1h",
+        "enhanced_time": "18h 45m"
+      }
+    },
+    "Cold Island": {
+      "common": {
+        "pair": [
+          "Dandidoo",
+          "Toe Jammer"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Thumpies",
+          "Quibble"
+        ],
+        "time": "1d 1h",
+        "enhanced_time": "18h 45m"
+      }
+    }
+  }
+}

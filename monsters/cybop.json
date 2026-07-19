@@ -1,0 +1,68 @@
+{
+  "name": "Cybop",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Earth"
+  ],
+  "variants": [
+    "Rare Cybop",
+    "Epic Cybop"
+  ],
+  "breeding": {
+    "Air Island": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Congle",
+          "Drumpler"
+        ],
+        "time": "23h",
+        "enhanced_time": "17h 15m"
+      }
+    },
+    "Earth Island": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "PomPom",
+          "Shrubb"
+        ],
+        "time": "23h",
+        "enhanced_time": "17h 15m"
+      }
+    },
+    "Water Island": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Scups",
+          "Dandidoo"
+        ],
+        "time": "23h",
+        "enhanced_time": "17h 15m"
+      }
+    }
+  }
+}

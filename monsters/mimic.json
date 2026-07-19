@@ -1,0 +1,16 @@
+{
+  "name": "Mimic",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Plant",
+    "Earth",
+    "Water",
+    "Cold"
+  ],
+  "variants": [
+    "Rare Mimic",
+    "Epic Mimic"
+  ],
+  "breeding": {}
+}

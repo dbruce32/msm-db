@@ -1,0 +1,12 @@
+{
+  "name": "Floot Fly",
+  "class": "Magical",
+  "elements": [
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Floot Fly",
+    "Epic Floot Fly"
+  ],
+  "breeding": {}
+}

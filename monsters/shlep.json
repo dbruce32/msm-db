@@ -1,0 +1,13 @@
+{
+  "name": "shLep",
+  "class": "Mythical",
+  "elements": [
+    "Dream",
+    "Mythical"
+  ],
+  "variants": [
+    "Rare shLep",
+    "Epic shLep"
+  ],
+  "breeding": {}
+}

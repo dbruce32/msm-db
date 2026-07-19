@@ -1,0 +1,51 @@
+{
+  "name": "Scups",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Earth",
+    "Water"
+  ],
+  "variants": [
+    "Rare Scups",
+    "Epic Scups"
+  ],
+  "breeding": {
+    "Air Island": {
+      "common": {
+        "pair": [
+          "Quibble",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "PomPom",
+          "Maw"
+        ],
+        "time": "1d 13h",
+        "enhanced_time": "1d 3h 45m"
+      }
+    },
+    "Water Island": {
+      "common": {
+        "pair": [
+          "Quibble",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Pummel",
+          "Dandidoo"
+        ],
+        "time": "1d 13h",
+        "enhanced_time": "1d 3h 45m"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Kazilleon",
+  "class": "Ethereal",
+  "elements": [
+    "Shadow",
+    "Poison"
+  ],
+  "variants": [
+    "Rare Kazilleon",
+    "Epic Kazilleon"
+  ],
+  "breeding": {}
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Gnarls",
+  "class": "Fire",
+  "elements": [
+    "Plant",
+    "Earth",
+    "Water",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Gnarls",
+    "Epic Gnarls"
+  ],
+  "breeding": {}
+}

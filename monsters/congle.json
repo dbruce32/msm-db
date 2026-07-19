@@ -1,0 +1,51 @@
+{
+  "name": "Congle",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Water",
+    "Cold"
+  ],
+  "variants": [
+    "Rare Congle",
+    "Epic Congle"
+  ],
+  "breeding": {
+    "Air Island": {
+      "common": {
+        "pair": [
+          "Pango",
+          "Toe Jammer"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Scups",
+          "Drumpler"
+        ],
+        "time": "23h",
+        "enhanced_time": "17h 15m"
+      }
+    },
+    "Cold Island": {
+      "common": {
+        "pair": [
+          "Pango",
+          "Toe Jammer"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Thumpies",
+          "Maw"
+        ],
+        "time": "23h",
+        "enhanced_time": "17h 15m"
+      }
+    }
+  }
+}

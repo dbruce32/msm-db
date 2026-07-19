@@ -1,0 +1,50 @@
+{
+  "name": "Hoola",
+  "class": "Seasonal",
+  "subclass": "Core",
+  "elements": [
+    "SummerSong"
+  ],
+  "variants": [
+    "Rare Hoola",
+    "Epic Hoola"
+  ],
+  "breeding": {
+    "Air Island": {
+      "common": {
+        "pair": [
+          "PomPom",
+          "Pango"
+        ],
+        "time": "1d 1h",
+        "enhanced_time": "18h 45m"
+      },
+      "epic": {
+        "pair": [
+          "Riff",
+          "Fwog"
+        ],
+        "time": "21h 20m",
+        "enhanced_time": "16h"
+      }
+    },
+    "Earth Island": {
+      "common": {
+        "pair": [
+          "PomPom",
+          "Pango"
+        ],
+        "time": "1d 1h",
+        "enhanced_time": "18h 45m"
+      },
+      "epic": {
+        "pair": [
+          "Quarrister",
+          "Dandidoo"
+        ],
+        "time": "21h 20m",
+        "enhanced_time": "16h"
+      }
+    }
+  }
+}

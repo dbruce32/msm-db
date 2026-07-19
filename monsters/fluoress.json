@@ -1,0 +1,12 @@
+{
+  "name": "Fluoress",
+  "class": "Magical",
+  "elements": [
+    "Light"
+  ],
+  "variants": [
+    "Rare Fluoress",
+    "Epic Fluoress"
+  ],
+  "breeding": {}
+}

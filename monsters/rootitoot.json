@@ -1,0 +1,14 @@
+{
+  "name": "Rootitoot",
+  "class": "Fire",
+  "elements": [
+    "Plant",
+    "Water",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Rootitoot",
+    "Epic Rootitoot"
+  ],
+  "breeding": {}
+}

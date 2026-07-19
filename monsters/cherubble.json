@@ -1,0 +1,12 @@
+{
+  "name": "Cherubble",
+  "class": "Mythical",
+  "elements": [
+    "Mythical"
+  ],
+  "variants": [
+    "Rare Cherubble",
+    "Epic Cherubble"
+  ],
+  "breeding": {}
+}

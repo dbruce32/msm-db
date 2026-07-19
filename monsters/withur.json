@@ -1,0 +1,13 @@
+{
+  "name": "Withur",
+  "class": "Magical",
+  "elements": [
+    "Earth",
+    "Water",
+    "Bone"
+  ],
+  "variants": [
+    "Rare Withur"
+  ],
+  "breeding": {}
+}

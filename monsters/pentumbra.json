@@ -1,0 +1,12 @@
+{
+  "name": "Pentumbra",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Shadow",
+    "Crystal",
+    "Poison"
+  ],
+  "variants": [],
+  "breeding": {}
+}

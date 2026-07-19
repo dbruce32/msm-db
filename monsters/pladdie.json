@@ -1,0 +1,14 @@
+{
+  "name": "Pladdie",
+  "class": "Magical",
+  "elements": [
+    "Earth",
+    "Cold",
+    "Fire",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Pladdie"
+  ],
+  "breeding": {}
+}

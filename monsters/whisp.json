@@ -1,0 +1,13 @@
+{
+  "name": "Whisp",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Shadow"
+  ],
+  "variants": [
+    "Rare Whisp",
+    "Epic Whisp"
+  ],
+  "breeding": {}
+}

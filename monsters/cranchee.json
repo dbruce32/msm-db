@@ -1,0 +1,13 @@
+{
+  "name": "Cranchee",
+  "class": "Mythical",
+  "elements": [
+    "Dream",
+    "Mythical"
+  ],
+  "variants": [
+    "Rare Cranchee",
+    "Epic Cranchee"
+  ],
+  "breeding": {}
+}

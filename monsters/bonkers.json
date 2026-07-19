@@ -1,0 +1,12 @@
+{
+  "name": "Bonkers",
+  "class": "Magical",
+  "elements": [
+    "Plant",
+    "Psychic"
+  ],
+  "variants": [
+    "Rare Bonkers"
+  ],
+  "breeding": {}
+}

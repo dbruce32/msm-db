@@ -1,0 +1,14 @@
+{
+  "name": "Ziggurab",
+  "class": "Fire",
+  "elements": [
+    "Earth",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Ziggurab",
+    "Epic Ziggurab"
+  ],
+  "breeding": {}
+}

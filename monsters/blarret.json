@@ -1,0 +1,13 @@
+{
+  "name": "Blarret",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Shadow",
+    "Poison"
+  ],
+  "variants": [
+    "Rare Blarret"
+  ],
+  "breeding": {}
+}

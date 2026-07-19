@@ -1,0 +1,13 @@
+{
+  "name": "Stogg",
+  "class": "Fire",
+  "elements": [
+    "Earth",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Stogg",
+    "Epic Stogg"
+  ],
+  "breeding": {}
+}

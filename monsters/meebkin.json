@@ -1,0 +1,13 @@
+{
+  "name": "Meebkin",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Shadow",
+    "Crystal"
+  ],
+  "variants": [
+    "Rare Meebkin"
+  ],
+  "breeding": {}
+}

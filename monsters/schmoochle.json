@@ -1,0 +1,32 @@
+{
+  "name": "Schmoochle",
+  "class": "Seasonal",
+  "subclass": "Core",
+  "elements": [
+    "Season of Love"
+  ],
+  "variants": [
+    "Rare Schmoochle",
+    "Epic Schmoochle"
+  ],
+  "breeding": {
+    "Air Island": {
+      "common": {
+        "pair": [
+          "Riff",
+          "Tweedle"
+        ],
+        "time": "1d 7h 6m 30s",
+        "enhanced_time": "23h 19m 52s"
+      },
+      "epic": {
+        "pair": [
+          "Riff",
+          "Quibble"
+        ],
+        "time": "22h 14m",
+        "enhanced_time": "16h 40m 30s"
+      }
+    }
+  }
+}

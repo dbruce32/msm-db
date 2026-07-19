@@ -1,0 +1,15 @@
+{
+  "name": "Sneyser",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Water",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Sneyser",
+    "Epic Sneyser"
+  ],
+  "breeding": {}
+}
