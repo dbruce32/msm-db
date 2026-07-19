@@ -6,7 +6,19 @@
     "Light"
   ],
   "variants": [
-    "Rare Gob"
+    "Rare Gob",
+    "Epic Gob"
   ],
-  "breeding": {}
+  "breeding": {
+    "Light Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Fluoress"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
 }

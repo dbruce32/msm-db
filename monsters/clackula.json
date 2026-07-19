@@ -8,5 +8,16 @@
     "Rare Clackula",
     "Epic Clackula"
   ],
-  "breeding": {}
+  "breeding": {
+    "Bone Island": {
+      "epic": {
+        "pair": [
+          "Plinkajou",
+          "Denchuhs"
+        ],
+        "time": "20h 6m",
+        "enhanced_time": "15h 4m 30s"
+      }
+    }
+  }
 }

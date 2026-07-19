@@ -48,6 +48,26 @@
         "time": "11h",
         "enhanced_time": "8h 15m"
       }
+    },
+    "Fire Haven": {
+      "epic": {
+        "pair": [
+          "Tring",
+          "Shrubb"
+        ],
+        "time": "11h",
+        "enhanced_time": "8h 15m"
+      }
+    },
+    "Fire Oasis": {
+      "epic": {
+        "pair": [
+          "Sneyser",
+          "Maw"
+        ],
+        "time": "11h",
+        "enhanced_time": "8h 15m"
+      }
     }
   }
 }

@@ -10,5 +10,24 @@
     "Rare Repatillo",
     "Epic Repatillo"
   ],
-  "breeding": {}
+  "breeding": {
+    "Fire Haven": {
+      "common": {
+        "pair": [
+          "Flowah",
+          "Noggin"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "epic": {
+        "pair": [
+          "Floogull",
+          "Flowah"
+        ],
+        "time": "1d 9h",
+        "enhanced_time": "1d 45m"
+      }
+    }
+  }
 }

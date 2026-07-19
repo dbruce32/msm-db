@@ -8,5 +8,66 @@
     "Rare Kayna",
     "Epic Kayna"
   ],
-  "breeding": {}
+  "breeding": {
+    "Fire Haven": {
+      "epic": {
+        "pair": [
+          "Tring",
+          "Stogg"
+        ],
+        "time": "15h",
+        "enhanced_time": "11h 15m"
+      }
+    },
+    "Fire Oasis": {
+      "epic": {
+        "pair": [
+          "Sneyser",
+          "Phangler"
+        ],
+        "time": "15h",
+        "enhanced_time": "11h 15m"
+      }
+    },
+    "Bone Island": {
+      "epic": {
+        "pair": [
+          "Plinkajou",
+          "Fwog"
+        ],
+        "time": "15h",
+        "enhanced_time": "11h 15m"
+      }
+    },
+    "Light Island": {
+      "epic": {
+        "pair": [
+          "Blow't",
+          "Furcorn"
+        ],
+        "time": "15h",
+        "enhanced_time": "11h 15m"
+      }
+    },
+    "Psychic Island": {
+      "epic": {
+        "pair": [
+          "Gloptic",
+          "Oaktopus"
+        ],
+        "time": "15h",
+        "enhanced_time": "11h 15m"
+      }
+    },
+    "Faerie Island": {
+      "epic": {
+        "pair": [
+          "Pladdie",
+          "Drumpler"
+        ],
+        "time": "15h",
+        "enhanced_time": "11h 15m"
+      }
+    }
+  }
 }

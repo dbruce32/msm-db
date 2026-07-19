@@ -12,5 +12,16 @@
     "Rare Candelavra",
     "Epic Candelavra"
   ],
-  "breeding": {}
+  "breeding": {
+    "Fire Haven": {
+      "epic": {
+        "pair": [
+          "Repatillo",
+          "Dandidoo"
+        ],
+        "time": "2d 5h",
+        "enhanced_time": "1d 15h 45m"
+      }
+    }
+  }
 }

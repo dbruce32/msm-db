@@ -57,6 +57,36 @@
         "time": "1h",
         "enhanced_time": "45m"
       }
+    },
+    "Fire Haven": {
+      "epic": {
+        "pair": [
+          "Tring",
+          "Dandidoo"
+        ],
+        "time": "1h",
+        "enhanced_time": "45m"
+      }
+    },
+    "Bone Island": {
+      "epic": {
+        "pair": [
+          "Plinkajou",
+          "Phangler"
+        ],
+        "time": "1h",
+        "enhanced_time": "45m"
+      }
+    },
+    "Faerie Island": {
+      "epic": {
+        "pair": [
+          "Pladdie",
+          "Boskus"
+        ],
+        "time": "1h",
+        "enhanced_time": "45m"
+      }
     }
   }
 }

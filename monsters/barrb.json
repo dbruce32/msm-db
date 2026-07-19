@@ -10,5 +10,24 @@
     "Rare Barrb",
     "Epic Barrb"
   ],
-  "breeding": {}
+  "breeding": {
+    "Fire Haven": {
+      "common": {
+        "pair": [
+          "Glowl",
+          "Potbelly"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "epic": {
+        "pair": [
+          "Floogull",
+          "Shrubb"
+        ],
+        "time": "1d 15h",
+        "enhanced_time": "1d 5h 15m"
+      }
+    }
+  }
 }

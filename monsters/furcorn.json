@@ -63,6 +63,34 @@
         "time": "17h",
         "enhanced_time": "12h 45m"
       }
+    },
+    "Shugabush Island": {
+      "epic": {
+        "pair": [
+          "Shugabush",
+          "Deedge"
+        ],
+        "time": "17h",
+        "enhanced_time": "12h 45m"
+      }
+    },
+    "Light Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Sooza",
+          "Pluckbill"
+        ],
+        "time": "17h",
+        "enhanced_time": "12h 45m"
+      }
     }
   }
 }

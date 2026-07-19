@@ -11,5 +11,16 @@
     "Rare Incisaur",
     "Epic Incisaur"
   ],
-  "breeding": {}
+  "breeding": {
+    "Bone Island": {
+      "epic": {
+        "pair": [
+          "Plinkajou",
+          "Clackula"
+        ],
+        "time": "1d 17h",
+        "enhanced_time": "1d 6h 45m"
+      }
+    }
+  }
 }

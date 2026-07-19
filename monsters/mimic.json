@@ -12,5 +12,16 @@
     "Rare Mimic",
     "Epic Mimic"
   ],
-  "breeding": {}
+  "breeding": {
+    "Fire Oasis": {
+      "epic": {
+        "pair": [
+          "Wynq",
+          "Glowl"
+        ],
+        "time": "1d 15h",
+        "enhanced_time": "1d 5h 15m"
+      }
+    }
+  }
 }

@@ -45,6 +45,16 @@
         "time": "21h 20m",
         "enhanced_time": "16h"
       }
+    },
+    "Seasonal Shanty": {
+      "epic": {
+        "pair": [
+          "Yool",
+          "Schmoochle"
+        ],
+        "time": "21h 20m",
+        "enhanced_time": "16h"
+      }
     }
   }
 }

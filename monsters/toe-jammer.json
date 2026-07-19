@@ -57,6 +57,36 @@
         "time": "3h",
         "enhanced_time": "2h 15m"
       }
+    },
+    "Fire Oasis": {
+      "epic": {
+        "pair": [
+          "Sneyser",
+          "Pango"
+        ],
+        "time": "3h",
+        "enhanced_time": "2h 15m"
+      }
+    },
+    "Bone Island": {
+      "epic": {
+        "pair": [
+          "Plinkajou",
+          "Stogg"
+        ],
+        "time": "3h",
+        "enhanced_time": "2h 15m"
+      }
+    },
+    "Psychic Island": {
+      "epic": {
+        "pair": [
+          "Gloptic",
+          "Flowah"
+        ],
+        "time": "3h",
+        "enhanced_time": "2h 15m"
+      }
     }
   }
 }

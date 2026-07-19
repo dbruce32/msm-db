@@ -9,5 +9,24 @@
     "Rare Boo'qwurm",
     "Epic Boo'qwurm"
   ],
-  "breeding": {}
+  "breeding": {
+    "Seasonal Shanty": {
+      "common": {
+        "pair": [
+          "Schmoochle",
+          "Hoola"
+        ],
+        "time": "1d 6m 24s",
+        "enhanced_time": "18h 4m 48s"
+      },
+      "epic": {
+        "pair": [
+          "Gobbleygourd",
+          "Clavavera"
+        ],
+        "time": "2d 4h 10m",
+        "enhanced_time": "1d 15h 7m 30s"
+      }
+    }
+  }
 }

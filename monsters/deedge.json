@@ -29,6 +29,16 @@
         "time": "1d 17h",
         "enhanced_time": "1d 6h 45m"
       }
+    },
+    "Shugabush Island": {
+      "epic": {
+        "pair": [
+          "Shugabush",
+          "Potbelly"
+        ],
+        "time": "1d 17h",
+        "enhanced_time": "1d 6h 45m"
+      }
     }
   }
 }

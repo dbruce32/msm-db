@@ -1,31 +1,15 @@
 {
   "name": "Grumpyre",
   "class": "Ethereal",
-  "elements": [
-    "Shadow"
-  ],
-  "variants": [
-    "Rare Grumpyre",
-    "Epic Grumpyre"
-  ],
+  "elements": ["Shadow"],
+  "variants": ["Rare Grumpyre", "Epic Grumpyre"],
   "breeding": {
     "Cold Island": {
-      "common": {
-        "pair": [
-          "Deedge",
-          "Any Triple"
-        ],
-        "time": "1d 12h",
-        "enhanced_time": "1d 3h"
-      },
-      "epic": {
-        "pair": [
-          "Bowgart",
-          "Dandidoo"
-        ],
-        "time": "1d 4h",
-        "enhanced_time": "21h"
-      }
+      "common": { "pair": ["Deedge", "Any Triple"], "time": "1d 12h", "enhanced_time": "1d 3h" },
+      "epic": { "pair": ["Bowgart", "Dandidoo"], "time": "1d 4h", "enhanced_time": "21h" }
+    },
+    "Ethereal Island": {
+      "epic": { "pair": ["Nebulob", "Fung Pray"], "time": "7h 46m 40s", "enhanced_time": "5h 50m" }
     }
   }
 }

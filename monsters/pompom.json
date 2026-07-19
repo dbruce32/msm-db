@@ -46,6 +46,16 @@
         "time": "1d 3h",
         "enhanced_time": "20h 15m"
       }
+    },
+    "Shugabush Island": {
+      "epic": {
+        "pair": [
+          "Shugabush",
+          "Mammott"
+        ],
+        "time": "1d 3h",
+        "enhanced_time": "20h 15m"
+      }
     }
   }
 }

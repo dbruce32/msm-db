@@ -9,5 +9,24 @@
     "Rare Jam Boree",
     "Epic Jam Boree"
   ],
-  "breeding": {}
+  "breeding": {
+    "Seasonal Shanty": {
+      "common": {
+        "pair": [
+          "Punkleton",
+          "Hoola"
+        ],
+        "time": "1d 16h 24m",
+        "enhanced_time": "1d 6h 18m"
+      },
+      "epic": {
+        "pair": [
+          "Gobbleygourd",
+          "Boo'qwurm"
+        ],
+        "time": "1d 16h 23m",
+        "enhanced_time": "1d 6h 17m 15s"
+      }
+    }
+  }
 }

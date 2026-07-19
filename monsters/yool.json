@@ -27,6 +27,16 @@
         "time": "1d 1h 12m",
         "enhanced_time": "18h 54m"
       }
+    },
+    "Seasonal Shanty": {
+      "epic": {
+        "pair": [
+          "Blabbit",
+          "Hoola"
+        ],
+        "time": "1d 1h 12m",
+        "enhanced_time": "18h 54m"
+      }
     }
   }
 }

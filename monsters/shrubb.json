@@ -63,6 +63,24 @@
         "time": "19h",
         "enhanced_time": "14h 15m"
       }
+    },
+    "Fire Haven": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Barrb",
+          "Cybop"
+        ],
+        "time": "19h",
+        "enhanced_time": "14h 15m"
+      }
     }
   }
 }

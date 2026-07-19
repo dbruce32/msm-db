@@ -2,12 +2,30 @@
   "name": "Monculus",
   "class": "Seasonal",
   "subclass": "Aux.",
-  "elements": [
-    "Life-Formula"
-  ],
-  "variants": [
-    "Rare Monculus",
-    "Epic Monculus"
-  ],
-  "breeding": {}
+  "elements": ["Life-Formula"],
+  "variants": ["Rare Monculus", "Epic Monculus"],
+  "breeding": {
+    "Ethereal Island": {
+      "common": { "pair": ["Nebulob", "Jeeode"], "time": "20h 4m", "enhanced_time": "15h 3m" },
+      "epic": { "pair": ["Whisp", "Humbug"], "time": "2d 9h 31m", "enhanced_time": "1d 19h 8m 15s" }
+    },
+    "Seasonal Shanty": {
+      "common": {
+        "pair": [
+          "Yool",
+          "Hoola"
+        ],
+        "time": "20h 4m",
+        "enhanced_time": "15h 3m"
+      },
+      "epic": {
+        "pair": [
+          "Carillong",
+          "Ffidyll"
+        ],
+        "time": "2d 9h 31m",
+        "enhanced_time": "1d 19h 8m 15s"
+      }
+    }
+  }
 }

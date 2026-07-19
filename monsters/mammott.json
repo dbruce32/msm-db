@@ -57,6 +57,46 @@
         "time": "5h",
         "enhanced_time": "3h 45m"
       }
+    },
+    "Shugabush Island": {
+      "epic": {
+        "pair": [
+          "Shugabush",
+          "Oaktopus"
+        ],
+        "time": "5h",
+        "enhanced_time": "3h 45m"
+      }
+    },
+    "Fire Oasis": {
+      "epic": {
+        "pair": [
+          "Sneyser",
+          "Quibble"
+        ],
+        "time": "5h",
+        "enhanced_time": "3h 45m"
+      }
+    },
+    "Light Island": {
+      "epic": {
+        "pair": [
+          "Blow't",
+          "Flowah"
+        ],
+        "time": "5h",
+        "enhanced_time": "3h 45m"
+      }
+    },
+    "Faerie Island": {
+      "epic": {
+        "pair": [
+          "Pladdie",
+          "Stogg"
+        ],
+        "time": "5h",
+        "enhanced_time": "3h 45m"
+      }
     }
   }
 }

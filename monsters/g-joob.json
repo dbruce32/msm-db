@@ -26,6 +26,13 @@
         "time": "1d 9h 10m",
         "enhanced_time": "1d 52m 30s"
       }
+    },
+    "Mythical Island": {
+      "epic": {
+        "pair": ["Cataliszt", "Yawstrich"],
+        "time": "1d 9h 10m",
+        "enhanced_time": "1d 52m 30s"
+      }
     }
   }
 }

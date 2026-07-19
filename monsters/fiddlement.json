@@ -7,7 +7,19 @@
     "Light"
   ],
   "variants": [
-    "Rare Fiddlement"
+    "Rare Fiddlement",
+    "Epic Fiddlement"
   ],
-  "breeding": {}
+  "breeding": {
+    "Light Island": {
+      "common": {
+        "pair": [
+          "Pluckbill",
+          "Mammott"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      }
+    }
+  }
 }

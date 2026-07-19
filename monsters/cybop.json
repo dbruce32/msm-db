@@ -63,6 +63,24 @@
         "time": "23h",
         "enhanced_time": "17h 15m"
       }
+    },
+    "Fire Haven": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Reedling",
+          "Stogg"
+        ],
+        "time": "23h",
+        "enhanced_time": "17h 15m"
+      }
     }
   }
 }

@@ -8,7 +8,19 @@
     "Light"
   ],
   "variants": [
-    "Rare Blow't"
+    "Rare Blow't",
+    "Epic Blow't"
   ],
-  "breeding": {}
+  "breeding": {
+    "Light Island": {
+      "common": {
+        "pair": [
+          "TooToo",
+          "Mammott"
+        ],
+        "time": "1d 8h",
+        "enhanced_time": "1d"
+      }
+    }
+  }
 }

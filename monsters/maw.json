@@ -63,6 +63,24 @@
         "time": "13h",
         "enhanced_time": "9h 45m"
       }
+    },
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Toe Jammer",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
+      },
+      "epic": {
+        "pair": [
+          "Whaddle",
+          "Pango"
+        ],
+        "time": "13h",
+        "enhanced_time": "9h 45m"
+      }
     }
   }
 }

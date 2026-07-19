@@ -10,5 +10,16 @@
   "variants": [
     "Rare Pladdie"
   ],
-  "breeding": {}
+  "breeding": {
+    "Faerie Island": {
+      "common": {
+        "pair": [
+          "Clavi Gnat",
+          "Noggin"
+        ],
+        "time": "1d 8h",
+        "enhanced_time": "1d"
+      }
+    }
+  }
 }

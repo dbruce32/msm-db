@@ -27,6 +27,16 @@
         "time": "22h 14m",
         "enhanced_time": "16h 40m 30s"
       }
+    },
+    "Seasonal Shanty": {
+      "epic": {
+        "pair": [
+          "Punkleton",
+          "Hoola"
+        ],
+        "time": "22h 14m",
+        "enhanced_time": "16h 40m 30s"
+      }
     }
   }
 }

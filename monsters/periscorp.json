@@ -9,5 +9,16 @@
   "variants": [
     "Rare Periscorp"
   ],
-  "breeding": {}
+  "breeding": {
+    "Psychic Island": {
+      "common": {
+        "pair": [
+          "Yuggler",
+          "Toe Jammer"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      }
+    }
+  }
 }
