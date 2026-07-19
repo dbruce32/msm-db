@@ -1,0 +1,33 @@
+{
+  "name": "Whaddle",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Water",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Whaddle",
+    "Epic Whaddle"
+  ],
+  "breeding": {
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Glowl",
+          "Toe Jammer"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "epic": {
+        "pair": [
+          "Congle",
+          "Phangler"
+        ],
+        "time": "1d 1h",
+        "enhanced_time": "18h 45m"
+      }
+    }
+  }
+}

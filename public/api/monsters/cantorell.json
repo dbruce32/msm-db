@@ -1,0 +1,33 @@
+{
+  "name": "Cantorell",
+  "class": "Magical",
+  "elements": [
+    "Earth",
+    "Cold",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Cantorell",
+    "Epic Cantorell"
+  ],
+  "breeding": {
+    "Faerie Island": {
+      "common": {
+        "pair": [
+          "Squot",
+          "Noggin"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      },
+      "epic": {
+        "pair": [
+          "Clavi Gnat",
+          "HippityHop"
+        ],
+        "time": "2d 12h 32m",
+        "enhanced_time": "1d 21h 24m"
+      }
+    }
+  }
+}

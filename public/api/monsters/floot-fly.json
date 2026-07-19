@@ -1,0 +1,23 @@
+{
+  "name": "Floot Fly",
+  "class": "Magical",
+  "elements": [
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Floot Fly",
+    "Epic Floot Fly"
+  ],
+  "breeding": {
+    "Faerie Island": {
+      "epic": {
+        "pair": [
+          "Pladdie",
+          "Squot"
+        ],
+        "time": "19h 56m",
+        "enhanced_time": "14h 57m"
+      }
+    }
+  }
+}

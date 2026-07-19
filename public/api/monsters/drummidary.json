@@ -1,0 +1,16 @@
+{
+  "name": "Drummidary",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Plant",
+    "Earth",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Drummidary",
+    "Epic Drummidary"
+  ],
+  "breeding": {}
+}

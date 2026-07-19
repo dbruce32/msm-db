@@ -1,0 +1,41 @@
+{
+  "name": "Buzzinga",
+  "class": "Mythical",
+  "elements": [
+    "Mythical"
+  ],
+  "variants": [
+    "Rare Buzzinga",
+    "Epic Buzzinga"
+  ],
+  "breeding": {
+    "Mythical Island": {
+      "epic": {
+        "pair": [
+          "Cataliszt",
+          "Anglow"
+        ],
+        "time": "1d 6h 34m",
+        "enhanced_time": "22h 55m 30s"
+      }
+    },
+    "Fire Haven": {
+      "common": {
+        "pair": [
+          "Reedling",
+          "Barrb"
+        ],
+        "time": "23h",
+        "enhanced_time": "17h 15m"
+      },
+      "epic": {
+        "pair": [
+          "Tring",
+          "Glowl"
+        ],
+        "time": "1d 6h 34m",
+        "enhanced_time": "22h 55m 30s"
+      }
+    }
+  }
+}

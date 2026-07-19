@@ -1,0 +1,68 @@
+{
+  "name": "Stogg",
+  "class": "Fire",
+  "elements": [
+    "Earth",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Stogg",
+    "Epic Stogg"
+  ],
+  "breeding": {
+    "Fire Haven": {
+      "common": {
+        "pair": [
+          "Noggin",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Repatillo",
+          "Glowl"
+        ],
+        "time": "1d 5h",
+        "enhanced_time": "21h 45m"
+      }
+    },
+    "Bone Island": {
+      "common": {
+        "pair": [
+          "Noggin",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Withur",
+          "Phangler"
+        ],
+        "time": "1d 5h",
+        "enhanced_time": "21h 45m"
+      }
+    },
+    "Faerie Island": {
+      "common": {
+        "pair": [
+          "Noggin",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Bridg-it",
+          "Squot"
+        ],
+        "time": "1d 5h",
+        "enhanced_time": "21h 45m"
+      }
+    }
+  }
+}

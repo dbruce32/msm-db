@@ -1,0 +1,24 @@
+{
+  "name": "Banjaw",
+  "class": "Magical",
+  "elements": [
+    "Water",
+    "Fire",
+    "Bone"
+  ],
+  "variants": [
+    "Rare Banjaw"
+  ],
+  "breeding": {
+    "Bone Island": {
+      "common": {
+        "pair": [
+          "Hawlo",
+          "Toe Jammer"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      }
+    }
+  }
+}

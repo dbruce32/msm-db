@@ -1,0 +1,32 @@
+{
+  "name": "Kazilleon",
+  "class": "Ethereal",
+  "elements": [
+    "Shadow",
+    "Poison"
+  ],
+  "variants": [
+    "Rare Kazilleon",
+    "Epic Kazilleon"
+  ],
+  "breeding": {
+    "Ethereal Island": {
+      "common": {
+        "pair": [
+          "Grumpyre",
+          "Humbug"
+        ],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Sox",
+          "Arackulele"
+        ],
+        "time": "1d 14h",
+        "enhanced_time": "1d 4h 30m"
+      }
+    }
+  }
+}

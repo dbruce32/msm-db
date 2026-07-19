@@ -1,0 +1,102 @@
+{
+  "name": "Potbelly",
+  "class": "Natural",
+  "elements": [
+    "Plant"
+  ],
+  "variants": [
+    "Rare Potbelly",
+    "Epic Potbelly"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": null,
+      "rare": {
+        "pair": [
+          "Any Plant Triple",
+          "Any Plant Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Entbrat",
+          "Shrubb"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    },
+    "Earth Island": {
+      "epic": {
+        "pair": [
+          "Quarrister",
+          "Furcorn"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    },
+    "Water Island": {
+      "epic": {
+        "pair": [
+          "Shellbeat",
+          "Dandidoo"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    },
+    "Cold Island": {
+      "epic": {
+        "pair": [
+          "Deedge",
+          "Oaktopus"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    },
+    "Shugabush Island": {
+      "epic": {
+        "pair": [
+          "Shugabush",
+          "Furcorn"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    },
+    "Fire Haven": {
+      "epic": {
+        "pair": [
+          "Tring",
+          "Cybop"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    },
+    "Light Island": {
+      "epic": {
+        "pair": [
+          "Blow't",
+          "Boskus"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    },
+    "Psychic Island": {
+      "epic": {
+        "pair": [
+          "Gloptic",
+          "Phangler"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
+}

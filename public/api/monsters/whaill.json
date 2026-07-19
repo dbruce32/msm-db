@@ -1,0 +1,14 @@
+{
+  "name": "Whaill",
+  "class": "Ethereal",
+  "elements": [
+    "Plasma",
+    "Shadow",
+    "Mech",
+    "Crystal"
+  ],
+  "variants": [
+    "Rare Whaill"
+  ],
+  "breeding": {}
+}

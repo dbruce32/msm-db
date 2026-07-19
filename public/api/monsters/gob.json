@@ -1,0 +1,24 @@
+{
+  "name": "Gob",
+  "class": "Magical",
+  "elements": [
+    "Plant",
+    "Light"
+  ],
+  "variants": [
+    "Rare Gob",
+    "Epic Gob"
+  ],
+  "breeding": {
+    "Light Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Fluoress"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
+}

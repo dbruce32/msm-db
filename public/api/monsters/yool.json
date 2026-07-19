@@ -1,0 +1,42 @@
+{
+  "name": "Yool",
+  "class": "Seasonal",
+  "subclass": "Core",
+  "elements": [
+    "Festival of Yay"
+  ],
+  "variants": [
+    "Rare Yool",
+    "Epic Yool"
+  ],
+  "breeding": {
+    "Cold Island": {
+      "common": {
+        "pair": [
+          "Thumpies",
+          "Congle"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      },
+      "epic": {
+        "pair": [
+          "Deedge",
+          "Pango"
+        ],
+        "time": "1d 1h 12m",
+        "enhanced_time": "18h 54m"
+      }
+    },
+    "Seasonal Shanty": {
+      "epic": {
+        "pair": [
+          "Blabbit",
+          "Hoola"
+        ],
+        "time": "1d 1h 12m",
+        "enhanced_time": "18h 54m"
+      }
+    }
+  }
+}

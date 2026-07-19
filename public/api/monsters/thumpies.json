@@ -1,0 +1,51 @@
+{
+  "name": "Thumpies",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Plant",
+    "Cold"
+  ],
+  "variants": [
+    "Rare Thumpies",
+    "Epic Thumpies"
+  ],
+  "breeding": {
+    "Earth Island": {
+      "common": {
+        "pair": [
+          "Dandidoo",
+          "Mammott"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Reedling",
+          "Pango"
+        ],
+        "time": "1d 9h",
+        "enhanced_time": "1d 45m"
+      }
+    },
+    "Cold Island": {
+      "common": {
+        "pair": [
+          "Dandidoo",
+          "Mammott"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Congle",
+          "Oaktopus"
+        ],
+        "time": "1d 9h",
+        "enhanced_time": "1d 45m"
+      }
+    }
+  }
+}

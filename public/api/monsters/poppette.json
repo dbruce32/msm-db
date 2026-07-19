@@ -1,0 +1,23 @@
+{
+  "name": "Poppette",
+  "class": "Magical",
+  "elements": [
+    "Water",
+    "Psychic"
+  ],
+  "variants": [
+    "Rare Poppette"
+  ],
+  "breeding": {
+    "Psychic Island": {
+      "common": {
+        "pair": [
+          "Toe Jammer",
+          "Theremind"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Pluckbill",
+  "class": "Magical",
+  "elements": [
+    "Fire",
+    "Light"
+  ],
+  "variants": [
+    "Rare Pluckbill",
+    "Epic Pluckbill"
+  ],
+  "breeding": {
+    "Light Island": {
+      "common": {
+        "pair": [
+          "Kayna",
+          "Fluoress"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
+}

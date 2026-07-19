@@ -1,0 +1,61 @@
+{
+  "name": "PomPom",
+  "class": "Natural",
+  "elements": [
+    "Air",
+    "Earth",
+    "Cold"
+  ],
+  "variants": [
+    "Rare PomPom",
+    "Epic PomPom"
+  ],
+  "breeding": {
+    "Air Island": {
+      "common": {
+        "pair": [
+          "Pango",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "T-Rox",
+          "Cybop"
+        ],
+        "time": "1d 3h",
+        "enhanced_time": "20h 15m"
+      }
+    },
+    "Earth Island": {
+      "common": {
+        "pair": [
+          "Pango",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Reedling",
+          "Drumpler"
+        ],
+        "time": "1d 3h",
+        "enhanced_time": "20h 15m"
+      }
+    },
+    "Shugabush Island": {
+      "epic": {
+        "pair": [
+          "Shugabush",
+          "Mammott"
+        ],
+        "time": "1d 3h",
+        "enhanced_time": "20h 15m"
+      }
+    }
+  }
+}

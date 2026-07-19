@@ -1,0 +1,68 @@
+{
+  "name": "Gobbleygourd",
+  "class": "Seasonal",
+  "subclass": "Aux.",
+  "elements": [
+    "Feast-Ember"
+  ],
+  "variants": [
+    "Rare Gobbleygourd",
+    "Epic Gobbleygourd"
+  ],
+  "breeding": {
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Glowl",
+          "Kayna"
+        ],
+        "time": "21h",
+        "enhanced_time": "15h 45m"
+      },
+      "epic": {
+        "pair": [
+          "Sneyser",
+          "Boskus"
+        ],
+        "time": "1d 3h 11m",
+        "enhanced_time": "20h 23m 15s"
+      }
+    },
+    "Fire Haven": {
+      "common": {
+        "pair": [
+          "Glowl",
+          "Kayna"
+        ],
+        "time": "21h",
+        "enhanced_time": "15h 45m"
+      },
+      "epic": {
+        "pair": [
+          "Tring",
+          "Flowah"
+        ],
+        "time": "1d 3h 11m",
+        "enhanced_time": "20h 23m 15s"
+      }
+    },
+    "Seasonal Shanty": {
+      "common": {
+        "pair": [
+          "Punkleton",
+          "Yool"
+        ],
+        "time": "21h",
+        "enhanced_time": "15h 45m"
+      },
+      "epic": {
+        "pair": [
+          "Clavavera",
+          "Jam Boree"
+        ],
+        "time": "1d 3h 11m",
+        "enhanced_time": "20h 23m 15s"
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Maw",
+  "class": "Natural",
+  "elements": [
+    "Water",
+    "Cold"
+  ],
+  "variants": [
+    "Rare Maw",
+    "Epic Maw"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": {
+        "pair": [
+          "Toe Jammer",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
+      },
+      "epic": {
+        "pair": [
+          "Bowgart",
+          "Drumpler"
+        ],
+        "time": "13h",
+        "enhanced_time": "9h 45m"
+      }
+    },
+    "Air Island": {
+      "common": {
+        "pair": [
+          "Toe Jammer",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
+      },
+      "epic": {
+        "pair": [
+          "T-Rox",
+          "Quibble"
+        ],
+        "time": "13h",
+        "enhanced_time": "9h 45m"
+      }
+    },
+    "Cold Island": {
+      "common": {
+        "pair": [
+          "Toe Jammer",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
+      },
+      "epic": {
+        "pair": [
+          "Spunge",
+          "Furcorn"
+        ],
+        "time": "13h",
+        "enhanced_time": "9h 45m"
+      }
+    },
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Toe Jammer",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
+      },
+      "epic": {
+        "pair": [
+          "Whaddle",
+          "Pango"
+        ],
+        "time": "13h",
+        "enhanced_time": "9h 45m"
+      }
+    }
+  }
+}

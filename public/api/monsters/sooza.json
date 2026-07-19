@@ -1,0 +1,33 @@
+{
+  "name": "Sooza",
+  "class": "Fire",
+  "elements": [
+    "Plant",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Sooza",
+    "Epic Sooza"
+  ],
+  "breeding": {
+    "Light Island": {
+      "common": {
+        "pair": [
+          "Flowah",
+          "Mammott"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "epic": {
+        "pair": [
+          "TooToo",
+          "Boskus"
+        ],
+        "time": "1d 3h",
+        "enhanced_time": "20h 15m"
+      }
+    }
+  }
+}

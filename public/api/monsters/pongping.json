@@ -1,0 +1,15 @@
+{
+  "name": "PongPing",
+  "class": "Fire",
+  "elements": [
+    "Plant",
+    "Earth",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare PongPing",
+    "Epic PongPing"
+  ],
+  "breeding": {}
+}

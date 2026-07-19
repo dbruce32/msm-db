@@ -1,0 +1,33 @@
+{
+  "name": "Wynq",
+  "class": "Fire",
+  "elements": [
+    "Water",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Wynq",
+    "Epic Wynq"
+  ],
+  "breeding": {
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Boskus",
+          "Toe Jammer"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "epic": {
+        "pair": [
+          "Congle",
+          "Boskus"
+        ],
+        "time": "1d 5h",
+        "enhanced_time": "21h 45m"
+      }
+    }
+  }
+}

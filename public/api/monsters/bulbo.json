@@ -1,0 +1,24 @@
+{
+  "name": "Bulbo",
+  "class": "Magical",
+  "elements": [
+    "Cold",
+    "Light"
+  ],
+  "variants": [
+    "Rare Bulbo",
+    "Epic Bulbo"
+  ],
+  "breeding": {
+    "Light Island": {
+      "common": {
+        "pair": [
+          "Mammott",
+          "Fluoress"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
+}

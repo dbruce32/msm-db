@@ -1,0 +1,32 @@
+{
+  "name": "Fung Pray",
+  "class": "Ethereal",
+  "elements": [
+    "Crystal",
+    "Poison"
+  ],
+  "variants": [
+    "Rare Fung Pray",
+    "Epic Fung Pray"
+  ],
+  "breeding": {
+    "Ethereal Island": {
+      "common": {
+        "pair": [
+          "Jeeode",
+          "Humbug"
+        ],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Nebulob",
+          "Boodoo"
+        ],
+        "time": "1d 20h",
+        "enhanced_time": "1d 9h"
+      }
+    }
+  }
+}

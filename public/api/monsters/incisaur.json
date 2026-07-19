@@ -1,0 +1,26 @@
+{
+  "name": "Incisaur",
+  "class": "Fire",
+  "elements": [
+    "Plant",
+    "Water",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Incisaur",
+    "Epic Incisaur"
+  ],
+  "breeding": {
+    "Bone Island": {
+      "epic": {
+        "pair": [
+          "Plinkajou",
+          "Clackula"
+        ],
+        "time": "1d 17h",
+        "enhanced_time": "1d 6h 45m"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Yawstrich",
+  "class": "Mythical",
+  "elements": [
+    "Mythical"
+  ],
+  "variants": [
+    "Rare Yawstrich",
+    "Epic Yawstrich"
+  ],
+  "breeding": {
+    "Air Island": {
+      "common": {
+        "pair": [
+          "Scups",
+          "T-Rox"
+        ],
+        "time": "1d 4h",
+        "enhanced_time": "21h"
+      },
+      "epic": {
+        "pair": [
+          "Riff",
+          "Fwog"
+        ],
+        "time": "1d 14h 23m",
+        "enhanced_time": "1d 4h 47m 15s"
+      }
+    },
+    "Mythical Island": {
+      "epic": {
+        "pair": [
+          "Cataliszt",
+          "Strombonin"
+        ],
+        "time": "1d 14h 23m",
+        "enhanced_time": "1d 4h 47m 15s"
+      }
+    }
+  }
+}

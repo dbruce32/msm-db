@@ -1,0 +1,13 @@
+{
+  "name": "Larvaluss",
+  "class": "Magical",
+  "elements": [
+    "Psychic",
+    "Bone",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Larvaluss"
+  ],
+  "breeding": {}
+}

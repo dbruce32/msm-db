@@ -1,0 +1,33 @@
+{
+  "name": "Rooba",
+  "class": "Magical",
+  "elements": [
+    "Plant",
+    "Fire",
+    "Psychic"
+  ],
+  "variants": [
+    "Rare Rooba",
+    "Epic Rooba"
+  ],
+  "breeding": {
+    "Psychic Island": {
+      "common": {
+        "pair": [
+          "Yuggler",
+          "Potbelly"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      },
+      "epic": {
+        "pair": [
+          "Periscorp",
+          "Flowah"
+        ],
+        "time": "2d 12h 5m",
+        "enhanced_time": "1d 21h 3m 45s"
+      }
+    }
+  }
+}

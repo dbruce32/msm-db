@@ -1,0 +1,23 @@
+{
+  "name": "Denchuhs",
+  "class": "Magical",
+  "elements": [
+    "Water",
+    "Bone"
+  ],
+  "variants": [
+    "Rare Denchuhs"
+  ],
+  "breeding": {
+    "Bone Island": {
+      "common": {
+        "pair": [
+          "Toe Jammer",
+          "Clackula"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
+}

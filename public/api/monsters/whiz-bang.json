@@ -1,0 +1,32 @@
+{
+  "name": "Whiz-bang",
+  "class": "Seasonal",
+  "subclass": "Aux.",
+  "elements": [
+    "SkyPainting"
+  ],
+  "variants": [
+    "Rare Whiz-bang",
+    "Epic Whiz-bang"
+  ],
+  "breeding": {
+    "Seasonal Shanty": {
+      "common": {
+        "pair": [
+          "Yool",
+          "Blabbit"
+        ],
+        "time": "1d 4h 6m",
+        "enhanced_time": "21h 4m 30s"
+      },
+      "epic": {
+        "pair": [
+          "Boo'qwurm",
+          "Spurrit"
+        ],
+        "time": "1d 6h 30m",
+        "enhanced_time": "22h 52m 30s"
+      }
+    }
+  }
+}

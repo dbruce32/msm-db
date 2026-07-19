@@ -1,0 +1,23 @@
+{
+  "name": "Bonkers",
+  "class": "Magical",
+  "elements": [
+    "Plant",
+    "Psychic"
+  ],
+  "variants": [
+    "Rare Bonkers"
+  ],
+  "breeding": {
+    "Psychic Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Theremind"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
+}

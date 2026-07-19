@@ -1,0 +1,13 @@
+{
+  "name": "G'day",
+  "class": "Magical",
+  "elements": [
+    "Psychic",
+    "Bone",
+    "Light"
+  ],
+  "variants": [
+    "Rare G'day"
+  ],
+  "breeding": {}
+}

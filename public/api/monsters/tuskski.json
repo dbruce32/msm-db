@@ -1,0 +1,16 @@
+{
+  "name": "Tuskski",
+  "class": "Fire",
+  "elements": [
+    "Air",
+    "Earth",
+    "Water",
+    "Cold",
+    "Fire"
+  ],
+  "variants": [
+    "Rare Tuskski",
+    "Epic Tuskski"
+  ],
+  "breeding": {}
+}

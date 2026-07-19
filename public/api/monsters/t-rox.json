@@ -1,0 +1,51 @@
+{
+  "name": "T-Rox",
+  "class": "Natural",
+  "elements": [
+    "Earth",
+    "Water",
+    "Cold"
+  ],
+  "variants": [
+    "Rare T-Rox",
+    "Epic T-Rox"
+  ],
+  "breeding": {
+    "Plant Island": {
+      "common": {
+        "pair": [
+          "Maw",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Pummel",
+          "Drumpler"
+        ],
+        "time": "19h",
+        "enhanced_time": "14h 15m"
+      }
+    },
+    "Air Island": {
+      "common": {
+        "pair": [
+          "Maw",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Congle",
+          "Fwog"
+        ],
+        "time": "19h",
+        "enhanced_time": "14h 15m"
+      }
+    }
+  }
+}

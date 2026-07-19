@@ -1,0 +1,32 @@
+{
+  "name": "Sporerow",
+  "class": "Mythical",
+  "elements": [
+    "Dream",
+    "Mythical"
+  ],
+  "variants": [
+    "Rare Sporerow",
+    "Epic Sporerow"
+  ],
+  "breeding": {
+    "Mythical Island": {
+      "common": {
+        "pair": [
+          "Cataliszt",
+          "Yawstrich"
+        ],
+        "time": "1d 13h",
+        "enhanced_time": "1d 3h 45m"
+      },
+      "epic": {
+        "pair": [
+          "Cataliszt",
+          "Hyehehe"
+        ],
+        "time": "2d 13h 28m",
+        "enhanced_time": "1d 22h 6m"
+      }
+    }
+  }
+}

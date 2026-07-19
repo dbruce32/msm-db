@@ -1,0 +1,23 @@
+{
+  "name": "Fluoress",
+  "class": "Magical",
+  "elements": [
+    "Light"
+  ],
+  "variants": [
+    "Rare Fluoress",
+    "Epic Fluoress"
+  ],
+  "breeding": {
+    "Light Island": {
+      "epic": {
+        "pair": [
+          "Blow't",
+          "Gob"
+        ],
+        "time": "19h 16m",
+        "enhanced_time": "14h 27m"
+      }
+    }
+  }
+}
