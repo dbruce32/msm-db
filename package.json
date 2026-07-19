@@ -1,0 +1,28 @@
+{
+  "name": "msm-db",
+  "version": "1.0.0",
+  "description": "Static JSON API for My Singing Monsters data — deployed to GitHub Pages",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && node dist/index.js",
+    "typecheck": "tsc --noEmit",
+    "clean": "rm -rf dist public/api",
+    "serve": "npx serve public"
+  },
+  "keywords": [
+    "my-singing-monsters",
+    "msm",
+    "api",
+    "static",
+    "json"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "serve": "14.2.4",
+    "typescript": "5.5.4"
+  }
+}

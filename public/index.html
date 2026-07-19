@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MSM Database API</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+      --accent-hover: #79c0ff;
+      --green: #3fb950;
+      --orange: #d29922;
+      --code-bg: #1c2128;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 2rem;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    h1 { font-size: 2rem; margin-bottom: 0.5rem; }
+    h2 { font-size: 1.4rem; margin: 2rem 0 0.75rem; color: var(--accent); }
+    h3 { font-size: 1.1rem; margin: 1.5rem 0 0.5rem; }
+    p { margin-bottom: 1rem; color: var(--text-muted); }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { color: var(--accent-hover); text-decoration: underline; }
+    code {
+      background: var(--code-bg);
+      padding: 0.2em 0.4em;
+      border-radius: 4px;
+      font-size: 0.9em;
+      font-family: 'SF Mono', 'Fira Code', monospace;
+    }
+    pre {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem;
+      overflow-x: auto;
+      margin-bottom: 1rem;
+    }
+    pre code { background: none; padding: 0; }
+    .badge {
+      display: inline-block;
+      padding: 0.2em 0.6em;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+    .badge-get { background: rgba(63, 185, 80, 0.15); color: var(--green); }
+    .endpoint {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 1rem;
+    }
+    .endpoint-url {
+      font-family: 'SF Mono', 'Fira Code', monospace;
+      font-size: 0.9rem;
+      margin-left: 0.5rem;
+    }
+    .try-it {
+      margin-top: 1rem;
+      padding-top: 0.75rem;
+      border-top: 1px solid var(--border);
+    }
+    .try-it label { display: block; margin-bottom: 0.4rem; font-size: 0.85rem; color: var(--text-muted); }
+    .try-it input {
+      width: 100%;
+      padding: 0.5rem 0.75rem;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--code-bg);
+      color: var(--text);
+      font-family: 'SF Mono', 'Fira Code', monospace;
+      font-size: 0.85rem;
+    }
+    .try-it input:focus { outline: none; border-color: var(--accent); }
+    .try-it button {
+      margin-top: 0.5rem;
+      padding: 0.4rem 1rem;
+      background: var(--accent);
+      color: #000;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 0.85rem;
+    }
+    .try-it button:hover { background: var(--accent-hover); }
+    #result {
+      margin-top: 1rem;
+      max-height: 400px;
+      overflow-y: auto;
+    }
+    .hero-sub { color: var(--text-muted); margin-bottom: 2rem; }
+    .footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 0.85rem; }
+  </style>
+</head>
+<body>
+  <h1>MSM Database API</h1>
+  <p class="hero-sub">A free, static JSON API for My Singing Monsters data. No authentication required. Fetch from any app or website.</p>
+
+  <h2>Base URL</h2>
+  <pre><code id="base-url">https://dylanbruce.github.io/msm-db/api</code></pre>
+
+  <h2>Endpoints</h2>
+
+  <div class="endpoint">
+    <span class="badge badge-get">GET</span>
+    <span class="endpoint-url">/monsters/index.json</span>
+    <p style="margin-top:0.5rem; margin-bottom:0">Returns a manifest of all monsters with their name, slug, class, and elements.</p>
+  </div>
+
+  <div class="endpoint">
+    <span class="badge badge-get">GET</span>
+    <span class="endpoint-url">/monsters/{slug}.json</span>
+    <p style="margin-top:0.5rem; margin-bottom:0">Returns full data for a single monster, including breeding combos per island.</p>
+  </div>
+
+  <div class="endpoint">
+    <span class="badge badge-get">GET</span>
+    <span class="endpoint-url">/islands/index.json</span>
+    <p style="margin-top:0.5rem; margin-bottom:0">Returns all islands with their element pools.</p>
+  </div>
+
+  <h2>Usage Examples</h2>
+
+  <h3>Fetch all monsters (JavaScript)</h3>
+  <pre><code>const res = await fetch('https://dylanbruce.github.io/msm-db/api/monsters/index.json');
+const data = await res.json();
+console.log(`Total monsters: ${data.total}`);
+data.monsters.forEach(m => console.log(m.name, m.elements));</code></pre>
+
+  <h3>Fetch a specific monster</h3>
+  <pre><code>const res = await fetch('https://dylanbruce.github.io/msm-db/api/monsters/bowgart.json');
+const bowgart = await res.json();
+console.log(bowgart.name);          // "Bowgart"
+console.log(bowgart.elements);      // ["Plant", "Water", "Cold"]
+console.log(bowgart.breeding);      // { "Plant Island": { common: {...}, epic: {...} }, ... }</code></pre>
+
+  <h3>Fetch all islands</h3>
+  <pre><code>const res = await fetch('https://dylanbruce.github.io/msm-db/api/islands/index.json');
+const data = await res.json();
+data.islands.forEach(island => console.log(island.name, island.elements));</code></pre>
+
+  <h3>Using with Python</h3>
+  <pre><code>import requests
+
+monsters = requests.get('https://dylanbruce.github.io/msm-db/api/monsters/index.json').json()
+print(f"Total monsters: {monsters['total']}")
+
+bowgart = requests.get('https://dylanbruce.github.io/msm-db/api/monsters/bowgart.json').json()
+print(bowgart['breeding']['Plant Island']['common'])</code></pre>
+
+  <h2>Try It</h2>
+  <div class="endpoint">
+    <div class="try-it">
+      <label for="monster-input">Monster slug (e.g., <code>bowgart</code>, <code>toe-jammer</code>, <code>t-rox</code>)</label>
+      <input type="text" id="monster-input" placeholder="bowgart" value="bowgart" />
+      <button onclick="fetchMonster()">Fetch Monster</button>
+      <button onclick="fetchAll()" style="margin-left:0.5rem; background: var(--surface); color: var(--text); border: 1px solid var(--border);">Fetch All Monsters</button>
+      <button onclick="fetchIslands()" style="margin-left:0.5rem; background: var(--surface); color: var(--text); border: 1px solid var(--border);">Fetch Islands</button>
+    </div>
+    <pre id="result"><code>Click a button to try the API...</code></pre>
+  </div>
+
+  <h2>Data Format</h2>
+
+  <h3>Monster Object</h3>
+  <pre><code>{
+  "name": "Bowgart",
+  "class": "Natural",
+  "elements": ["Plant", "Water", "Cold"],
+  "variants": ["Rare Bowgart", "Epic Bowgart"],
+  "breeding": {
+    "Plant Island": {
+      "common": {
+        "pair": ["Furcorn", "Toe Jammer"],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": ["Clamble", "Oaktopus"],
+        "time": "1d 5h",
+        "enhanced_time": "21h 45m"
+      }
+    }
+  }
+}</code></pre>
+
+  <h3>Slug Convention</h3>
+  <p>Monster slugs are the lowercase name with non-alphanumeric characters replaced by hyphens:<br>
+  <code>"Toe Jammer"</code> → <code>toe-jammer</code>, <code>"T-Rox"</code> → <code>t-rox</code>, <code>"PomPom"</code> → <code>pompom</code></p>
+
+  <h2>CORS</h2>
+  <p>GitHub Pages serves all responses with permissive CORS headers. You can fetch from any origin — no proxy needed.</p>
+
+  <div class="footer">
+    <p>Data sourced from the My Singing Monsters wiki. This is a fan project and is not affiliated with Big Blue Bubble.</p>
+    <p>Source: <a href="https://github.com/dylanbruce/msm-db">github.com/dylanbruce/msm-db</a></p>
+  </div>
+
+  <script>
+    // Use relative path — works both locally (npx serve public) and on GitHub Pages
+    // since index.html and api/ are siblings in the same directory.
+    const BASE = './api';
+
+    function showResult(text) {
+      document.getElementById('result').textContent = text;
+    }
+
+    async function fetchMonster() {
+      const slug = document.getElementById('monster-input').value.trim().toLowerCase().replace(/[^a-z0-9-]+/g, '-').replace(/^-|-$/g, '');
+      if (!slug) return;
+      try {
+        const res = await fetch(`${BASE}/monsters/${slug}.json`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}: Monster "${slug}" not found`);
+        const data = await res.json();
+        showResult(JSON.stringify(data, null, 2));
+      } catch (e) {
+        showResult(`Error: ${e.message}\n\nMake sure you're running a local server:\n  npx serve public`);
+      }
+    }
+
+    async function fetchAll() {
+      try {
+        const res = await fetch(`${BASE}/monsters/index.json`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        showResult(JSON.stringify(data, null, 2));
+      } catch (e) {
+        showResult(`Error: ${e.message}\n\nMake sure you're running a local server:\n  npx serve public`);
+      }
+    }
+
+    async function fetchIslands() {
+      try {
+        const res = await fetch(`${BASE}/islands/index.json`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        showResult(JSON.stringify(data, null, 2));
+      } catch (e) {
+        showResult(`Error: ${e.message}\n\nMake sure you're running a local server:\n  npx serve public`);
+      }
+    }
+
+    // Warn if opened directly as a file
+    if (window.location.protocol === 'file:') {
+      showResult('⚠️ Cannot fetch API when opened as a local file.\n\nRun a local server instead:\n  npx serve public\n\nThen open http://localhost:3000');
+    }
+  </script>
+</body>
+</html>
