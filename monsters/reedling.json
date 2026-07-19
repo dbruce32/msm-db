@@ -46,6 +46,24 @@
         "time": "17h",
         "enhanced_time": "12h 45m"
       }
+    },
+    "Fire Haven": {
+      "common": {
+        "pair": [
+          "Dandidoo",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Repatillo",
+          "Cybop"
+        ],
+        "time": "17h",
+        "enhanced_time": "12h 45m"
+      }
     }
   }
 }

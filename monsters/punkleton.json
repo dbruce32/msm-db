@@ -27,6 +27,16 @@
         "time": "1d 7h 10m",
         "enhanced_time": "23h 22m 30s"
       }
+    },
+    "Seasonal Shanty": {
+      "epic": {
+        "pair": [
+          "Schmoochle",
+          "Blabbit"
+        ],
+        "time": "1d 7h 10m",
+        "enhanced_time": "23h 22m 30s"
+      }
     }
   }
 }

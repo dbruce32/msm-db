@@ -8,5 +8,16 @@
   "variants": [
     "Rare Poppette"
   ],
-  "breeding": {}
+  "breeding": {
+    "Psychic Island": {
+      "common": {
+        "pair": [
+          "Toe Jammer",
+          "Theremind"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
 }

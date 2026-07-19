@@ -10,5 +10,24 @@
     "Rare Woolabee",
     "Epic Woolabee"
   ],
-  "breeding": {}
+  "breeding": {
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Glowl",
+          "Mammott"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "epic": {
+        "pair": [
+          "Whaddle",
+          "Boskus"
+        ],
+        "time": "1d 19h",
+        "enhanced_time": "1d 8h 15m"
+      }
+    }
+  }
 }

@@ -9,5 +9,16 @@
   "variants": [
     "Rare Banjaw"
   ],
-  "breeding": {}
+  "breeding": {
+    "Bone Island": {
+      "common": {
+        "pair": [
+          "Hawlo",
+          "Toe Jammer"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      }
+    }
+  }
 }

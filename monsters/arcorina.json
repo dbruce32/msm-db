@@ -1,0 +1,20 @@
+{
+  "name": "Arcorina",
+  "class": "Paironormal",
+  "elements": [
+    "Ruin"
+  ],
+  "variants": [],
+  "breeding": {
+    "Bone Island": {
+      "common": {
+        "pair": [
+          "Plinkajou",
+          "Any Triple"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      }
+    }
+  }
+}

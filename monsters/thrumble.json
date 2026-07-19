@@ -10,5 +10,24 @@
     "Rare Thrumble",
     "Epic Thrumble"
   ],
-  "breeding": {}
+  "breeding": {
+    "Bone Island": {
+      "common": {
+        "pair": [
+          "Phangler",
+          "Noggin"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "epic": {
+        "pair": [
+          "Uuduk",
+          "Denchuhs"
+        ],
+        "time": "1d 7h",
+        "enhanced_time": "23h 15m"
+      }
+    }
+  }
 }

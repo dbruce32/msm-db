@@ -26,6 +26,13 @@
         "time": "1d 17h 13m",
         "enhanced_time": "1d 6h 54m 45s"
       }
+    },
+    "Mythical Island": {
+      "epic": {
+        "pair": ["Cataliszt", "Cherubble"],
+        "time": "1d 17h 13m",
+        "enhanced_time": "1d 6h 54m 45s"
+      }
     }
   }
 }

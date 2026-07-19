@@ -9,5 +9,60 @@
     "Rare Boskus",
     "Epic Boskus"
   ],
-  "breeding": {}
+  "breeding": {
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Mammott",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Woolabee",
+          "Maw"
+        ],
+        "time": "19h",
+        "enhanced_time": "14h 15m"
+      }
+    },
+    "Light Island": {
+      "common": {
+        "pair": [
+          "Mammott",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "TooToo",
+          "Bulbo"
+        ],
+        "time": "19h",
+        "enhanced_time": "14h 15m"
+      }
+    },
+    "Faerie Island": {
+      "common": {
+        "pair": [
+          "Mammott",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Cantorell",
+          "Wimmzies"
+        ],
+        "time": "19h",
+        "enhanced_time": "14h 15m"
+      }
+    }
+  }
 }

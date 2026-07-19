@@ -7,7 +7,19 @@
     "Light"
   ],
   "variants": [
-    "Rare Spytrap"
+    "Rare Spytrap",
+    "Epic Spytrap"
   ],
-  "breeding": {}
+  "breeding": {
+    "Light Island": {
+      "common": {
+        "pair": [
+          "Gob",
+          "Mammott"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      }
+    }
+  }
 }

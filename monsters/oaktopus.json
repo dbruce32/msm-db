@@ -63,6 +63,34 @@
         "time": "1d 7h",
         "enhanced_time": "23h 15m"
       }
+    },
+    "Shugabush Island": {
+      "epic": {
+        "pair": [
+          "Shugabush",
+          "Quibble"
+        ],
+        "time": "1d 7h",
+        "enhanced_time": "23h 15m"
+      }
+    },
+    "Psychic Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Toe Jammer"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Rootitoot",
+          "Bonkers"
+        ],
+        "time": "1d 7h",
+        "enhanced_time": "23h 15m"
+      }
     }
   }
 }

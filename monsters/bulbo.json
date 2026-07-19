@@ -6,7 +6,19 @@
     "Light"
   ],
   "variants": [
-    "Rare Bulbo"
+    "Rare Bulbo",
+    "Epic Bulbo"
   ],
-  "breeding": {}
+  "breeding": {
+    "Light Island": {
+      "common": {
+        "pair": [
+          "Mammott",
+          "Fluoress"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
 }

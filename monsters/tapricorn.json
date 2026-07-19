@@ -9,5 +9,16 @@
   "variants": [
     "Rare Tapricorn"
   ],
-  "breeding": {}
+  "breeding": {
+    "Psychic Island": {
+      "common": {
+        "pair": [
+          "Bonkers",
+          "Toe Jammer"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      }
+    }
+  }
 }

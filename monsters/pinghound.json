@@ -9,5 +9,18 @@
     "Rare Pinghound",
     "Epic Pinghound"
   ],
-  "breeding": {}
+  "breeding": {
+    "Mythical Island": {
+      "common": {
+        "pair": ["Cataliszt", "Anglow"],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
+      },
+      "epic": {
+        "pair": ["Cataliszt", "Strombonin"],
+        "time": "2d 19h 30m",
+        "enhanced_time": "2d 2h 37m 30s"
+      }
+    }
+  }
 }

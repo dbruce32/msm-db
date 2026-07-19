@@ -63,6 +63,24 @@
         "time": "7h",
         "enhanced_time": "5h 15m"
       }
+    },
+    "Bone Island": {
+      "common": {
+        "pair": [
+          "Noggin",
+          "Toe Jammer"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
+      },
+      "epic": {
+        "pair": [
+          "Thrumble",
+          "Denchuhs"
+        ],
+        "time": "7h",
+        "enhanced_time": "5h 15m"
+      }
     }
   }
 }

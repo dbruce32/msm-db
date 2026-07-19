@@ -8,5 +8,31 @@
     "Rare Cherubble",
     "Epic Cherubble"
   ],
-  "breeding": {}
+  "breeding": {
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Congle",
+          "Woolabee"
+        ],
+        "time": "18h",
+        "enhanced_time": "13h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Sneyser",
+          "Boskus"
+        ],
+        "time": "1d 17h 13m",
+        "enhanced_time": "1d 6h 54m 45s"
+      }
+    },
+    "Mythical Island": {
+      "epic": {
+        "pair": ["Cataliszt", "Hyehehe"],
+        "time": "1d 17h 13m",
+        "enhanced_time": "1d 6h 54m 45s"
+      }
+    }
+  }
 }

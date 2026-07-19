@@ -1,13 +1,12 @@
 {
   "name": "Jellbilly",
   "class": "Ethereal",
-  "elements": [
-    "Plasma",
-    "Poison"
-  ],
-  "variants": [
-    "Rare Jellbilly",
-    "Epic Jellbilly"
-  ],
-  "breeding": {}
+  "elements": ["Plasma", "Poison"],
+  "variants": ["Rare Jellbilly", "Epic Jellbilly"],
+  "breeding": {
+    "Ethereal Island": {
+      "common": { "pair": ["Ghazt", "Humbug"], "time": "1d 18h", "enhanced_time": "1d 7h 30m" },
+      "epic": { "pair": ["Arackulele", "Fung Pray"], "time": "1d 14h", "enhanced_time": "1d 4h 30m" }
+    }
+  }
 }

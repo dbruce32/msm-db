@@ -9,5 +9,60 @@
     "Rare Flowah",
     "Epic Flowah"
   ],
-  "breeding": {}
+  "breeding": {
+    "Fire Haven": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Barrb",
+          "Shrubb"
+        ],
+        "time": "17h",
+        "enhanced_time": "12h 45m"
+      }
+    },
+    "Light Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Fiddlement",
+          "Gob"
+        ],
+        "time": "17h",
+        "enhanced_time": "12h 45m"
+      }
+    },
+    "Psychic Island": {
+      "common": {
+        "pair": [
+          "Potbelly",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Rooba",
+          "Poppette"
+        ],
+        "time": "17h",
+        "enhanced_time": "12h 45m"
+      }
+    }
+  }
 }

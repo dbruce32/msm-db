@@ -8,5 +8,16 @@
   "variants": [
     "Rare HippityHop"
   ],
-  "breeding": {}
+  "breeding": {
+    "Faerie Island": {
+      "common": {
+        "pair": [
+          "Noggin",
+          "Floot Fly"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
 }

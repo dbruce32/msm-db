@@ -12,5 +12,16 @@
     "Rare Gnarls",
     "Epic Gnarls"
   ],
-  "breeding": {}
+  "breeding": {
+    "Bone Island": {
+      "epic": {
+        "pair": [
+          "Plinkajou",
+          "Peckidna"
+        ],
+        "time": "1d 23h",
+        "enhanced_time": "1d 11h 15m"
+      }
+    }
+  }
 }

@@ -26,6 +26,13 @@
         "time": "1d 9h 28m",
         "enhanced_time": "1d 1h 6m"
       }
+    },
+    "Mythical Island": {
+      "epic": {
+        "pair": ["Cataliszt", "Buzzinga"],
+        "time": "1d 9h 28m",
+        "enhanced_time": "1d 1h 6m"
+      }
     }
   }
 }

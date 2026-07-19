@@ -9,5 +9,16 @@
   "variants": [
     "Rare Bridg-it"
   ],
-  "breeding": {}
+  "breeding": {
+    "Faerie Island": {
+      "common": {
+        "pair": [
+          "Wimmzies",
+          "Noggin"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      }
+    }
+  }
 }

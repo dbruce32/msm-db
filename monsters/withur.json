@@ -9,5 +9,16 @@
   "variants": [
     "Rare Withur"
   ],
-  "breeding": {}
+  "breeding": {
+    "Bone Island": {
+      "common": {
+        "pair": [
+          "Denchuhs",
+          "Noggin"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
+      }
+    }
+  }
 }

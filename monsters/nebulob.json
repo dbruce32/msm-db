@@ -1,13 +1,12 @@
 {
   "name": "Nebulob",
   "class": "Ethereal",
-  "elements": [
-    "Plasma",
-    "Mech"
-  ],
-  "variants": [
-    "Rare Nebulob",
-    "Epic Nebulob"
-  ],
-  "breeding": {}
+  "elements": ["Plasma", "Mech"],
+  "variants": ["Rare Nebulob", "Epic Nebulob"],
+  "breeding": {
+    "Ethereal Island": {
+      "common": { "pair": ["Ghazt", "Reebro"], "time": "1d 18h", "enhanced_time": "1d 7h 30m" },
+      "epic": { "pair": ["Jellbilly", "Boodoo"], "time": "1d 20h", "enhanced_time": "1d 9h" }
+    }
+  }
 }

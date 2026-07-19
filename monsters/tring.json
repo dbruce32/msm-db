@@ -11,5 +11,24 @@
     "Rare Tring",
     "Epic Tring"
   ],
-  "breeding": {}
+  "breeding": {
+    "Fire Haven": {
+      "common": {
+        "pair": [
+          "Barrb",
+          "Noggin"
+        ],
+        "time": "1d 16h",
+        "enhanced_time": "1d 6h"
+      },
+      "epic": {
+        "pair": [
+          "Barrb",
+          "Stogg"
+        ],
+        "time": "1d 21h",
+        "enhanced_time": "1d 9h 45m"
+      }
+    }
+  }
 }

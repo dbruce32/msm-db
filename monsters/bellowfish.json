@@ -1,13 +1,12 @@
 {
   "name": "Bellowfish",
   "class": "Ethereal",
-  "elements": [
-    "Mech",
-    "Crystal"
-  ],
-  "variants": [
-    "Rare Bellowfish",
-    "Epic Bellowfish"
-  ],
-  "breeding": {}
+  "elements": ["Mech", "Crystal"],
+  "variants": ["Rare Bellowfish", "Epic Bellowfish"],
+  "breeding": {
+    "Ethereal Island": {
+      "common": { "pair": ["Reebro", "Jeeode"], "time": "1d 18h", "enhanced_time": "1d 7h 30m" },
+      "epic": { "pair": ["Whisp", "Dragong"], "time": "1d 22h", "enhanced_time": "1d 10h 30m" }
+    }
+  }
 }

@@ -63,6 +63,24 @@
         "time": "1d 3h",
         "enhanced_time": "20h 15m"
       }
+    },
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Tweedle",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Whaddle",
+          "Maw"
+        ],
+        "time": "1d 3h",
+        "enhanced_time": "20h 15m"
+      }
     }
   }
 }

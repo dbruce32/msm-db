@@ -8,5 +8,16 @@
   "variants": [
     "Rare Yuggler"
   ],
-  "breeding": {}
+  "breeding": {
+    "Psychic Island": {
+      "common": {
+        "pair": [
+          "Kayna",
+          "Theremind"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
 }

@@ -8,5 +8,16 @@
   "variants": [
     "Rare Wimmzies"
   ],
-  "breeding": {}
+  "breeding": {
+    "Faerie Island": {
+      "common": {
+        "pair": [
+          "Kayna",
+          "Floot Fly"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
 }

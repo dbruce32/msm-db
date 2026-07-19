@@ -1,13 +1,12 @@
 {
   "name": "Arackulele",
   "class": "Ethereal",
-  "elements": [
-    "Shadow",
-    "Mech"
-  ],
-  "variants": [
-    "Rare Arackulele",
-    "Epic Arackulele"
-  ],
-  "breeding": {}
+  "elements": ["Shadow", "Mech"],
+  "variants": ["Rare Arackulele", "Epic Arackulele"],
+  "breeding": {
+    "Ethereal Island": {
+      "common": { "pair": ["Grumpyre", "Reebro"], "time": "1d 18h", "enhanced_time": "1d 7h 30m" },
+      "epic": { "pair": ["Sox", "Dragong"], "time": "1d 16h", "enhanced_time": "1d 6h" }
+    }
+  }
 }

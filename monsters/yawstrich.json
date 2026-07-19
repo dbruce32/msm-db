@@ -26,6 +26,13 @@
         "time": "1d 14h 23m",
         "enhanced_time": "1d 4h 47m 15s"
       }
+    },
+    "Mythical Island": {
+      "epic": {
+        "pair": ["Cataliszt", "Strombonin"],
+        "time": "1d 14h 23m",
+        "enhanced_time": "1d 4h 47m 15s"
+      }
     }
   }
 }

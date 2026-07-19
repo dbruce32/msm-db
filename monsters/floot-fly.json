@@ -8,5 +8,16 @@
     "Rare Floot Fly",
     "Epic Floot Fly"
   ],
-  "breeding": {}
+  "breeding": {
+    "Faerie Island": {
+      "epic": {
+        "pair": [
+          "Pladdie",
+          "Squot"
+        ],
+        "time": "19h 56m",
+        "enhanced_time": "14h 57m"
+      }
+    }
+  }
 }

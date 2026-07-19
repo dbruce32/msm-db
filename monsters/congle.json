@@ -46,6 +46,24 @@
         "time": "23h",
         "enhanced_time": "17h 15m"
       }
+    },
+    "Fire Oasis": {
+      "common": {
+        "pair": [
+          "Pango",
+          "Toe Jammer"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
+      },
+      "epic": {
+        "pair": [
+          "Woolabee",
+          "Quibble"
+        ],
+        "time": "23h",
+        "enhanced_time": "17h 15m"
+      }
     }
   }
 }

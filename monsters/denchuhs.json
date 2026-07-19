@@ -8,5 +8,16 @@
   "variants": [
     "Rare Denchuhs"
   ],
-  "breeding": {}
+  "breeding": {
+    "Bone Island": {
+      "common": {
+        "pair": [
+          "Toe Jammer",
+          "Clackula"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
 }

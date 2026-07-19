@@ -8,5 +8,16 @@
   "variants": [
     "Rare Hawlo"
   ],
-  "breeding": {}
+  "breeding": {
+    "Bone Island": {
+      "common": {
+        "pair": [
+          "Kayna",
+          "Clackula"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
+      }
+    }
+  }
 }

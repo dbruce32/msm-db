@@ -9,5 +9,24 @@
     "Rare Ffidyll",
     "Epic Ffidyll"
   ],
-  "breeding": {}
+  "breeding": {
+    "Seasonal Shanty": {
+      "common": {
+        "pair": [
+          "Schmoochle",
+          "Blabbit"
+        ],
+        "time": "22h 44m",
+        "enhanced_time": "17h 3m"
+      },
+      "epic": {
+        "pair": [
+          "Viveine",
+          "Spurrit"
+        ],
+        "time": "1d 6h 17m",
+        "enhanced_time": "22h 42m 45s"
+      }
+    }
+  }
 }
