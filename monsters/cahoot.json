@@ -1,12 +1,11 @@
 {
   "name": "Cahoot",
   "class": "Magical",
-  "elements": [
-    "Psychic",
-    "Light"
-  ],
-  "variants": [
-    "Rare Cahoot"
-  ],
-  "breeding": {}
+  "elements": ["Psychic", "Light"],
+  "variants": ["Rare Cahoot"],
+  "breeding": {
+    "Magical Sanctum": {
+      "common": { "pair": ["Theremind", "Fluoress"], "time": "20h", "enhanced_time": "15h" }
+    }
+  }
 }

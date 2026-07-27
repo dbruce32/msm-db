@@ -1,11 +1,11 @@
 {
   "name": "Theremind",
   "class": "Magical",
-  "elements": [
-    "Psychic"
-  ],
-  "variants": [
-    "Rare Theremind"
-  ],
-  "breeding": {}
+  "elements": ["Psychic"],
+  "variants": ["Rare Theremind"],
+  "breeding": {
+    "Magical Sanctum": {
+      "rare": { "pair": ["Any Psychic Triple", "Any Psychic Triple"], "time": "8h", "enhanced_time": "6h" }
+    }
+  }
 }

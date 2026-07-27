@@ -1,14 +1,11 @@
 {
   "name": "Enchantling",
   "class": "Magical",
-  "elements": [
-    "Psychic",
-    "Bone",
-    "Light",
-    "Faerie"
-  ],
-  "variants": [
-    "Rare Enchantling"
-  ],
-  "breeding": {}
+  "elements": ["Psychic", "Bone", "Light", "Faerie"],
+  "variants": ["Rare Enchantling"],
+  "breeding": {
+    "Magical Sanctum": {
+      "common": { "pair": ["Larvaluss", "Fluoress"], "time": "2d 2h", "enhanced_time": "1d 13h 30m" }
+    }
+  }
 }

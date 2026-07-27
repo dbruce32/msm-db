@@ -1,13 +1,11 @@
 {
   "name": "G'day",
   "class": "Magical",
-  "elements": [
-    "Psychic",
-    "Bone",
-    "Light"
-  ],
-  "variants": [
-    "Rare G'day"
-  ],
-  "breeding": {}
+  "elements": ["Psychic", "Bone", "Light"],
+  "variants": ["Rare G'day"],
+  "breeding": {
+    "Magical Sanctum": {
+      "common": { "pair": ["Xyster", "Fluoress"], "time": "1d 6h", "enhanced_time": "22h 30m" }
+    }
+  }
 }

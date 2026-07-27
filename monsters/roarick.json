@@ -1,12 +1,11 @@
 {
   "name": "Roarick",
   "class": "Magical",
-  "elements": [
-    "Bone",
-    "Light"
-  ],
-  "variants": [
-    "Rare Roarick"
-  ],
-  "breeding": {}
+  "elements": ["Bone", "Light"],
+  "variants": ["Rare Roarick"],
+  "breeding": {
+    "Magical Sanctum": {
+      "common": { "pair": ["Clackula", "Fluoress"], "time": "20h", "enhanced_time": "15h" }
+    }
+  }
 }

@@ -1,13 +1,11 @@
 {
   "name": "Larvaluss",
   "class": "Magical",
-  "elements": [
-    "Psychic",
-    "Bone",
-    "Faerie"
-  ],
-  "variants": [
-    "Rare Larvaluss"
-  ],
-  "breeding": {}
+  "elements": ["Psychic", "Bone", "Faerie"],
+  "variants": ["Rare Larvaluss"],
+  "breeding": {
+    "Magical Sanctum": {
+      "common": { "pair": ["Osstax", "Theremind"], "time": "1d 6h", "enhanced_time": "22h 30m" }
+    }
+  }
 }
