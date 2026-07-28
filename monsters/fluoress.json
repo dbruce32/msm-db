@@ -1,23 +1,15 @@
 {
   "name": "Fluoress",
   "class": "Magical",
-  "elements": [
-    "Light"
-  ],
-  "variants": [
-    "Rare Fluoress",
-    "Epic Fluoress"
-  ],
+  "elements": ["Light"],
+  "variants": ["Rare Fluoress", "Epic Fluoress"],
   "breeding": {
     "Light Island": {
-      "epic": {
-        "pair": [
-          "Blow't",
-          "Gob"
-        ],
-        "time": "19h 16m",
-        "enhanced_time": "14h 27m"
-      }
+      "epic": { "pair": ["Blow't", "Gob"], "time": "19h 16m", "enhanced_time": "14h 27m" }
+    },
+    "Magical Sanctum": {
+      "rare": { "pair": ["Any Light Triple", "Any Light Triple"], "time": "8h", "enhanced_time": "6h" },
+      "epic": { "pair": ["Enchantling", "Cahoot"], "time": "19h 16m", "enhanced_time": "14h 27m" }
     }
   }
 }

@@ -1,12 +1,11 @@
 {
   "name": "Osstax",
   "class": "Magical",
-  "elements": [
-    "Bone",
-    "Faerie"
-  ],
-  "variants": [
-    "Rare Osstax"
-  ],
-  "breeding": {}
+  "elements": ["Bone", "Faerie"],
+  "variants": ["Rare Osstax"],
+  "breeding": {
+    "Magical Sanctum": {
+      "common": { "pair": ["Clackula", "Floot Fly"], "time": "20h", "enhanced_time": "15h" }
+    }
+  }
 }
