@@ -16,7 +16,7 @@ msm-db/
 │   ├── deedge.json
 │   └── ...
 └── Assets/
-    └── Elements/         # 45 element icon PNGs + manifest
+    └── Elements/         # 46 element icon PNGs + manifest
         ├── elements.json # Manifest with names and raw GitHub URLs
         ├── air.png
         ├── plant.png
@@ -68,7 +68,7 @@ A monster can appear on an island if all its elements are a subset of that islan
 
 ### Elements Manifest (`Assets/Elements/elements.json`)
 
-Provides a discoverable index of all 45 element icon assets with pre-built raw GitHub URLs:
+Provides a discoverable index of all 46 element icon assets with pre-built raw GitHub URLs:
 
 ```json
 {
