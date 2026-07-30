@@ -1,0 +1,21 @@
+{
+  "name": "Screemu",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "2x2",
+    "cost": "5,000 Coins",
+    "time": "5d",
+    "fill_price": "600 Diamonds",
+    "wildcards": 20,
+    "total": 20,
+    "requirements": [
+      { "monster": "Shellbeat", "quantity": 2 },
+      { "monster": "Spunge", "quantity": 6 },
+      { "monster": "Quibble", "quantity": 6 },
+      { "monster": "Shrubb", "quantity": 6 }
+    ]
+  }
+}

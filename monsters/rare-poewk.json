@@ -1,0 +1,54 @@
+{
+  "name": "Rare Poewk",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "5 Keys",
+    "fill_price": "900 Diamonds",
+    "wildcards": 24,
+    "total": 9,
+    "release_date": "April 5th, 2023",
+    "requirements": [
+      {
+        "monster": "Rare Shellbeat",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Reedling",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Scups",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare PomPom",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Clamble",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Dandidoo",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Pango",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Shrubb",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Oaktopus",
+        "quantity": 1
+      }
+    ]
+  }
+}

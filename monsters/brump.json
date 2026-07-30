@@ -1,0 +1,19 @@
+{
+  "name": "Brump",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "2x2",
+    "cost": "2,000 Coins",
+    "time": "2d",
+    "fill_price": "240 Diamonds",
+    "wildcards": 8,
+    "total": 8,
+    "requirements": [
+      { "monster": "Furcorn", "quantity": 6 },
+      { "monster": "Fwog", "quantity": 2 }
+    ]
+  }
+}

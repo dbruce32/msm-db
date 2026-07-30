@@ -1,0 +1,26 @@
+{
+  "name": "Rare Brump",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "2 Keys",
+    "fill_price": "400 Diamonds",
+    "wildcards": 8,
+    "total": 4,
+    "release_date": "April 5th, 2023",
+    "requirements": [
+      {
+        "monster": "Rare Furcorn",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Fwog",
+        "quantity": 1
+      }
+    ]
+  }
+}

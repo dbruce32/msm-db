@@ -1,0 +1,46 @@
+{
+  "name": "Rare Fleechwurm",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "5 Keys",
+    "fill_price": "1,000 Diamonds",
+    "wildcards": 28,
+    "total": 10,
+    "release_date": "January 30th, 2024",
+    "requirements": [
+      {
+        "monster": "Rare Shellbeat",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Quarrister",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Reedling",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Spunge",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Pummel",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Dandidoo",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Furcorn",
+        "quantity": 2
+      }
+    ]
+  }
+}

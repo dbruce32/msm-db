@@ -1,0 +1,69 @@
+{
+  "name": "Blasoom",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Plant",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "14 Keys",
+    "discounted_cost": "6 Keys",
+    "time": "14d",
+    "fill_price": "2,880 Diamonds",
+    "wildcards": 72,
+    "sells_for": "84,000 Coins",
+    "awakened_sells_for": "1,448,274 Coins",
+    "requirements": [
+      {
+        "monster": "Entbrat",
+        "quantity": 3
+      },
+      {
+        "monster": "Clamble",
+        "quantity": 5
+      },
+      {
+        "monster": "Reedling",
+        "quantity": 4
+      },
+      {
+        "monster": "Thumpies",
+        "quantity": 4
+      },
+      {
+        "monster": "Bowgart",
+        "quantity": 3
+      },
+      {
+        "monster": "Pummel",
+        "quantity": 3
+      },
+      {
+        "monster": "Spunge",
+        "quantity": 3
+      },
+      {
+        "monster": "Furcorn",
+        "quantity": 9
+      },
+      {
+        "monster": "Dandidoo",
+        "quantity": 8
+      },
+      {
+        "monster": "Oaktopus",
+        "quantity": 5
+      },
+      {
+        "monster": "Shrubb",
+        "quantity": 5
+      },
+      {
+        "monster": "Potbelly",
+        "quantity": 20
+      }
+    ]
+  }
+}

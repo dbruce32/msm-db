@@ -1,0 +1,50 @@
+{
+  "name": "Epic Fleechwurm",
+  "class": "Epic Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "5 Keys",
+    "fill_price": "1,600 Diamonds",
+    "wildcards": 48,
+    "total": 8,
+    "release_date": "March 11th, 2026",
+    "requirements": [
+      {
+        "monster": "Epic Dandidoo",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Furcorn",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Reedling",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Spunge",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Pummel",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Shellbeat",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Quarrister",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Phangler",
+        "quantity": 1
+      }
+    ]
+  }
+}

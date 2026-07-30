@@ -1,0 +1,161 @@
+{
+  "name": "Galvana",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Electricity",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "28 Keys",
+    "discounted_cost": "11 Keys",
+    "time": "28d",
+    "fill_price": "6,000 Diamonds",
+    "wildcards": 174,
+    "sells_for": "88,000 Coins",
+    "awakened_sells_for": "12,996,291 Coins",
+    "requirements": [
+      {
+        "monster": "Tring",
+        "quantity": 1
+      },
+      {
+        "monster": "Quarrister",
+        "quantity": 1
+      },
+      {
+        "monster": "Shellbeat",
+        "quantity": 1
+      },
+      {
+        "monster": "Riff",
+        "quantity": 1
+      },
+      {
+        "monster": "Deedge",
+        "quantity": 1
+      },
+      {
+        "monster": "Entbrat",
+        "quantity": 1
+      },
+      {
+        "monster": "Floogull",
+        "quantity": 2
+      },
+      {
+        "monster": "Barrb",
+        "quantity": 2
+      },
+      {
+        "monster": "Repatillo",
+        "quantity": 2
+      },
+      {
+        "monster": "Thumpies",
+        "quantity": 3
+      },
+      {
+        "monster": "Spunge",
+        "quantity": 3
+      },
+      {
+        "monster": "PomPom",
+        "quantity": 3
+      },
+      {
+        "monster": "Reedling",
+        "quantity": 3
+      },
+      {
+        "monster": "Scups",
+        "quantity": 3
+      },
+      {
+        "monster": "Pummel",
+        "quantity": 3
+      },
+      {
+        "monster": "Clamble",
+        "quantity": 3
+      },
+      {
+        "monster": "Bowgart",
+        "quantity": 3
+      },
+      {
+        "monster": "Congle",
+        "quantity": 3
+      },
+      {
+        "monster": "T-Rox",
+        "quantity": 3
+      },
+      {
+        "monster": "Glowl",
+        "quantity": 3
+      },
+      {
+        "monster": "Flowah",
+        "quantity": 3
+      },
+      {
+        "monster": "Stogg",
+        "quantity": 3
+      },
+      {
+        "monster": "Shrubb",
+        "quantity": 4
+      },
+      {
+        "monster": "Oaktopus",
+        "quantity": 4
+      },
+      {
+        "monster": "Pango",
+        "quantity": 4
+      },
+      {
+        "monster": "Quibble",
+        "quantity": 4
+      },
+      {
+        "monster": "Cybop",
+        "quantity": 4
+      },
+      {
+        "monster": "Dandidoo",
+        "quantity": 4
+      },
+      {
+        "monster": "Furcorn",
+        "quantity": 4
+      },
+      {
+        "monster": "Kayna",
+        "quantity": 6
+      },
+      {
+        "monster": "Tweedle",
+        "quantity": 10
+      },
+      {
+        "monster": "Potbelly",
+        "quantity": 10
+      },
+      {
+        "monster": "Maw",
+        "quantity": 5
+      },
+      {
+        "monster": "Fwog",
+        "quantity": 5
+      },
+      {
+        "monster": "Drumpler",
+        "quantity": 5
+      }
+    ]
+  }
+}

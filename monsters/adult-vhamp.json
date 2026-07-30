@@ -1,0 +1,85 @@
+{
+  "name": "Adult Vhamp",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Mech",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "10 Keys",
+    "time": "30d",
+    "availability": "June 1st 3:00pm UTC to July 1st 3:00pm UTC",
+    "fill_price": "3,900 Diamonds",
+    "wildcards": 59,
+    "total": 59,
+    "sells_for": "3,358,803 Coins",
+    "requirements": [
+      {
+        "monster": "Cybop",
+        "quantity": 3
+      },
+      {
+        "monster": "Quibble",
+        "quantity": 3
+      },
+      {
+        "monster": "Pango",
+        "quantity": 3
+      },
+      {
+        "monster": "Fwog",
+        "quantity": 3
+      },
+      {
+        "monster": "Drumpler",
+        "quantity": 3
+      },
+      {
+        "monster": "Maw",
+        "quantity": 3
+      },
+      {
+        "monster": "Scups",
+        "quantity": 2
+      },
+      {
+        "monster": "PomPom",
+        "quantity": 2
+      },
+      {
+        "monster": "Congle",
+        "quantity": 2
+      },
+      {
+        "monster": "T-Rox",
+        "quantity": 2
+      },
+      {
+        "monster": "Riff",
+        "quantity": 1
+      },
+      {
+        "monster": "Tring",
+        "quantity": 1
+      },
+      {
+        "monster": "Sneyser",
+        "quantity": 1
+      },
+      {
+        "monster": "Monculus",
+        "quantity": 1
+      },
+      {
+        "monster": "Mythical Flex",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Fire Quad",
+        "quantity": 2
+      }
+    ]
+  }
+}

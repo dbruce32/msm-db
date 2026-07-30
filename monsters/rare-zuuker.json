@@ -1,0 +1,46 @@
+{
+  "name": "Rare Zuuker",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "10 Keys",
+    "fill_price": "1,500 Diamonds",
+    "wildcards": 39,
+    "total": 15,
+    "release_date": "May 29th, 2024",
+    "requirements": [
+      {
+        "monster": "Rare Entbrat",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Deedge",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Bowgart",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare T-Rox",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Oaktopus",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Furcorn",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Fwog",
+        "quantity": 2
+      }
+    ]
+  }
+}

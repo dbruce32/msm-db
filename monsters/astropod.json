@@ -1,0 +1,23 @@
+{
+  "name": "Astropod",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "2x2",
+    "cost": "20,000 Coins",
+    "time": "10d",
+    "fill_price": "1,260 Diamonds",
+    "wildcards": 42,
+    "total": 42,
+    "requirements": [
+      { "monster": "Shellbeat", "quantity": 5 },
+      { "monster": "Deedge", "quantity": 5 },
+      { "monster": "Reedling", "quantity": 8 },
+      { "monster": "Scups", "quantity": 6 },
+      { "monster": "Spunge", "quantity": 8 },
+      { "monster": "Toe Jammer", "quantity": 10 }
+    ]
+  }
+}

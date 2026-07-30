@@ -1,0 +1,22 @@
+{
+  "name": "Blipsqueak",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "2x2",
+    "cost": "5,000 Coins",
+    "time": "5d",
+    "fill_price": "720 Diamonds",
+    "wildcards": 24,
+    "total": 24,
+    "requirements": [
+      { "monster": "Deedge", "quantity": 4 },
+      { "monster": "PomPom", "quantity": 4 },
+      { "monster": "T-Rox", "quantity": 6 },
+      { "monster": "Cybop", "quantity": 6 },
+      { "monster": "Toe Jammer", "quantity": 4 }
+    ]
+  }
+}

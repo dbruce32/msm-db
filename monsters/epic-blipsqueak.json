@@ -1,0 +1,46 @@
+{
+  "name": "Epic Blipsqueak",
+  "class": "Epic Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "5 Keys",
+    "fill_price": "1,400 Diamonds",
+    "wildcards": 41,
+    "total": 7,
+    "release_date": "October 29th, 2025",
+    "requirements": [
+      {
+        "monster": "Epic Toe Jammer",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Cybop",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic PomPom",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic T-Rox",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Deedge",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Glowl",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Wynq",
+        "quantity": 1
+      }
+    ]
+  }
+}

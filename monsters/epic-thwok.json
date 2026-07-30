@@ -1,0 +1,66 @@
+{
+  "name": "Epic Thwok",
+  "class": "Epic Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "7 Keys",
+    "fill_price": "2,400 Diamonds",
+    "wildcards": 81,
+    "total": 12,
+    "release_date": "April 16th, 2025",
+    "requirements": [
+      {
+        "monster": "Epic Entbrat",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Deedge",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Riff",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Shellbeat",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Quarrister",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Spunge",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic PomPom",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Bowgart",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Quibble",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Furcorn",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Boskus",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Whaddle",
+        "quantity": 1
+      }
+    ]
+  }
+}

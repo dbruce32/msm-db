@@ -1,0 +1,22 @@
+{
+  "name": "Whajje",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "2x2",
+    "cost": "20,000 Coins",
+    "time": "10d",
+    "fill_price": "1,290 Diamonds",
+    "wildcards": 43,
+    "total": 43,
+    "requirements": [
+      { "monster": "Deedge", "quantity": 7 },
+      { "monster": "Reedling", "quantity": 10 },
+      { "monster": "Dandidoo", "quantity": 10 },
+      { "monster": "Cybop", "quantity": 10 },
+      { "monster": "Tweedle", "quantity": 6 }
+    ]
+  }
+}

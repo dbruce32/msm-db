@@ -1,0 +1,137 @@
+{
+  "name": "Adult Galvana",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Electricity",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "10 Keys",
+    "time": "31d",
+    "availability": "July 1st 3:00pm UTC to August 1st 3:00pm UTC",
+    "fill_price": "4,850 Diamonds",
+    "wildcards": 91,
+    "total": 91,
+    "sells_for": "9,834,264 Coins",
+    "requirements": [
+      {
+        "monster": "Reedling",
+        "quantity": 2
+      },
+      {
+        "monster": "Spunge",
+        "quantity": 2
+      },
+      {
+        "monster": "Thumpies",
+        "quantity": 2
+      },
+      {
+        "monster": "Scups",
+        "quantity": 2
+      },
+      {
+        "monster": "PomPom",
+        "quantity": 2
+      },
+      {
+        "monster": "Congle",
+        "quantity": 2
+      },
+      {
+        "monster": "Pummel",
+        "quantity": 2
+      },
+      {
+        "monster": "Clamble",
+        "quantity": 2
+      },
+      {
+        "monster": "Bowgart",
+        "quantity": 2
+      },
+      {
+        "monster": "T-Rox",
+        "quantity": 2
+      },
+      {
+        "monster": "Barrb",
+        "quantity": 2
+      },
+      {
+        "monster": "Floogull",
+        "quantity": 2
+      },
+      {
+        "monster": "Repatillo",
+        "quantity": 2
+      },
+      {
+        "monster": "Whaddle",
+        "quantity": 2
+      },
+      {
+        "monster": "Woolabee",
+        "quantity": 2
+      },
+      {
+        "monster": "Wynq",
+        "quantity": 2
+      },
+      {
+        "monster": "Deedge",
+        "quantity": 1
+      },
+      {
+        "monster": "Entbrat",
+        "quantity": 1
+      },
+      {
+        "monster": "Riff",
+        "quantity": 1
+      },
+      {
+        "monster": "Shellbeat",
+        "quantity": 1
+      },
+      {
+        "monster": "Quarrister",
+        "quantity": 1
+      },
+      {
+        "monster": "Tring",
+        "quantity": 1
+      },
+      {
+        "monster": "Sneyser",
+        "quantity": 1
+      },
+      {
+        "monster": "Hoola",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Air Quad",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Plant Quad",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Earth Quad",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Water Quad",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Cold Quad",
+        "quantity": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "name": "Adult Syncopite",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Crystal",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "10 Keys",
+    "time": "31d",
+    "availability": "May 1st 3:00pm UTC to June 1st 3:00pm UTC",
+    "fill_price": "4,475 Diamonds",
+    "wildcards": 88,
+    "total": 88,
+    "sells_for": "4,445,481 Coins",
+    "requirements": [
+      {
+        "monster": "Shrubb",
+        "quantity": 3
+      },
+      {
+        "monster": "Oaktopus",
+        "quantity": 3
+      },
+      {
+        "monster": "Dandidoo",
+        "quantity": 3
+      },
+      {
+        "monster": "Quibble",
+        "quantity": 3
+      },
+      {
+        "monster": "Cybop",
+        "quantity": 3
+      },
+      {
+        "monster": "Fwog",
+        "quantity": 3
+      },
+      {
+        "monster": "Pummel",
+        "quantity": 2
+      },
+      {
+        "monster": "Spunge",
+        "quantity": 2
+      },
+      {
+        "monster": "Scups",
+        "quantity": 2
+      },
+      {
+        "monster": "Reedling",
+        "quantity": 2
+      },
+      {
+        "monster": "Shellbeat",
+        "quantity": 1
+      },
+      {
+        "monster": "Clackula",
+        "quantity": 5
+      },
+      {
+        "monster": "Peckidna",
+        "quantity": 3
+      },
+      {
+        "monster": "Denchuhs",
+        "quantity": 3
+      },
+      {
+        "monster": "Hawlo",
+        "quantity": 3
+      },
+      {
+        "monster": "Withur",
+        "quantity": 2
+      },
+      {
+        "monster": "Uuduk",
+        "quantity": 2
+      },
+      {
+        "monster": "Banjaw",
+        "quantity": 2
+      },
+      {
+        "monster": "Plinkajou",
+        "quantity": 1
+      },
+      {
+        "monster": "Spurrit",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Bone Double",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Fire Triple",
+        "quantity": 1
+      }
+    ]
+  }
+}

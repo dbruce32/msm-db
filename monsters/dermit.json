@@ -1,0 +1,22 @@
+{
+  "name": "Dermit",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "3x3",
+    "cost": "17,000 Coins",
+    "time": "3d",
+    "fill_price": "780 Diamonds",
+    "wildcards": 26,
+    "total": 26,
+    "requirements": [
+      { "monster": "Quarrister", "quantity": 3 },
+      { "monster": "Entbrat", "quantity": 3 },
+      { "monster": "Scups", "quantity": 4 },
+      { "monster": "Thumpies", "quantity": 4 },
+      { "monster": "Fwog", "quantity": 12 }
+    ]
+  }
+}

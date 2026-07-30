@@ -1,0 +1,93 @@
+{
+  "name": "Adult Glaishur",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Cold",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "10 Keys",
+    "time": "31d",
+    "availability": "March 1st 3:00pm UTC to April 1st 3:00pm UTC",
+    "fill_price": "3,375 Diamonds",
+    "wildcards": 45,
+    "total": 45,
+    "sells_for": "2,965,012 Coins",
+    "requirements": [
+      {
+        "monster": "Drumpler",
+        "quantity": 3
+      },
+      {
+        "monster": "Maw",
+        "quantity": 3
+      },
+      {
+        "monster": "Pango",
+        "quantity": 3
+      },
+      {
+        "monster": "Furcorn",
+        "quantity": 3
+      },
+      {
+        "monster": "T-Rox",
+        "quantity": 2
+      },
+      {
+        "monster": "Thumpies",
+        "quantity": 2
+      },
+      {
+        "monster": "PomPom",
+        "quantity": 2
+      },
+      {
+        "monster": "Congle",
+        "quantity": 2
+      },
+      {
+        "monster": "Clamble",
+        "quantity": 2
+      },
+      {
+        "monster": "Bowgart",
+        "quantity": 2
+      },
+      {
+        "monster": "Deedge",
+        "quantity": 2
+      },
+      {
+        "monster": "Entbrat",
+        "quantity": 2
+      },
+      {
+        "monster": "Riff",
+        "quantity": 2
+      },
+      {
+        "monster": "Quarrister",
+        "quantity": 2
+      },
+      {
+        "monster": "Ffidyll",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Cold Double",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Cold Triple",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Cold Quad",
+        "quantity": 1
+      }
+    ]
+  }
+}

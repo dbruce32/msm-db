@@ -1,0 +1,24 @@
+{
+  "name": "Zuuker",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "2x2",
+    "cost": "20,000 Coins",
+    "time": "10d",
+    "fill_price": "900 Diamonds",
+    "wildcards": 30,
+    "total": 30,
+    "requirements": [
+      { "monster": "Deedge", "quantity": 2 },
+      { "monster": "Entbrat", "quantity": 2 },
+      { "monster": "Bowgart", "quantity": 4 },
+      { "monster": "T-Rox", "quantity": 6 },
+      { "monster": "Oaktopus", "quantity": 6 },
+      { "monster": "Furcorn", "quantity": 6 },
+      { "monster": "Fwog", "quantity": 4 }
+    ]
+  }
+}

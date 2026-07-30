@@ -1,0 +1,30 @@
+{
+  "name": "Epic Brump",
+  "class": "Epic Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "2 Keys",
+    "fill_price": "600 Diamonds",
+    "wildcards": 14,
+    "total": 3,
+    "release_date": "April 16th, 2025",
+    "requirements": [
+      {
+        "monster": "Epic Furcorn",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Fwog",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Stogg",
+        "quantity": 1
+      }
+    ]
+  }
+}

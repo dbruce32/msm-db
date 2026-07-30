@@ -1,0 +1,109 @@
+{
+  "name": "Adult Plixie",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Plasma",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "10 Keys",
+    "time": "30d",
+    "availability": "November 1st 3:00pm UTC to December 1st 3:00pm UTC",
+    "fill_price": "4,475 Diamonds",
+    "wildcards": 88,
+    "total": 88,
+    "sells_for": "6,377,956 Coins",
+    "requirements": [
+      {
+        "monster": "Shrubb",
+        "quantity": 3
+      },
+      {
+        "monster": "Oaktopus",
+        "quantity": 3
+      },
+      {
+        "monster": "Furcorn",
+        "quantity": 3
+      },
+      {
+        "monster": "Fwog",
+        "quantity": 3
+      },
+      {
+        "monster": "Drumpler",
+        "quantity": 3
+      },
+      {
+        "monster": "Maw",
+        "quantity": 3
+      },
+      {
+        "monster": "Pummel",
+        "quantity": 2
+      },
+      {
+        "monster": "Clamble",
+        "quantity": 2
+      },
+      {
+        "monster": "Bowgart",
+        "quantity": 2
+      },
+      {
+        "monster": "T-Rox",
+        "quantity": 2
+      },
+      {
+        "monster": "Entbrat",
+        "quantity": 1
+      },
+      {
+        "monster": "Theremind",
+        "quantity": 5
+      },
+      {
+        "monster": "Bonkers",
+        "quantity": 3
+      },
+      {
+        "monster": "Poppette",
+        "quantity": 3
+      },
+      {
+        "monster": "Yuggler",
+        "quantity": 3
+      },
+      {
+        "monster": "Tapricorn",
+        "quantity": 2
+      },
+      {
+        "monster": "Rooba",
+        "quantity": 2
+      },
+      {
+        "monster": "Periscorp",
+        "quantity": 2
+      },
+      {
+        "monster": "Gloptic",
+        "quantity": 1
+      },
+      {
+        "monster": "Gobbleygourd",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Psychic Double",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Fire Triple",
+        "quantity": 1
+      }
+    ]
+  }
+}

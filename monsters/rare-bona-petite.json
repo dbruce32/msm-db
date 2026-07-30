@@ -1,0 +1,54 @@
+{
+  "name": "Rare Bona-Petite",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "10 Keys",
+    "fill_price": "2,900 Diamonds",
+    "wildcards": 71,
+    "total": 29,
+    "release_date": "November 15th, 2023",
+    "requirements": [
+      {
+        "monster": "Rare Riff",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Entbrat",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare PomPom",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Bowgart",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare T-Rox",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Fwog",
+        "quantity": 4
+      },
+      {
+        "monster": "Rare Drumpler",
+        "quantity": 4
+      },
+      {
+        "monster": "Rare Maw",
+        "quantity": 4
+      },
+      {
+        "monster": "Rare Mammott",
+        "quantity": 4
+      }
+    ]
+  }
+}

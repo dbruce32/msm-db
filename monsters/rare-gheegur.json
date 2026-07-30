@@ -1,0 +1,38 @@
+{
+  "name": "Rare Gheegur",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "7 Keys",
+    "fill_price": "1,300 Diamonds",
+    "wildcards": 39,
+    "total": 13,
+    "release_date": "October 18th, 2023",
+    "requirements": [
+      {
+        "monster": "Rare Riff",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Reedling",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Scups",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare PomPom",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Cybop",
+        "quantity": 3
+      }
+    ]
+  }
+}

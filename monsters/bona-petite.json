@@ -1,0 +1,26 @@
+{
+  "name": "Bona-Petite",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "3x3",
+    "cost": "20,000 Coins",
+    "time": "10d",
+    "fill_price": "2,040 Diamonds",
+    "wildcards": 68,
+    "total": 68,
+    "requirements": [
+      { "monster": "Riff", "quantity": 5 },
+      { "monster": "Entbrat", "quantity": 5 },
+      { "monster": "PomPom", "quantity": 6 },
+      { "monster": "Bowgart", "quantity": 6 },
+      { "monster": "T-Rox", "quantity": 6 },
+      { "monster": "Fwog", "quantity": 10 },
+      { "monster": "Drumpler", "quantity": 10 },
+      { "monster": "Maw", "quantity": 10 },
+      { "monster": "Mammott", "quantity": 10 }
+    ]
+  }
+}

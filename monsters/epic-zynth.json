@@ -1,0 +1,46 @@
+{
+  "name": "Epic Zynth",
+  "class": "Epic Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "3 Keys",
+    "fill_price": "1,400 Diamonds",
+    "wildcards": 34,
+    "total": 7,
+    "release_date": "April 16th, 2025",
+    "requirements": [
+      {
+        "monster": "Epic Pango",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Oaktopus",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Drumpler",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Maw",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Congle",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic T-Rox",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Phangler",
+        "quantity": 1
+      }
+    ]
+  }
+}

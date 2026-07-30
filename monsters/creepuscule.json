@@ -1,0 +1,24 @@
+{
+  "name": "Creepuscule",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "3x3",
+    "cost": "17,000 Coins",
+    "time": "7d",
+    "fill_price": "1,560 Diamonds",
+    "wildcards": 52,
+    "total": 52,
+    "requirements": [
+      { "monster": "Shellbeat", "quantity": 5 },
+      { "monster": "Deedge", "quantity": 5 },
+      { "monster": "Congle", "quantity": 8 },
+      { "monster": "Pummel", "quantity": 6 },
+      { "monster": "T-Rox", "quantity": 6 },
+      { "monster": "Quibble", "quantity": 10 },
+      { "monster": "Noggin", "quantity": 12 }
+    ]
+  }
+}

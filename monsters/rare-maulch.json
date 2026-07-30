@@ -1,0 +1,46 @@
+{
+  "name": "Rare Maulch",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "7 Keys",
+    "fill_price": "1,800 Diamonds",
+    "wildcards": 49,
+    "total": 18,
+    "release_date": "May 1st, 2024",
+    "requirements": [
+      {
+        "monster": "Rare Entbrat",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Quarrister",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Spunge",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Pummel",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Clamble",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Furcorn",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Noggin",
+        "quantity": 3
+      }
+    ]
+  }
+}

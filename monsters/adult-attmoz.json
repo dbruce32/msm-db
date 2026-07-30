@@ -1,0 +1,93 @@
+{
+  "name": "Adult Attmoz",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Air",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "10 Keys",
+    "time": "31d",
+    "availability": "December 1st 3:00pm UTC to January 1st 3:00pm UTC",
+    "fill_price": "3,375 Diamonds",
+    "wildcards": 45,
+    "total": 45,
+    "sells_for": "2,611,875 Coins",
+    "requirements": [
+      {
+        "monster": "Cybop",
+        "quantity": 3
+      },
+      {
+        "monster": "Dandidoo",
+        "quantity": 3
+      },
+      {
+        "monster": "Pango",
+        "quantity": 3
+      },
+      {
+        "monster": "Quibble",
+        "quantity": 3
+      },
+      {
+        "monster": "Reedling",
+        "quantity": 2
+      },
+      {
+        "monster": "Scups",
+        "quantity": 2
+      },
+      {
+        "monster": "PomPom",
+        "quantity": 2
+      },
+      {
+        "monster": "Congle",
+        "quantity": 2
+      },
+      {
+        "monster": "Thumpies",
+        "quantity": 2
+      },
+      {
+        "monster": "Spunge",
+        "quantity": 2
+      },
+      {
+        "monster": "Deedge",
+        "quantity": 2
+      },
+      {
+        "monster": "Riff",
+        "quantity": 2
+      },
+      {
+        "monster": "Shellbeat",
+        "quantity": 2
+      },
+      {
+        "monster": "Quarrister",
+        "quantity": 2
+      },
+      {
+        "monster": "Yool",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Air Double",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Air Triple",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Air Quad",
+        "quantity": 1
+      }
+    ]
+  }
+}

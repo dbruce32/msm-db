@@ -1,0 +1,23 @@
+{
+  "name": "Scargo",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "3x3",
+    "cost": "3,000 Coins",
+    "time": "3d",
+    "fill_price": "480 Diamonds",
+    "wildcards": 16,
+    "total": 16,
+    "requirements": [
+      { "monster": "Shellbeat", "quantity": 3 },
+      { "monster": "Spunge", "quantity": 2 },
+      { "monster": "Pummel", "quantity": 2 },
+      { "monster": "Clamble", "quantity": 3 },
+      { "monster": "Dandidoo", "quantity": 3 },
+      { "monster": "Shrubb", "quantity": 3 }
+    ]
+  }
+}

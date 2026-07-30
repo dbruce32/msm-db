@@ -1,0 +1,42 @@
+{
+  "name": "Rare Scargo",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "3 Keys",
+    "fill_price": "600 Diamonds",
+    "wildcards": 17,
+    "total": 6,
+    "release_date": "December 13th, 2023",
+    "requirements": [
+      {
+        "monster": "Rare Shellbeat",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Clamble",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Pummel",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Spunge",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Shrubb",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Dandidoo",
+        "quantity": 1
+      }
+    ]
+  }
+}
