@@ -6,11 +6,20 @@
   ],
   "variants": [],
   "breeding": {
-    "Centri-fugue": {
-      "note": "Fugued from its Major form"
-    },
     "Mirror Bone Island": {
-      "note": "Transposed from this island"
+      "common": {
+        "pair": [
+          "Any Quad",
+          "Any Triple"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      }
+    },
+    "Minor Paironormal Carnival": {
+      "common": {
+        "note": "Fugued from its Major form"
+      }
     }
   }
 }

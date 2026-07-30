@@ -8,8 +8,18 @@
   ],
   "variants": [],
   "breeding": {
-    "Centri-fugue": {
-      "note": "Fugued from its Major form"
+    "Minor Paironormal Carnival": {
+      "common": {
+        "pair": [
+          "Scallyrags (Minor)",
+          "Shhimmer (Minor)"
+        ],
+        "time": "2d 8h",
+        "enhanced_time": "1d 18h"
+      },
+      "fugue": {
+        "note": "Fugued from its Major form"
+      }
     }
   }
 }
