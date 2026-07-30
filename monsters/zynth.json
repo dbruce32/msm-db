@@ -1,0 +1,23 @@
+{
+  "name": "Zynth",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "2x2",
+    "cost": "3,000 Coins",
+    "time": "3d",
+    "fill_price": "180 Diamonds",
+    "wildcards": 6,
+    "total": 6,
+    "requirements": [
+      { "monster": "Pango", "quantity": 1 },
+      { "monster": "Oaktopus", "quantity": 1 },
+      { "monster": "Drumpler", "quantity": 1 },
+      { "monster": "Maw", "quantity": 1 },
+      { "monster": "Congle", "quantity": 1 },
+      { "monster": "T-Rox", "quantity": 1 }
+    ]
+  }
+}

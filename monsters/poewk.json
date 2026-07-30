@@ -1,0 +1,26 @@
+{
+  "name": "Poewk",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "3x3",
+    "cost": "5,000 Coins",
+    "time": "5d",
+    "fill_price": "330 Diamonds",
+    "wildcards": 11,
+    "total": 11,
+    "requirements": [
+      { "monster": "Shellbeat", "quantity": 1 },
+      { "monster": "Reedling", "quantity": 1 },
+      { "monster": "Scups", "quantity": 1 },
+      { "monster": "PomPom", "quantity": 1 },
+      { "monster": "Clamble", "quantity": 2 },
+      { "monster": "Dandidoo", "quantity": 2 },
+      { "monster": "Pango", "quantity": 1 },
+      { "monster": "Shrubb", "quantity": 1 },
+      { "monster": "Oaktopus", "quantity": 1 }
+    ]
+  }
+}

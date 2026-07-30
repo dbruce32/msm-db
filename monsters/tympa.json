@@ -1,0 +1,22 @@
+{
+  "name": "Tympa",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "2x2",
+    "cost": "34,000 Coins",
+    "time": "14d",
+    "fill_price": "2,040 Diamonds",
+    "wildcards": 48,
+    "total": 68,
+    "requirements": [
+      { "monster": "Shellbeat", "quantity": 8 },
+      { "monster": "Pummel", "quantity": 12 },
+      { "monster": "Clamble", "quantity": 12 },
+      { "monster": "T-Rox", "quantity": 12 },
+      { "monster": "Drumpler", "quantity": 24 }
+    ]
+  }
+}

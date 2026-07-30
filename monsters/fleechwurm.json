@@ -1,0 +1,24 @@
+{
+  "name": "Fleechwurm",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "3x3",
+    "cost": "5,000 Coins",
+    "time": "5d",
+    "fill_price": "720 Diamonds",
+    "wildcards": 24,
+    "total": 24,
+    "requirements": [
+      { "monster": "Shellbeat", "quantity": 3 },
+      { "monster": "Quarrister", "quantity": 3 },
+      { "monster": "Reedling", "quantity": 3 },
+      { "monster": "Spunge", "quantity": 3 },
+      { "monster": "Pummel", "quantity": 4 },
+      { "monster": "Dandidoo", "quantity": 4 },
+      { "monster": "Furcorn", "quantity": 4 }
+    ]
+  }
+}

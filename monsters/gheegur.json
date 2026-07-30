@@ -1,0 +1,22 @@
+{
+  "name": "Gheegur",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "3x3",
+    "cost": "3,000 Coins",
+    "time": "7d",
+    "fill_price": "780 Diamonds",
+    "wildcards": 26,
+    "total": 26,
+    "requirements": [
+      { "monster": "Riff", "quantity": 6 },
+      { "monster": "Reedling", "quantity": 6 },
+      { "monster": "Scups", "quantity": 4 },
+      { "monster": "PomPom", "quantity": 4 },
+      { "monster": "Cybop", "quantity": 6 }
+    ]
+  }
+}

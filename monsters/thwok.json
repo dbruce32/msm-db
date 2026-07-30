@@ -1,0 +1,27 @@
+{
+  "name": "Thwok",
+  "class": "Wublin",
+  "elements": [],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "size": "2x2",
+    "cost": "17,000 Coins",
+    "time": "7d",
+    "fill_price": "750 Diamonds",
+    "wildcards": 25,
+    "total": 25,
+    "requirements": [
+      { "monster": "Shellbeat", "quantity": 1 },
+      { "monster": "Quarrister", "quantity": 1 },
+      { "monster": "Deedge", "quantity": 1 },
+      { "monster": "Riff", "quantity": 1 },
+      { "monster": "Entbrat", "quantity": 1 },
+      { "monster": "Spunge", "quantity": 4 },
+      { "monster": "PomPom", "quantity": 4 },
+      { "monster": "Bowgart", "quantity": 4 },
+      { "monster": "Quibble", "quantity": 4 },
+      { "monster": "Furcorn", "quantity": 4 }
+    ]
+  }
+}
