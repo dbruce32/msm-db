@@ -1,0 +1,206 @@
+{
+  "description": "Island icon assets for My Singing Monsters",
+  "base_url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands",
+  "islands": [
+    {
+      "name": "Air Island",
+      "file": "air.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/air.png"
+    },
+    {
+      "name": "Amber Island",
+      "file": "amber_island.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/amber_island.png"
+    },
+    {
+      "name": "Bone Island",
+      "file": "bone.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/bone.png"
+    },
+    {
+      "name": "Celestial Island",
+      "file": "celestial.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/celestial.png"
+    },
+    {
+      "name": "Cold Island",
+      "file": "cold.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/cold.png"
+    },
+    {
+      "name": "The Colossingum",
+      "file": "colossingum.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/colossingum.png"
+    },
+    {
+      "name": "Composer Island",
+      "file": "composer.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/composer.png"
+    },
+    {
+      "name": "Crystal Islet",
+      "file": "crystal_islet.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/crystal_islet.png"
+    },
+    {
+      "name": "Earth Island",
+      "file": "earth.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/earth.png"
+    },
+    {
+      "name": "Ethereal Island",
+      "file": "ethereal.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/ethereal.png"
+    },
+    {
+      "name": "Ethereal Workshop",
+      "file": "ethereal_workshop.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/ethereal_workshop.png"
+    },
+    {
+      "name": "Faerie Island",
+      "file": "faerie.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/faerie.png"
+    },
+    {
+      "name": "Fire Haven",
+      "file": "fire_haven.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/fire_haven.png"
+    },
+    {
+      "name": "Fire Oasis",
+      "file": "fire_oasis.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/fire_oasis.png"
+    },
+    {
+      "name": "Gold Island",
+      "file": "gold.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/gold.png"
+    },
+    {
+      "name": "Light Island",
+      "file": "light.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/light.png"
+    },
+    {
+      "name": "Magical Nexus",
+      "file": "magical_nexus.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/magical_nexus.png"
+    },
+    {
+      "name": "Magical Sanctum",
+      "file": "magical_sanctum.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/magical_sanctum.png"
+    },
+    {
+      "name": "Major Paironormal Carnival",
+      "file": "major_paironormal_carnival.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/major_paironormal_carnival.png"
+    },
+    {
+      "name": "Mech Islet",
+      "file": "mech_islet.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/mech_islet.png"
+    },
+    {
+      "name": "Minor Paironormal Carnival",
+      "file": "minor_paironormal_carnival.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/minor_paironormal_carnival.png"
+    },
+    {
+      "name": "Mirror Air Island",
+      "file": "mirror_air.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/mirror_air.png"
+    },
+    {
+      "name": "Mirror Bone Island",
+      "file": "mirror_bone.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/mirror_bone.png"
+    },
+    {
+      "name": "Mirror Cold Island",
+      "file": "mirror_cold.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/mirror_cold.png"
+    },
+    {
+      "name": "Mirror Earth Island",
+      "file": "mirror_earth.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/mirror_earth.png"
+    },
+    {
+      "name": "Mirror Faerie Island",
+      "file": "mirror_faerie.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/mirror_faerie.png"
+    },
+    {
+      "name": "Mirror Light Island",
+      "file": "mirror_light.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/mirror_light.png"
+    },
+    {
+      "name": "Mirror Plant Island",
+      "file": "mirror_plant.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/mirror_plant.png"
+    },
+    {
+      "name": "Mirror Psychic Island",
+      "file": "mirror_psychic.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/mirror_psychic.png"
+    },
+    {
+      "name": "Mirror Water Island",
+      "file": "mirror_water.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/mirror_water.png"
+    },
+    {
+      "name": "Mythical Island",
+      "file": "mythical.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/mythical.png"
+    },
+    {
+      "name": "Plant Island",
+      "file": "plant.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/plant.png"
+    },
+    {
+      "name": "Plasma Islet",
+      "file": "plasma_islet.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/plasma_islet.png"
+    },
+    {
+      "name": "Psychic Island",
+      "file": "psychic.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/psychic.png"
+    },
+    {
+      "name": "Seasonal Shanty",
+      "file": "seasonal_shanty.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/seasonal_shanty.png"
+    },
+    {
+      "name": "Shadow Islet",
+      "file": "shadow_islet.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/shadow_islet.png"
+    },
+    {
+      "name": "Shugabush Island",
+      "file": "shugabush.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/shugabush.png"
+    },
+    {
+      "name": "Tribal Island",
+      "file": "tribal.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/tribal.png"
+    },
+    {
+      "name": "Water Island",
+      "file": "water.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/water.png"
+    },
+    {
+      "name": "Wublin Island",
+      "file": "wublin.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Islands/wublin.png"
+    }
+  ]
+}

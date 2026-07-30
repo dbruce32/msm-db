@@ -1,0 +1,31 @@
+{
+  "description": "Currency icon assets for My Singing Monsters",
+  "base_url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Currency",
+  "currencies": [
+    {
+      "name": "Coins",
+      "file": "coins.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Currency/coins.png"
+    },
+    {
+      "name": "Diamonds",
+      "file": "diamonds.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Currency/diamonds.png"
+    },
+    {
+      "name": "Shards",
+      "file": "shards.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Currency/shards.png"
+    },
+    {
+      "name": "Starpower",
+      "file": "starpower.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Currency/starpower.png"
+    },
+    {
+      "name": "Wildcards",
+      "file": "wildcards.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Currency/wildcards.png"
+    }
+  ]
+}
