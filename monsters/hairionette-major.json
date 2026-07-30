@@ -1,12 +1,12 @@
 {
-  "name": "Arcorina",
+  "name": "Hairionette (Major)",
   "class": "Paironormal",
   "elements": [
-    "Ruin"
+    "Control"
   ],
   "variants": [],
   "breeding": {
-    "Mirror Bone Island": {
+    "Psychic Island": {
       "common": {
         "pair": [
           "Any Quad",

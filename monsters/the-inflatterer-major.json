@@ -1,0 +1,21 @@
+{
+  "name": "The Inflatterer (Major)",
+  "class": "Paironormal",
+  "elements": [
+    "Hoax",
+    "Depths"
+  ],
+  "variants": [],
+  "breeding": {
+    "Major Paironormal Carnival": {
+      "common": {
+        "pair": [
+          "Owlesque (Major)",
+          "Shhimmer (Major)"
+        ],
+        "time": "1d 21h",
+        "enhanced_time": "1d 9h 45m"
+      }
+    }
+  }
+}

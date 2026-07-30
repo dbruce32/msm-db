@@ -1,0 +1,21 @@
+{
+  "name": "Scallyrags (Major)",
+  "class": "Paironormal",
+  "elements": [
+    "Control",
+    "Hoax"
+  ],
+  "variants": [],
+  "breeding": {
+    "Major Paironormal Carnival": {
+      "common": {
+        "pair": [
+          "Hairionette (Major)",
+          "Owlesque (Major)"
+        ],
+        "time": "1d 21h",
+        "enhanced_time": "1d 9h 45m"
+      }
+    }
+  }
+}

@@ -6,10 +6,10 @@
   ],
   "variants": [],
   "breeding": {
-    "Bone Island": {
+    "Mirror Bone Island": {
       "common": {
         "pair": [
-          "Plinkajou",
+          "Any Quad",
           "Any Triple"
         ],
         "time": "1d 12h",

@@ -1,12 +1,12 @@
 {
-  "name": "Arcorina",
+  "name": "Owlesque (Major)",
   "class": "Paironormal",
   "elements": [
-    "Ruin"
+    "Hoax"
   ],
   "variants": [],
   "breeding": {
-    "Mirror Bone Island": {
+    "Faerie Island": {
       "common": {
         "pair": [
           "Any Quad",

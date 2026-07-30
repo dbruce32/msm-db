@@ -1,0 +1,22 @@
+{
+  "name": "Galymph (Major)",
+  "class": "Paironormal",
+  "elements": [
+    "Control",
+    "Hoax",
+    "Depths"
+  ],
+  "variants": [],
+  "breeding": {
+    "Major Paironormal Carnival": {
+      "common": {
+        "pair": [
+          "Scallyrags (Major)",
+          "Shhimmer (Major)"
+        ],
+        "time": "2d 8h",
+        "enhanced_time": "1d 18h"
+      }
+    }
+  }
+}

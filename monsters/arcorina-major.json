@@ -1,12 +1,12 @@
 {
-  "name": "Arcorina",
+  "name": "Arcorina (Major)",
   "class": "Paironormal",
   "elements": [
     "Ruin"
   ],
   "variants": [],
   "breeding": {
-    "Mirror Bone Island": {
+    "Bone Island": {
       "common": {
         "pair": [
           "Any Quad",

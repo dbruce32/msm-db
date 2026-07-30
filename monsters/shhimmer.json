@@ -1,12 +1,12 @@
 {
-  "name": "Arcorina",
+  "name": "Shhimmer",
   "class": "Paironormal",
   "elements": [
-    "Ruin"
+    "Depths"
   ],
   "variants": [],
   "breeding": {
-    "Mirror Bone Island": {
+    "Mirror Light Island": {
       "common": {
         "pair": [
           "Any Quad",
