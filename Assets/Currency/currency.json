@@ -13,6 +13,11 @@
       "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Currency/diamonds.png"
     },
     {
+      "name": "Keys",
+      "file": "keys.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Currency/keys.png"
+    },
+    {
       "name": "Shards",
       "file": "shards.png",
       "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Currency/shards.png"
