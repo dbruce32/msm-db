@@ -8,17 +8,7 @@
   "variants": [],
   "breeding": {
     "Minor Paironormal Carnival": {
-      "common": {
-        "pair": [
-          "Hairionette (Minor)",
-          "Arcorina (Minor)"
-        ],
-        "time": "1d 21h",
-        "enhanced_time": "1d 9h 45m"
-      },
-      "fugue": {
-        "note": "Fugued from its Major form"
-      }
+      "note": "Fugued from its Major form"
     }
   }
 }
