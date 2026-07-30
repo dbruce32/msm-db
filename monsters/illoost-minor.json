@@ -1,5 +1,5 @@
 {
-  "name": "Illoost",
+  "name": "Illoost (Minor)",
   "class": "Paironormal",
   "elements": [
     "Hoax",
@@ -9,7 +9,7 @@
   "variants": [],
   "breeding": {
     "Centri-fugue": {
-      "note": "Obtained by fuguing the Major form in the Centri-fugue"
+      "note": "Fugued from its Major form"
     }
   }
 }

@@ -1,15 +1,14 @@
 {
-  "name": "Galymph",
+  "name": "The Inflatterer (Minor)",
   "class": "Paironormal",
   "elements": [
-    "Control",
     "Hoax",
     "Depths"
   ],
   "variants": [],
   "breeding": {
     "Centri-fugue": {
-      "note": "Obtained by fuguing the Major form in the Centri-fugue"
+      "note": "Fugued from its Major form"
     }
   }
 }

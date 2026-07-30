@@ -1,0 +1,16 @@
+{
+  "name": "Arcorina (Minor)",
+  "class": "Paironormal",
+  "elements": [
+    "Ruin"
+  ],
+  "variants": [],
+  "breeding": {
+    "Centri-fugue": {
+      "note": "Fugued from its Major form"
+    },
+    "Mirror Bone Island": {
+      "note": "Transposed from this island"
+    }
+  }
+}

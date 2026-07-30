@@ -123,8 +123,8 @@
       ]
     },
     {
-      "name": "Arcorina",
-      "slug": "arcorina",
+      "name": "Arcorina (Minor)",
+      "slug": "arcorina-minor",
       "class": "Paironormal",
       "elements": [
         "Ruin"
@@ -506,8 +506,8 @@
       ]
     },
     {
-      "name": "Dakktyl",
-      "slug": "dakktyl",
+      "name": "Dakktyl (Minor)",
+      "slug": "dakktyl-minor",
       "class": "Paironormal",
       "elements": [
         "Hoax",
@@ -724,8 +724,8 @@
       ]
     },
     {
-      "name": "eRmA gUrDy",
-      "slug": "erma-gurdy",
+      "name": "eRmA gUrDy (Minor)",
+      "slug": "erma-gurdy-minor",
       "class": "Paironormal",
       "elements": [
         "Control",
@@ -904,8 +904,8 @@
       ]
     },
     {
-      "name": "Galymph",
-      "slug": "galymph",
+      "name": "Galymph (Minor)",
+      "slug": "galymph-minor",
       "class": "Paironormal",
       "elements": [
         "Control",
@@ -1001,8 +1001,8 @@
       ]
     },
     {
-      "name": "Hairionette",
-      "slug": "hairionette",
+      "name": "Hairionette (Minor)",
+      "slug": "hairionette-minor",
       "class": "Paironormal",
       "elements": [
         "Control"
@@ -1069,8 +1069,8 @@
       ]
     },
     {
-      "name": "Illoost",
-      "slug": "illoost",
+      "name": "Illoost (Minor)",
+      "slug": "illoost-minor",
       "class": "Paironormal",
       "elements": [
         "Hoax",
@@ -1125,8 +1125,8 @@
       ]
     },
     {
-      "name": "Jerm",
-      "slug": "jerm",
+      "name": "Jerm (Minor)",
+      "slug": "jerm-minor",
       "class": "Paironormal",
       "elements": [
         "Control",
@@ -1334,8 +1334,8 @@
       ]
     },
     {
-      "name": "Owlesque",
-      "slug": "owlesque",
+      "name": "Owlesque (Minor)",
+      "slug": "owlesque-minor",
       "class": "Paironormal",
       "elements": [
         "Hoax"
@@ -1553,8 +1553,8 @@
       ]
     },
     {
-      "name": "Raqsoun",
-      "slug": "raqsoun",
+      "name": "Raqsoun (Minor)",
+      "slug": "raqsoun-minor",
       "class": "Paironormal",
       "elements": [
         "Control",
@@ -1802,8 +1802,8 @@
       ]
     },
     {
-      "name": "Scallyrags",
-      "slug": "scallyrags",
+      "name": "Scallyrags (Minor)",
+      "slug": "scallyrags-minor",
       "class": "Paironormal",
       "elements": [
         "Control",
@@ -1868,8 +1868,8 @@
       ]
     },
     {
-      "name": "Shhimmer",
-      "slug": "shhimmer",
+      "name": "Shhimmer (Minor)",
+      "slug": "shhimmer-minor",
       "class": "Paironormal",
       "elements": [
         "Depths"
@@ -2114,8 +2114,8 @@
       ]
     },
     {
-      "name": "The Inflatterer",
-      "slug": "the-inflatterer",
+      "name": "The Inflatterer (Minor)",
+      "slug": "the-inflatterer-minor",
       "class": "Paironormal",
       "elements": [
         "Hoax",

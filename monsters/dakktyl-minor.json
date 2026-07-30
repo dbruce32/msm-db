@@ -1,15 +1,14 @@
 {
-  "name": "Jerm",
+  "name": "Dakktyl (Minor)",
   "class": "Paironormal",
   "elements": [
-    "Control",
     "Hoax",
     "Ruin"
   ],
   "variants": [],
   "breeding": {
     "Centri-fugue": {
-      "note": "Obtained by fuguing the Major form in the Centri-fugue"
+      "note": "Fugued from its Major form"
     }
   }
 }
