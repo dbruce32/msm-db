@@ -11,10 +11,16 @@ msm-db/
 ├── README.md
 ├── AGENTS.md
 ├── islands.json          # 28 islands with element pools
-└── monsters/             # 179 individual .json files (one per monster)
-    ├── bowgart.json
-    ├── deedge.json
-    └── ...
+├── monsters/             # 179 individual .json files (one per monster)
+│   ├── bowgart.json
+│   ├── deedge.json
+│   └── ...
+└── Assets/
+    └── Elements/         # 45 element icon PNGs + manifest
+        ├── elements.json # Manifest with names and raw GitHub URLs
+        ├── air.png
+        ├── plant.png
+        └── ...
 ```
 
 ## File Formats
@@ -59,6 +65,29 @@ Flat array of island objects with name and element pool:
 ```
 
 A monster can appear on an island if all its elements are a subset of that island's element pool.
+
+### Elements Manifest (`Assets/Elements/elements.json`)
+
+Provides a discoverable index of all 45 element icon assets with pre-built raw GitHub URLs:
+
+```json
+{
+  "description": "Element icon assets for My Singing Monsters",
+  "base_url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements",
+  "elements": [
+    {
+      "name": "Air",
+      "file": "air.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/air.png"
+    }
+  ]
+}
+```
+
+Usage:
+- Fetch the manifest to discover all available element icons
+- Use the `url` field directly, or construct URLs with `base_url + "/" + file`
+- Icons are PNG format, named with lowercase/underscore convention (except `SummerSong.png`)
 
 ## Data Completeness
 

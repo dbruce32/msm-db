@@ -1,0 +1,231 @@
+{
+  "description": "Element icon assets for My Singing Monsters",
+  "base_url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements",
+  "elements": [
+    {
+      "name": "Air",
+      "file": "air.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/air.png"
+    },
+    {
+      "name": "Anniversary Month",
+      "file": "anniversary_month.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/anniversary_month.png"
+    },
+    {
+      "name": "Beat Hereafter",
+      "file": "beat_hereafter.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/beat_hereafter.png"
+    },
+    {
+      "name": "Bone",
+      "file": "bone.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/bone.png"
+    },
+    {
+      "name": "Celestial",
+      "file": "celestial.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/celestial.png"
+    },
+    {
+      "name": "Cloverspell",
+      "file": "cloverspell.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/cloverspell.png"
+    },
+    {
+      "name": "Cold",
+      "file": "cold.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/cold.png"
+    },
+    {
+      "name": "Control",
+      "file": "control.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/control.png"
+    },
+    {
+      "name": "Crescendo Moon",
+      "file": "crescendo_moon.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/crescendo_moon.png"
+    },
+    {
+      "name": "Crystal",
+      "file": "crystal.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/crystal.png"
+    },
+    {
+      "name": "Depths",
+      "file": "depths.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/depths.png"
+    },
+    {
+      "name": "Dipster",
+      "file": "dipster.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/dipster.png"
+    },
+    {
+      "name": "Dream",
+      "file": "dream.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/dream.png"
+    },
+    {
+      "name": "Earth",
+      "file": "earth.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/earth.png"
+    },
+    {
+      "name": "Echoes of Eco",
+      "file": "echoes_of_eco.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/echoes_of_eco.png"
+    },
+    {
+      "name": "Electricity",
+      "file": "electricity.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/electricity.png"
+    },
+    {
+      "name": "Faerie",
+      "file": "faerie.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/faerie.png"
+    },
+    {
+      "name": "Feast Ember",
+      "file": "feast_ember.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/feast_ember.png"
+    },
+    {
+      "name": "Festival of Yay",
+      "file": "festival_of_yay.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/festival_of_yay.png"
+    },
+    {
+      "name": "Fire",
+      "file": "fire.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/fire.png"
+    },
+    {
+      "name": "Hoax",
+      "file": "hoax.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/hoax.png"
+    },
+    {
+      "name": "Legendary",
+      "file": "legendary.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/legendary.png"
+    },
+    {
+      "name": "Life Formula",
+      "file": "life-formula.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/life-formula.png"
+    },
+    {
+      "name": "Light",
+      "file": "light.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/light.png"
+    },
+    {
+      "name": "Mech",
+      "file": "mech.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/mech.png"
+    },
+    {
+      "name": "Mindboggle",
+      "file": "mindboggle.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/mindboggle.png"
+    },
+    {
+      "name": "Mythical",
+      "file": "mythical.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/mythical.png"
+    },
+    {
+      "name": "Perplexplore",
+      "file": "perplexplore.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/perplexplore.png"
+    },
+    {
+      "name": "Plant",
+      "file": "plant.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/plant.png"
+    },
+    {
+      "name": "Plasma",
+      "file": "plasma.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/plasma.png"
+    },
+    {
+      "name": "Poison",
+      "file": "poison.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/poison.png"
+    },
+    {
+      "name": "Primordial Air",
+      "file": "primordial_air.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/primordial_air.png"
+    },
+    {
+      "name": "Primordial Cold",
+      "file": "primordial_cold.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/primordial_cold.png"
+    },
+    {
+      "name": "Primordial Earth",
+      "file": "primordial_earth.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/primordial_earth.png"
+    },
+    {
+      "name": "Primordial Plant",
+      "file": "primordial_plant.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/primordial_plant.png"
+    },
+    {
+      "name": "Primordial Water",
+      "file": "primordial_water.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/primordial_water.png"
+    },
+    {
+      "name": "Psychic",
+      "file": "psychic.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/psychic.png"
+    },
+    {
+      "name": "Ruin",
+      "file": "ruin.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/ruin.png"
+    },
+    {
+      "name": "Season of Love",
+      "file": "season_of_love.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/season_of_love.png"
+    },
+    {
+      "name": "Shadow",
+      "file": "shadow.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/shadow.png"
+    },
+    {
+      "name": "Skypainting",
+      "file": "skypainting.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/skypainting.png"
+    },
+    {
+      "name": "Spooktacle",
+      "file": "spooktacle.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/spooktacle.png"
+    },
+    {
+      "name": "Summer Song",
+      "file": "SummerSong.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/SummerSong.png"
+    },
+    {
+      "name": "Titansoul",
+      "file": "titansoul.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/titansoul.png"
+    },
+    {
+      "name": "Water",
+      "file": "water.png",
+      "url": "https://raw.githubusercontent.com/dbruce32/msm-db/main/Assets/Elements/water.png"
+    }
+  ]
+}
