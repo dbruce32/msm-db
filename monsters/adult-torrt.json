@@ -1,0 +1,93 @@
+{
+  "name": "Adult Torrt",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Earth",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "10 Keys",
+    "time": "31d",
+    "availability": "October 1st 3:00pm UTC to November 1st 3:00pm UTC",
+    "fill_price": "3,375 Diamonds",
+    "wildcards": 45,
+    "total": 45,
+    "sells_for": "2,841,761 Coins",
+    "requirements": [
+      {
+        "monster": "Cybop",
+        "quantity": 3
+      },
+      {
+        "monster": "Shrubb",
+        "quantity": 3
+      },
+      {
+        "monster": "Fwog",
+        "quantity": 3
+      },
+      {
+        "monster": "Drumpler",
+        "quantity": 3
+      },
+      {
+        "monster": "Reedling",
+        "quantity": 2
+      },
+      {
+        "monster": "Scups",
+        "quantity": 2
+      },
+      {
+        "monster": "PomPom",
+        "quantity": 2
+      },
+      {
+        "monster": "Pummel",
+        "quantity": 2
+      },
+      {
+        "monster": "Clamble",
+        "quantity": 2
+      },
+      {
+        "monster": "T-Rox",
+        "quantity": 2
+      },
+      {
+        "monster": "Quarrister",
+        "quantity": 2
+      },
+      {
+        "monster": "Entbrat",
+        "quantity": 2
+      },
+      {
+        "monster": "Riff",
+        "quantity": 2
+      },
+      {
+        "monster": "Shellbeat",
+        "quantity": 2
+      },
+      {
+        "monster": "Punkleton",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Earth Double",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Earth Triple",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Earth Quad",
+        "quantity": 1
+      }
+    ]
+  }
+}

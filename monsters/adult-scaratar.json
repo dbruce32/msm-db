@@ -1,0 +1,109 @@
+{
+  "name": "Adult Scaratar",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Poison",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "10 Keys",
+    "time": "31d",
+    "availability": "August 1st 3:00pm UTC to September 1st 3:00pm UTC",
+    "fill_price": "4,475 Diamonds",
+    "wildcards": 88,
+    "total": 88,
+    "sells_for": "4,139,704 Coins",
+    "requirements": [
+      {
+        "monster": "Dandidoo",
+        "quantity": 3
+      },
+      {
+        "monster": "Cybop",
+        "quantity": 3
+      },
+      {
+        "monster": "Pango",
+        "quantity": 3
+      },
+      {
+        "monster": "Shrubb",
+        "quantity": 3
+      },
+      {
+        "monster": "Furcorn",
+        "quantity": 3
+      },
+      {
+        "monster": "Drumpler",
+        "quantity": 3
+      },
+      {
+        "monster": "Reedling",
+        "quantity": 2
+      },
+      {
+        "monster": "Thumpies",
+        "quantity": 2
+      },
+      {
+        "monster": "PomPom",
+        "quantity": 2
+      },
+      {
+        "monster": "Clamble",
+        "quantity": 2
+      },
+      {
+        "monster": "Quarrister",
+        "quantity": 1
+      },
+      {
+        "monster": "Floot Fly",
+        "quantity": 5
+      },
+      {
+        "monster": "HippityHop",
+        "quantity": 3
+      },
+      {
+        "monster": "Squot",
+        "quantity": 3
+      },
+      {
+        "monster": "Wimmzies",
+        "quantity": 3
+      },
+      {
+        "monster": "Cantorell",
+        "quantity": 2
+      },
+      {
+        "monster": "Bridg-it",
+        "quantity": 2
+      },
+      {
+        "monster": "Clavi Gnat",
+        "quantity": 2
+      },
+      {
+        "monster": "Pladdie",
+        "quantity": 1
+      },
+      {
+        "monster": "Boo'qwurm",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Faerie Double",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Fire Triple",
+        "quantity": 1
+      }
+    ]
+  }
+}

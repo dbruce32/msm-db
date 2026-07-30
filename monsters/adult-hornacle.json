@@ -1,0 +1,93 @@
+{
+  "name": "Adult Hornacle",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Water",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "10 Keys",
+    "time": "31d",
+    "availability": "January 1st 3:00pm UTC to February 1st 3:00pm UTC",
+    "fill_price": "3,375 Diamonds",
+    "wildcards": 45,
+    "total": 45,
+    "sells_for": "2,757,141 Coins",
+    "requirements": [
+      {
+        "monster": "Quibble",
+        "quantity": 3
+      },
+      {
+        "monster": "Oaktopus",
+        "quantity": 3
+      },
+      {
+        "monster": "Fwog",
+        "quantity": 3
+      },
+      {
+        "monster": "Maw",
+        "quantity": 3
+      },
+      {
+        "monster": "T-Rox",
+        "quantity": 2
+      },
+      {
+        "monster": "Spunge",
+        "quantity": 2
+      },
+      {
+        "monster": "Scups",
+        "quantity": 2
+      },
+      {
+        "monster": "Congle",
+        "quantity": 2
+      },
+      {
+        "monster": "Pummel",
+        "quantity": 2
+      },
+      {
+        "monster": "Bowgart",
+        "quantity": 2
+      },
+      {
+        "monster": "Deedge",
+        "quantity": 2
+      },
+      {
+        "monster": "Entbrat",
+        "quantity": 2
+      },
+      {
+        "monster": "Riff",
+        "quantity": 2
+      },
+      {
+        "monster": "Shellbeat",
+        "quantity": 2
+      },
+      {
+        "monster": "Carillong",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Water Double",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Water Triple",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Water Quad",
+        "quantity": 1
+      }
+    ]
+  }
+}

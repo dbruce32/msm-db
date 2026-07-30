@@ -1,0 +1,109 @@
+{
+  "name": "Adult Loodvigg",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Shadow",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "10 Keys",
+    "time": "30d",
+    "availability": "September 1st 3:00pm UTC to October 1st 3:00pm UTC",
+    "fill_price": "3,350 Diamonds",
+    "wildcards": 65,
+    "total": 65,
+    "sells_for": "3,790,183 Coins",
+    "requirements": [
+      {
+        "monster": "Dandidoo",
+        "quantity": 3
+      },
+      {
+        "monster": "Quibble",
+        "quantity": 3
+      },
+      {
+        "monster": "Pango",
+        "quantity": 3
+      },
+      {
+        "monster": "Oaktopus",
+        "quantity": 3
+      },
+      {
+        "monster": "Furcorn",
+        "quantity": 3
+      },
+      {
+        "monster": "Maw",
+        "quantity": 3
+      },
+      {
+        "monster": "Spunge",
+        "quantity": 2
+      },
+      {
+        "monster": "Thumpies",
+        "quantity": 2
+      },
+      {
+        "monster": "Congle",
+        "quantity": 2
+      },
+      {
+        "monster": "Bowgart",
+        "quantity": 2
+      },
+      {
+        "monster": "Deedge",
+        "quantity": 1
+      },
+      {
+        "monster": "Gloptic",
+        "quantity": 1
+      },
+      {
+        "monster": "Pladdie",
+        "quantity": 1
+      },
+      {
+        "monster": "Plinkajou",
+        "quantity": 1
+      },
+      {
+        "monster": "Blow't",
+        "quantity": 1
+      },
+      {
+        "monster": "Viveine",
+        "quantity": 1
+      },
+      {
+        "monster": "Clavavera",
+        "quantity": 1
+      },
+      {
+        "monster": "Whiz-bang",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Psychic Double",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Bone Double",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Light Double",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Faerie Double",
+        "quantity": 1
+      }
+    ]
+  }
+}

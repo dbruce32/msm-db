@@ -1,0 +1,113 @@
+{
+  "name": "Adult Furnoss",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Fire",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "10 Keys",
+    "time": "28d",
+    "availability": "February 1st 3:00pm UTC to March 1st 3:00pm UTC",
+    "fill_price": "4,175 Diamonds",
+    "wildcards": 102,
+    "total": 102,
+    "sells_for": "10,394,250 Coins",
+    "requirements": [
+      {
+        "monster": "Kayna",
+        "quantity": 3
+      },
+      {
+        "monster": "Dandidoo",
+        "quantity": 3
+      },
+      {
+        "monster": "Cybop",
+        "quantity": 3
+      },
+      {
+        "monster": "Shrubb",
+        "quantity": 3
+      },
+      {
+        "monster": "Glowl",
+        "quantity": 3
+      },
+      {
+        "monster": "Flowah",
+        "quantity": 2
+      },
+      {
+        "monster": "Stogg",
+        "quantity": 2
+      },
+      {
+        "monster": "Reedling",
+        "quantity": 2
+      },
+      {
+        "monster": "Floogull",
+        "quantity": 1
+      },
+      {
+        "monster": "Barrb",
+        "quantity": 1
+      },
+      {
+        "monster": "Repatillo",
+        "quantity": 1
+      },
+      {
+        "monster": "Tring",
+        "quantity": 1
+      },
+      {
+        "monster": "Fluoress",
+        "quantity": 5
+      },
+      {
+        "monster": "Gob",
+        "quantity": 3
+      },
+      {
+        "monster": "Bulbo",
+        "quantity": 3
+      },
+      {
+        "monster": "Pluckbill",
+        "quantity": 3
+      },
+      {
+        "monster": "Spytrap",
+        "quantity": 2
+      },
+      {
+        "monster": "TooToo",
+        "quantity": 2
+      },
+      {
+        "monster": "Fiddlement",
+        "quantity": 2
+      },
+      {
+        "monster": "Blow't",
+        "quantity": 1
+      },
+      {
+        "monster": "Schmoochle",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Light Double",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Fire Triple",
+        "quantity": 1
+      }
+    ]
+  }
+}
