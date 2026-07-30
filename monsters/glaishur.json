@@ -1,0 +1,69 @@
+{
+  "name": "Glaishur",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Cold",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "10 Keys",
+    "discounted_cost": "4 Keys",
+    "time": "10d",
+    "fill_price": "3,480 Diamonds",
+    "wildcards": 87,
+    "sells_for": "40,000 Coins",
+    "awakened_sells_for": "1,393,018 Coins",
+    "requirements": [
+      {
+        "monster": "Deedge",
+        "quantity": 4
+      },
+      {
+        "monster": "Bowgart",
+        "quantity": 3
+      },
+      {
+        "monster": "PomPom",
+        "quantity": 3
+      },
+      {
+        "monster": "Thumpies",
+        "quantity": 2
+      },
+      {
+        "monster": "Congle",
+        "quantity": 2
+      },
+      {
+        "monster": "Clamble",
+        "quantity": 1
+      },
+      {
+        "monster": "T-Rox",
+        "quantity": 2
+      },
+      {
+        "monster": "Pango",
+        "quantity": 8
+      },
+      {
+        "monster": "Furcorn",
+        "quantity": 10
+      },
+      {
+        "monster": "Drumpler",
+        "quantity": 7
+      },
+      {
+        "monster": "Maw",
+        "quantity": 5
+      },
+      {
+        "monster": "Mammott",
+        "quantity": 40
+      }
+    ]
+  }
+}

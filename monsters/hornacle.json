@@ -1,0 +1,69 @@
+{
+  "name": "Hornacle",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Water",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "12 Keys",
+    "discounted_cost": "5 Keys",
+    "time": "12d",
+    "fill_price": "4,720 Diamonds",
+    "wildcards": 118,
+    "sells_for": "72,000 Coins",
+    "awakened_sells_for": "1,461,400 Coins",
+    "requirements": [
+      {
+        "monster": "Shellbeat",
+        "quantity": 3
+      },
+      {
+        "monster": "Pummel",
+        "quantity": 5
+      },
+      {
+        "monster": "Bowgart",
+        "quantity": 4
+      },
+      {
+        "monster": "Scups",
+        "quantity": 4
+      },
+      {
+        "monster": "Congle",
+        "quantity": 3
+      },
+      {
+        "monster": "Spunge",
+        "quantity": 3
+      },
+      {
+        "monster": "Oaktopus",
+        "quantity": 12
+      },
+      {
+        "monster": "Quibble",
+        "quantity": 8
+      },
+      {
+        "monster": "T-Rox",
+        "quantity": 2
+      },
+      {
+        "monster": "Fwog",
+        "quantity": 15
+      },
+      {
+        "monster": "Maw",
+        "quantity": 9
+      },
+      {
+        "monster": "Toe Jammer",
+        "quantity": 50
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Vhamp",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Mech",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "8 Keys",
+    "discounted_cost": "3 Keys",
+    "time": "8d",
+    "fill_price": "7,800 Diamonds",
+    "wildcards": 195,
+    "sells_for": "80,000 Coins",
+    "awakened_sells_for": "922,792 Coins",
+    "requirements": [
+      {
+        "monster": "Riff",
+        "quantity": 1
+      },
+      {
+        "monster": "Scups",
+        "quantity": 3
+      },
+      {
+        "monster": "Congle",
+        "quantity": 3
+      },
+      {
+        "monster": "PomPom",
+        "quantity": 1
+      },
+      {
+        "monster": "T-Rox",
+        "quantity": 4
+      },
+      {
+        "monster": "Cybop",
+        "quantity": 15
+      },
+      {
+        "monster": "Pango",
+        "quantity": 5
+      },
+      {
+        "monster": "Quibble",
+        "quantity": 5
+      },
+      {
+        "monster": "Tweedle",
+        "quantity": 9
+      },
+      {
+        "monster": "Drumpler",
+        "quantity": 12
+      },
+      {
+        "monster": "Maw",
+        "quantity": 7
+      },
+      {
+        "monster": "Fwog",
+        "quantity": 5
+      },
+      {
+        "monster": "Mammott",
+        "quantity": 35
+      },
+      {
+        "monster": "Toe Jammer",
+        "quantity": 50
+      },
+      {
+        "monster": "Noggin",
+        "quantity": 40
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Torrt",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Earth",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "7 Keys",
+    "discounted_cost": "3 Keys",
+    "time": "7d",
+    "fill_price": "3,480 Diamonds",
+    "wildcards": 87,
+    "sells_for": "110,000 Coins",
+    "awakened_sells_for": "889,763 Coins",
+    "requirements": [
+      {
+        "monster": "Quarrister",
+        "quantity": 1
+      },
+      {
+        "monster": "PomPom",
+        "quantity": 3
+      },
+      {
+        "monster": "Clamble",
+        "quantity": 2
+      },
+      {
+        "monster": "Reedling",
+        "quantity": 2
+      },
+      {
+        "monster": "Pummel",
+        "quantity": 2
+      },
+      {
+        "monster": "Scups",
+        "quantity": 1
+      },
+      {
+        "monster": "T-Rox",
+        "quantity": 6
+      },
+      {
+        "monster": "Shrubb",
+        "quantity": 4
+      },
+      {
+        "monster": "Cybop",
+        "quantity": 6
+      },
+      {
+        "monster": "Drumpler",
+        "quantity": 6
+      },
+      {
+        "monster": "Fwog",
+        "quantity": 4
+      },
+      {
+        "monster": "Noggin",
+        "quantity": 50
+      }
+    ]
+  }
+}

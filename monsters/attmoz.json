@@ -1,0 +1,69 @@
+{
+  "name": "Attmoz",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Air",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "12 Keys",
+    "discounted_cost": "5 Keys",
+    "time": "12d",
+    "fill_price": "2,600 Diamonds",
+    "wildcards": 65,
+    "sells_for": "30,000 Coins",
+    "awakened_sells_for": "1,167,138 Coins",
+    "requirements": [
+      {
+        "monster": "Riff",
+        "quantity": 3
+      },
+      {
+        "monster": "PomPom",
+        "quantity": 3
+      },
+      {
+        "monster": "Congle",
+        "quantity": 2
+      },
+      {
+        "monster": "Scups",
+        "quantity": 2
+      },
+      {
+        "monster": "Spunge",
+        "quantity": 2
+      },
+      {
+        "monster": "Thumpies",
+        "quantity": 2
+      },
+      {
+        "monster": "Reedling",
+        "quantity": 1
+      },
+      {
+        "monster": "Cybop",
+        "quantity": 8
+      },
+      {
+        "monster": "Pango",
+        "quantity": 6
+      },
+      {
+        "monster": "Quibble",
+        "quantity": 6
+      },
+      {
+        "monster": "Dandidoo",
+        "quantity": 5
+      },
+      {
+        "monster": "Tweedle",
+        "quantity": 25
+      }
+    ]
+  }
+}

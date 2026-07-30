@@ -1,0 +1,81 @@
+{
+  "name": "Plixie",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Plasma",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "13 Keys",
+    "discounted_cost": "5 Keys",
+    "time": "13d",
+    "fill_price": "9,960 Diamonds",
+    "wildcards": 249,
+    "sells_for": "50,000 Coins",
+    "awakened_sells_for": "1,871,851 Coins",
+    "requirements": [
+      {
+        "monster": "Entbrat",
+        "quantity": 5
+      },
+      {
+        "monster": "Bowgart",
+        "quantity": 3
+      },
+      {
+        "monster": "Pummel",
+        "quantity": 2
+      },
+      {
+        "monster": "Clamble",
+        "quantity": 2
+      },
+      {
+        "monster": "T-Rox",
+        "quantity": 4
+      },
+      {
+        "monster": "Oaktopus",
+        "quantity": 15
+      },
+      {
+        "monster": "Shrubb",
+        "quantity": 8
+      },
+      {
+        "monster": "Furcorn",
+        "quantity": 7
+      },
+      {
+        "monster": "Potbelly",
+        "quantity": 16
+      },
+      {
+        "monster": "Maw",
+        "quantity": 35
+      },
+      {
+        "monster": "Fwog",
+        "quantity": 20
+      },
+      {
+        "monster": "Drumpler",
+        "quantity": 12
+      },
+      {
+        "monster": "Mammott",
+        "quantity": 25
+      },
+      {
+        "monster": "Toe Jammer",
+        "quantity": 25
+      },
+      {
+        "monster": "Noggin",
+        "quantity": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Scaratar",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Poison",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "9 Keys",
+    "discounted_cost": "4 Keys",
+    "time": "9d",
+    "fill_price": "4,920 Diamonds",
+    "wildcards": 123,
+    "sells_for": "44,000 Coins",
+    "awakened_sells_for": "930,091 Coins",
+    "requirements": [
+      {
+        "monster": "Quarrister",
+        "quantity": 2
+      },
+      {
+        "monster": "Thumpies",
+        "quantity": 4
+      },
+      {
+        "monster": "Clamble",
+        "quantity": 3
+      },
+      {
+        "monster": "Reedling",
+        "quantity": 2
+      },
+      {
+        "monster": "PomPom",
+        "quantity": 1
+      },
+      {
+        "monster": "Dandidoo",
+        "quantity": 5
+      },
+      {
+        "monster": "Furcorn",
+        "quantity": 7
+      },
+      {
+        "monster": "Shrubb",
+        "quantity": 6
+      },
+      {
+        "monster": "Cybop",
+        "quantity": 3
+      },
+      {
+        "monster": "Pango",
+        "quantity": 3
+      },
+      {
+        "monster": "Drumpler",
+        "quantity": 4
+      },
+      {
+        "monster": "Tweedle",
+        "quantity": 6
+      },
+      {
+        "monster": "Potbelly",
+        "quantity": 16
+      },
+      {
+        "monster": "Mammott",
+        "quantity": 25
+      },
+      {
+        "monster": "Noggin",
+        "quantity": 36
+      }
+    ]
+  }
+}

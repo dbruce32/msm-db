@@ -1,0 +1,81 @@
+{
+  "name": "Loodvigg",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Shadow",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "8 Keys",
+    "discounted_cost": "3 Keys",
+    "time": "8d",
+    "fill_price": "4,840 Diamonds",
+    "wildcards": 121,
+    "sells_for": "100,000 Coins",
+    "awakened_sells_for": "1,106,445 Coins",
+    "requirements": [
+      {
+        "monster": "Deedge",
+        "quantity": 2
+      },
+      {
+        "monster": "Bowgart",
+        "quantity": 5
+      },
+      {
+        "monster": "Congle",
+        "quantity": 2
+      },
+      {
+        "monster": "Thumpies",
+        "quantity": 2
+      },
+      {
+        "monster": "Spunge",
+        "quantity": 1
+      },
+      {
+        "monster": "Oaktopus",
+        "quantity": 8
+      },
+      {
+        "monster": "Furcorn",
+        "quantity": 6
+      },
+      {
+        "monster": "Dandidoo",
+        "quantity": 5
+      },
+      {
+        "monster": "Quibble",
+        "quantity": 4
+      },
+      {
+        "monster": "Pango",
+        "quantity": 2
+      },
+      {
+        "monster": "Tweedle",
+        "quantity": 8
+      },
+      {
+        "monster": "Potbelly",
+        "quantity": 6
+      },
+      {
+        "monster": "Maw",
+        "quantity": 15
+      },
+      {
+        "monster": "Mammott",
+        "quantity": 25
+      },
+      {
+        "monster": "Toe Jammer",
+        "quantity": 30
+      }
+    ]
+  }
+}

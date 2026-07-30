@@ -1,0 +1,81 @@
+{
+  "name": "Syncopite",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Crystal",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "11 Keys",
+    "discounted_cost": "4 Keys",
+    "time": "11d",
+    "fill_price": "6,960 Diamonds",
+    "wildcards": 174,
+    "sells_for": "34,000 Coins",
+    "awakened_sells_for": "1,079,619 Coins",
+    "requirements": [
+      {
+        "monster": "Shellbeat",
+        "quantity": 2
+      },
+      {
+        "monster": "Pummel",
+        "quantity": 4
+      },
+      {
+        "monster": "Spunge",
+        "quantity": 6
+      },
+      {
+        "monster": "Reedling",
+        "quantity": 4
+      },
+      {
+        "monster": "Scups",
+        "quantity": 3
+      },
+      {
+        "monster": "Dandidoo",
+        "quantity": 6
+      },
+      {
+        "monster": "Quibble",
+        "quantity": 6
+      },
+      {
+        "monster": "Cybop",
+        "quantity": 3
+      },
+      {
+        "monster": "Oaktopus",
+        "quantity": 5
+      },
+      {
+        "monster": "Shrubb",
+        "quantity": 2
+      },
+      {
+        "monster": "Fwog",
+        "quantity": 10
+      },
+      {
+        "monster": "Tweedle",
+        "quantity": 6
+      },
+      {
+        "monster": "Potbelly",
+        "quantity": 12
+      },
+      {
+        "monster": "Toe Jammer",
+        "quantity": 30
+      },
+      {
+        "monster": "Noggin",
+        "quantity": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Furnoss",
+  "class": "Celestial",
+  "elements": [
+    "Celestial"
+  ],
+  "associated_element": "Fire",
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "ascension_cost": "25 Keys",
+    "discounted_cost": "10 Keys",
+    "time": "25d",
+    "fill_price": "3,760 Diamonds",
+    "wildcards": 137,
+    "sells_for": "33,000 Coins",
+    "awakened_sells_for": "19,933,150 Coins",
+    "requirements": [
+      {
+        "monster": "Tring",
+        "quantity": 2
+      },
+      {
+        "monster": "Floogull",
+        "quantity": 4
+      },
+      {
+        "monster": "Barrb",
+        "quantity": 3
+      },
+      {
+        "monster": "Repatillo",
+        "quantity": 3
+      },
+      {
+        "monster": "Reedling",
+        "quantity": 3
+      },
+      {
+        "monster": "Glowl",
+        "quantity": 7
+      },
+      {
+        "monster": "Flowah",
+        "quantity": 5
+      },
+      {
+        "monster": "Stogg",
+        "quantity": 5
+      },
+      {
+        "monster": "Shrubb",
+        "quantity": 3
+      },
+      {
+        "monster": "Cybop",
+        "quantity": 2
+      },
+      {
+        "monster": "Dandidoo",
+        "quantity": 2
+      },
+      {
+        "monster": "Kayna",
+        "quantity": 15
+      },
+      {
+        "monster": "Tweedle",
+        "quantity": 5
+      },
+      {
+        "monster": "Potbelly",
+        "quantity": 10
+      },
+      {
+        "monster": "Noggin",
+        "quantity": 25
+      }
+    ]
+  }
+}
