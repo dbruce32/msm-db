@@ -1,0 +1,50 @@
+{
+  "name": "Epic Gheegur",
+  "class": "Epic Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "7 Keys",
+    "fill_price": "1,400 Diamonds",
+    "wildcards": 60,
+    "total": 8,
+    "release_date": "December 10th, 2025",
+    "requirements": [
+      {
+        "monster": "Epic Cybop",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Reedling",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Scups",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic PomPom",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Riff",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Sooza",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Thrumble",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Sneyser",
+        "quantity": 1
+      }
+    ]
+  }
+}

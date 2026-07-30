@@ -1,0 +1,66 @@
+{
+  "name": "Epic Bona-Petite",
+  "class": "Epic Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "10 Keys",
+    "fill_price": "2,400 Diamonds",
+    "wildcards": 78,
+    "total": 12,
+    "release_date": "June 10th, 2026",
+    "requirements": [
+      {
+        "monster": "Epic Mammott",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Fwog",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Drumpler",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Maw",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic PomPom",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Bowgart",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic T-Rox",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Riff",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Entbrat",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Sooza",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Woolabee",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Bisonorus",
+        "quantity": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Epic Dwumrohl",
+  "class": "Epic Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "14 Keys",
+    "fill_price": "4,000 Diamonds",
+    "wildcards": 122,
+    "total": 20,
+    "release_date": "April 16th, 2025",
+    "requirements": [
+      {
+        "monster": "Epic Entbrat",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Deedge",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Riff",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Shellbeat",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Quarrister",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Reedling",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Scups",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Thumpies",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic PomPom",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Congle",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Pummel",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Bowgart",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Tweedle",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Potbelly",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Noggin",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Toe Jammer",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Mammott",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Repatillo",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Rootitoot",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Tring",
+        "quantity": 1
+      }
+    ]
+  }
+}

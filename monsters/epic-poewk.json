@@ -1,0 +1,58 @@
+{
+  "name": "Epic Poewk",
+  "class": "Epic Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "5 Keys",
+    "fill_price": "2,000 Diamonds",
+    "wildcards": 54,
+    "total": 10,
+    "release_date": "April 16th, 2025",
+    "requirements": [
+      {
+        "monster": "Epic Shellbeat",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Reedling",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Scups",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic PomPom",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Clamble",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Dandidoo",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Pango",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Shrubb",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Oaktopus",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Glowl",
+        "quantity": 1
+      }
+    ]
+  }
+}

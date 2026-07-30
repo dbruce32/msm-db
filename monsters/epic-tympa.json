@@ -1,0 +1,50 @@
+{
+  "name": "Epic Tympa",
+  "class": "Epic Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "14 Keys",
+    "fill_price": "2,800 Diamonds",
+    "wildcards": 90,
+    "total": 14,
+    "release_date": "August 6th, 2025",
+    "requirements": [
+      {
+        "monster": "Epic Drumpler",
+        "quantity": 4
+      },
+      {
+        "monster": "Epic Pummel",
+        "quantity": 2
+      },
+      {
+        "monster": "Epic Clamble",
+        "quantity": 2
+      },
+      {
+        "monster": "Epic T-Rox",
+        "quantity": 2
+      },
+      {
+        "monster": "Epic Shellbeat",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Ziggurab",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Repatillo",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic PongPing",
+        "quantity": 1
+      }
+    ]
+  }
+}

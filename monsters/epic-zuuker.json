@@ -1,0 +1,54 @@
+{
+  "name": "Epic Zuuker",
+  "class": "Epic Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "10 Keys",
+    "fill_price": "1,800 Diamonds",
+    "wildcards": 61,
+    "total": 9,
+    "release_date": "June 4th, 2025",
+    "requirements": [
+      {
+        "monster": "Epic Entbrat",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Deedge",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Bowgart",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic T-Rox",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Oaktopus",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Furcorn",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Fwog",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Floogull",
+        "quantity": 1
+      },
+      {
+        "monster": "Epic Krillby",
+        "quantity": 1
+      }
+    ]
+  }
+}
