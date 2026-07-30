@@ -1,0 +1,16 @@
+{
+  "name": "Owlesque (Minor)",
+  "class": "Paironormal",
+  "elements": [
+    "Hoax"
+  ],
+  "variants": [],
+  "breeding": {
+    "Centri-fugue": {
+      "note": "Fugued from its Major form"
+    },
+    "Mirror Faerie Island": {
+      "note": "Transposed from this island"
+    }
+  }
+}

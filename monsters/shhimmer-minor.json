@@ -1,0 +1,16 @@
+{
+  "name": "Shhimmer (Minor)",
+  "class": "Paironormal",
+  "elements": [
+    "Depths"
+  ],
+  "variants": [],
+  "breeding": {
+    "Centri-fugue": {
+      "note": "Fugued from its Major form"
+    },
+    "Mirror Light Island": {
+      "note": "Transposed from this island"
+    }
+  }
+}

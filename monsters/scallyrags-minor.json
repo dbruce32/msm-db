@@ -1,5 +1,5 @@
 {
-  "name": "Scallyrags",
+  "name": "Scallyrags (Minor)",
   "class": "Paironormal",
   "elements": [
     "Control",
@@ -8,7 +8,7 @@
   "variants": [],
   "breeding": {
     "Centri-fugue": {
-      "note": "Obtained by fuguing the Major form in the Centri-fugue"
+      "note": "Fugued from its Major form"
     }
   }
 }

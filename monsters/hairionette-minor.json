@@ -1,0 +1,16 @@
+{
+  "name": "Hairionette (Minor)",
+  "class": "Paironormal",
+  "elements": [
+    "Control"
+  ],
+  "variants": [],
+  "breeding": {
+    "Centri-fugue": {
+      "note": "Fugued from its Major form"
+    },
+    "Mirror Psychic Island": {
+      "note": "Transposed from this island"
+    }
+  }
+}
