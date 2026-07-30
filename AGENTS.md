@@ -16,10 +16,21 @@ msm-db/
 │   ├── deedge.json
 │   └── ...
 └── Assets/
-    └── Elements/         # 46 element icon PNGs + manifest
-        ├── elements.json # Manifest with names and raw GitHub URLs
-        ├── air.png
-        ├── plant.png
+    ├── Elements/         # 46 element icon PNGs + manifest
+    │   ├── elements.json
+    │   ├── air.png
+    │   └── ...
+    ├── Islands/          # 40 island icon PNGs + manifest
+    │   ├── islands.json
+    │   ├── plant.png
+    │   └── ...
+    ├── Currency/         # 5 currency icon PNGs + manifest
+    │   ├── currency.json
+    │   ├── coins.png
+    │   └── ...
+    └── General/          # 2 general icon PNGs + manifest
+        ├── general.json
+        ├── 2x2.png
         └── ...
 ```
 
