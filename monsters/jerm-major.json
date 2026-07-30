@@ -1,0 +1,22 @@
+{
+  "name": "Jerm (Major)",
+  "class": "Paironormal",
+  "elements": [
+    "Control",
+    "Hoax",
+    "Ruin"
+  ],
+  "variants": [],
+  "breeding": {
+    "Major Paironormal Carnival": {
+      "common": {
+        "pair": [
+          "Dakktyl (Major)",
+          "Hairionette (Major)"
+        ],
+        "time": "2d 8h",
+        "enhanced_time": "1d 18h"
+      }
+    }
+  }
+}

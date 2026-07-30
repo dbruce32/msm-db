@@ -1,0 +1,14 @@
+{
+  "name": "The Inflatterer",
+  "class": "Paironormal",
+  "elements": [
+    "Hoax",
+    "Depths"
+  ],
+  "variants": [],
+  "breeding": {
+    "Centri-fugue": {
+      "note": "Obtained by fuguing the Major form in the Centri-fugue"
+    }
+  }
+}

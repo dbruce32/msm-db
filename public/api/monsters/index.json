@@ -1,5 +1,5 @@
 {
-  "total": 254,
+  "total": 277,
   "monsters": [
     {
       "name": "Adult Attmoz",
@@ -112,6 +112,14 @@
       "elements": [
         "Shadow",
         "Mech"
+      ]
+    },
+    {
+      "name": "Arcorina (Major)",
+      "slug": "arcorina-major",
+      "class": "Paironormal",
+      "elements": [
+        "Ruin"
       ]
     },
     {
@@ -489,6 +497,24 @@
       ]
     },
     {
+      "name": "Dakktyl (Major)",
+      "slug": "dakktyl-major",
+      "class": "Paironormal",
+      "elements": [
+        "Hoax",
+        "Ruin"
+      ]
+    },
+    {
+      "name": "Dakktyl",
+      "slug": "dakktyl",
+      "class": "Paironormal",
+      "elements": [
+        "Hoax",
+        "Ruin"
+      ]
+    },
+    {
       "name": "Dandidoo",
       "slug": "dandidoo",
       "class": "Natural",
@@ -689,6 +715,24 @@
       ]
     },
     {
+      "name": "eRmA gUrDy (Major)",
+      "slug": "erma-gurdy-major",
+      "class": "Paironormal",
+      "elements": [
+        "Control",
+        "Depths"
+      ]
+    },
+    {
+      "name": "eRmA gUrDy",
+      "slug": "erma-gurdy",
+      "class": "Paironormal",
+      "elements": [
+        "Control",
+        "Depths"
+      ]
+    },
+    {
       "name": "Ffidyll",
       "slug": "ffidyll",
       "class": "Seasonal",
@@ -850,6 +894,26 @@
       ]
     },
     {
+      "name": "Galymph (Major)",
+      "slug": "galymph-major",
+      "class": "Paironormal",
+      "elements": [
+        "Control",
+        "Hoax",
+        "Depths"
+      ]
+    },
+    {
+      "name": "Galymph",
+      "slug": "galymph",
+      "class": "Paironormal",
+      "elements": [
+        "Control",
+        "Hoax",
+        "Depths"
+      ]
+    },
+    {
       "name": "Ghazt",
       "slug": "ghazt",
       "class": "Ethereal",
@@ -929,6 +993,22 @@
       ]
     },
     {
+      "name": "Hairionette (Major)",
+      "slug": "hairionette-major",
+      "class": "Paironormal",
+      "elements": [
+        "Control"
+      ]
+    },
+    {
+      "name": "Hairionette",
+      "slug": "hairionette",
+      "class": "Paironormal",
+      "elements": [
+        "Control"
+      ]
+    },
+    {
       "name": "Hawlo",
       "slug": "hawlo",
       "class": "Magical",
@@ -979,6 +1059,26 @@
       ]
     },
     {
+      "name": "Illoost (Major)",
+      "slug": "illoost-major",
+      "class": "Paironormal",
+      "elements": [
+        "Hoax",
+        "Ruin",
+        "Depths"
+      ]
+    },
+    {
+      "name": "Illoost",
+      "slug": "illoost",
+      "class": "Paironormal",
+      "elements": [
+        "Hoax",
+        "Ruin",
+        "Depths"
+      ]
+    },
+    {
       "name": "Incisaur",
       "slug": "incisaur",
       "class": "Fire",
@@ -1012,6 +1112,26 @@
       "elements": [
         "Plasma",
         "Poison"
+      ]
+    },
+    {
+      "name": "Jerm (Major)",
+      "slug": "jerm-major",
+      "class": "Paironormal",
+      "elements": [
+        "Control",
+        "Hoax",
+        "Ruin"
+      ]
+    },
+    {
+      "name": "Jerm",
+      "slug": "jerm",
+      "class": "Paironormal",
+      "elements": [
+        "Control",
+        "Hoax",
+        "Ruin"
       ]
     },
     {
@@ -1203,6 +1323,22 @@
       "elements": [
         "Bone",
         "Faerie"
+      ]
+    },
+    {
+      "name": "Owlesque (Major)",
+      "slug": "owlesque-major",
+      "class": "Paironormal",
+      "elements": [
+        "Hoax"
+      ]
+    },
+    {
+      "name": "Owlesque",
+      "slug": "owlesque",
+      "class": "Paironormal",
+      "elements": [
+        "Hoax"
       ]
     },
     {
@@ -1405,6 +1541,24 @@
       "elements": [
         "Air",
         "Water"
+      ]
+    },
+    {
+      "name": "Raqsoun (Major)",
+      "slug": "raqsoun-major",
+      "class": "Paironormal",
+      "elements": [
+        "Control",
+        "Ruin"
+      ]
+    },
+    {
+      "name": "Raqsoun",
+      "slug": "raqsoun",
+      "class": "Paironormal",
+      "elements": [
+        "Control",
+        "Ruin"
       ]
     },
     {
@@ -1639,6 +1793,24 @@
       ]
     },
     {
+      "name": "Scallyrags (Major)",
+      "slug": "scallyrags-major",
+      "class": "Paironormal",
+      "elements": [
+        "Control",
+        "Hoax"
+      ]
+    },
+    {
+      "name": "Scallyrags",
+      "slug": "scallyrags",
+      "class": "Paironormal",
+      "elements": [
+        "Control",
+        "Hoax"
+      ]
+    },
+    {
       "name": "Scaratar",
       "slug": "scaratar",
       "class": "Celestial",
@@ -1685,6 +1857,22 @@
         "Plant",
         "Earth",
         "Water"
+      ]
+    },
+    {
+      "name": "Shhimmer (Major)",
+      "slug": "shhimmer-major",
+      "class": "Paironormal",
+      "elements": [
+        "Depths"
+      ]
+    },
+    {
+      "name": "Shhimmer",
+      "slug": "shhimmer",
+      "class": "Paironormal",
+      "elements": [
+        "Depths"
       ]
     },
     {
@@ -1914,6 +2102,24 @@
         "Mech",
         "Crystal",
         "Poison"
+      ]
+    },
+    {
+      "name": "The Inflatterer (Major)",
+      "slug": "the-inflatterer-major",
+      "class": "Paironormal",
+      "elements": [
+        "Hoax",
+        "Depths"
+      ]
+    },
+    {
+      "name": "The Inflatterer",
+      "slug": "the-inflatterer",
+      "class": "Paironormal",
+      "elements": [
+        "Hoax",
+        "Depths"
       ]
     },
     {
