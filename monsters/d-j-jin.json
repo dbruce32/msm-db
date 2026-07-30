@@ -1,11 +1,31 @@
 {
-  "name": "Déjà-Jin",
+  "name": "D\u00e9j\u00e0-Jin",
   "class": "Magical",
-  "elements": ["Psychic", "Faerie"],
-  "variants": ["Rare Déjà-Jin"],
+  "elements": [
+    "Psychic",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare D\u00e9j\u00e0-Jin"
+  ],
   "breeding": {
     "Magical Sanctum": {
-      "common": { "pair": ["Theremind", "Floot Fly"], "time": "20h", "enhanced_time": "15h" }
+      "common": {
+        "pair": [
+          "Theremind",
+          "Floot Fly"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "rare": {
+        "pair": [
+          "Theremind",
+          "Floot Fly"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      }
     }
   }
 }

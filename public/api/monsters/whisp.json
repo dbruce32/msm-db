@@ -26,6 +26,14 @@
         ],
         "time": "1d 16h",
         "enhanced_time": "1d 6h"
+      },
+      "rare": {
+        "pair": [
+          "Ghazt",
+          "Grumpyre"
+        ],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
       }
     }
   }

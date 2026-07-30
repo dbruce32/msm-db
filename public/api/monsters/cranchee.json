@@ -26,6 +26,14 @@
         ],
         "time": "2d 16h 13m",
         "enhanced_time": "2d 9m 45s"
+      },
+      "rare": {
+        "pair": [
+          "Cataliszt",
+          "Strombonin"
+        ],
+        "time": "1d 8h",
+        "enhanced_time": "1d"
       }
     }
   }

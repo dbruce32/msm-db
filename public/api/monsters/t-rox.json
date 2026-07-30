@@ -27,6 +27,14 @@
         ],
         "time": "19h",
         "enhanced_time": "14h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Maw",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Air Island": {
@@ -45,6 +53,14 @@
         ],
         "time": "19h",
         "enhanced_time": "14h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Maw",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     }
   }

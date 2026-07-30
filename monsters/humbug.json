@@ -1,15 +1,57 @@
 {
   "name": "Humbug",
   "class": "Ethereal",
-  "elements": ["Poison"],
-  "variants": ["Rare Humbug", "Epic Humbug"],
+  "elements": [
+    "Poison"
+  ],
+  "variants": [
+    "Rare Humbug",
+    "Epic Humbug"
+  ],
   "breeding": {
     "Earth Island": {
-      "common": { "pair": ["Quarrister", "Any Triple"], "time": "1d 12h", "enhanced_time": "1d 3h" },
-      "epic": { "pair": ["Clamble", "Cybop"], "time": "1d 8h", "enhanced_time": "1d" }
+      "common": {
+        "pair": [
+          "Quarrister",
+          "Any Triple"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      },
+      "epic": {
+        "pair": [
+          "Clamble",
+          "Cybop"
+        ],
+        "time": "1d 8h",
+        "enhanced_time": "1d"
+      },
+      "rare": {
+        "pair": [
+          "Quarrister",
+          "Any Triple"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      }
     },
     "Ethereal Island": {
-      "epic": { "pair": ["Whisp", "Bellowfish"], "time": "8h 53m 20s", "enhanced_time": "6h 40m" }
+      "epic": {
+        "pair": [
+          "Whisp",
+          "Bellowfish"
+        ],
+        "time": "8h 53m 20s",
+        "enhanced_time": "6h 40m"
+      },
+      "rare": {
+        "pair": [
+          "Reebro",
+          "Any Single Ethereal"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      }
     }
   }
 }

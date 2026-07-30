@@ -26,6 +26,14 @@
         ],
         "time": "21h",
         "enhanced_time": "15h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Toe Jammer"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Water Island": {
@@ -44,6 +52,14 @@
         ],
         "time": "21h",
         "enhanced_time": "15h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Toe Jammer"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Cold Island": {
@@ -62,6 +78,14 @@
         ],
         "time": "21h",
         "enhanced_time": "15h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Toe Jammer"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Shugabush Island": {
@@ -90,6 +114,14 @@
         ],
         "time": "21h",
         "enhanced_time": "15h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Toe Jammer"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     }
   }

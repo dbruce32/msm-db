@@ -1,12 +1,40 @@
 {
   "name": "Boodoo",
   "class": "Ethereal",
-  "elements": ["Shadow", "Crystal"],
-  "variants": ["Rare Boodoo", "Epic Boodoo"],
+  "elements": [
+    "Shadow",
+    "Crystal"
+  ],
+  "variants": [
+    "Rare Boodoo",
+    "Epic Boodoo"
+  ],
   "breeding": {
     "Ethereal Island": {
-      "common": { "pair": ["Grumpyre", "Jeeode"], "time": "1d 18h", "enhanced_time": "1d 7h 30m" },
-      "epic": { "pair": ["Kazilleon", "Bellowfish"], "time": "1d 18h", "enhanced_time": "1d 7h 30m" }
+      "common": {
+        "pair": [
+          "Grumpyre",
+          "Jeeode"
+        ],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Kazilleon",
+          "Bellowfish"
+        ],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
+      },
+      "rare": {
+        "pair": [
+          "Grumpyre",
+          "Jeeode"
+        ],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
+      }
     }
   }
 }

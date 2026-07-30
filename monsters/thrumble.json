@@ -27,6 +27,14 @@
         ],
         "time": "1d 7h",
         "enhanced_time": "23h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Phangler",
+          "Noggin"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
       }
     }
   }

@@ -26,6 +26,14 @@
         ],
         "time": "1d 20h",
         "enhanced_time": "1d 9h"
+      },
+      "rare": {
+        "pair": [
+          "Ghazt",
+          "Reebro"
+        ],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
       }
     }
   }

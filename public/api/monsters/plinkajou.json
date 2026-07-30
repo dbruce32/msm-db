@@ -19,6 +19,14 @@
         ],
         "time": "1d 8h",
         "enhanced_time": "1d"
+      },
+      "rare": {
+        "pair": [
+          "Banjaw",
+          "Noggin"
+        ],
+        "time": "1d 8h",
+        "enhanced_time": "1d"
       }
     }
   }

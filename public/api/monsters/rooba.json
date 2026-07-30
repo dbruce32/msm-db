@@ -27,6 +27,14 @@
         ],
         "time": "2d 12h 5m",
         "enhanced_time": "1d 21h 3m 45s"
+      },
+      "rare": {
+        "pair": [
+          "Yuggler",
+          "Potbelly"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
       }
     }
   }

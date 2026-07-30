@@ -26,6 +26,14 @@
         ],
         "time": "1d 22h 15m",
         "enhanced_time": "1d 10h 41m 15s"
+      },
+      "rare": {
+        "pair": [
+          "Noggin",
+          "Clackula"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
       }
     }
   }

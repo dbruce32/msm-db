@@ -27,6 +27,24 @@
         "time": "1d 12h 12m",
         "enhanced_time": "1d 3h 9m"
       }
+    },
+    "Magical Sanctum": {
+      "common": {
+        "pair": [
+          "Mushaboom",
+          "Roarick"
+        ],
+        "time": "1d 3h 9m 32s",
+        "enhanced_time": "20h 22m 9s"
+      },
+      "epic": {
+        "pair": [
+          "Enchantling",
+          "Roarick"
+        ],
+        "time": "1d 12h 12m",
+        "enhanced_time": "1d 3h 9m"
+      }
     }
   }
 }

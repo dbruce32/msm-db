@@ -27,6 +27,14 @@
         ],
         "time": "1d 1h",
         "enhanced_time": "18h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Glowl",
+          "Toe Jammer"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
       }
     }
   }

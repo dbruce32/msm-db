@@ -17,6 +17,14 @@
         ],
         "time": "9h",
         "enhanced_time": "6h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Potbelly",
+          "Theremind"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
       }
     }
   }

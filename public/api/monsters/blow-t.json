@@ -20,6 +20,14 @@
         ],
         "time": "1d 8h",
         "enhanced_time": "1d"
+      },
+      "rare": {
+        "pair": [
+          "TooToo",
+          "Mammott"
+        ],
+        "time": "1d 8h",
+        "enhanced_time": "1d"
       }
     }
   }

@@ -27,6 +27,14 @@
         ],
         "time": "2d 12h 32m",
         "enhanced_time": "1d 21h 24m"
+      },
+      "rare": {
+        "pair": [
+          "Squot",
+          "Noggin"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
       }
     }
   }

@@ -1,11 +1,32 @@
 {
   "name": "Mushaboom",
   "class": "Magical",
-  "elements": ["Bone", "Light", "Faerie"],
-  "variants": ["Rare Mushaboom"],
+  "elements": [
+    "Bone",
+    "Light",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Mushaboom"
+  ],
   "breeding": {
     "Magical Sanctum": {
-      "common": { "pair": ["Osstax", "Fluoress"], "time": "1d 6h", "enhanced_time": "22h 30m" }
+      "common": {
+        "pair": [
+          "Osstax",
+          "Fluoress"
+        ],
+        "time": "1d 6h",
+        "enhanced_time": "22h 30m"
+      },
+      "rare": {
+        "pair": [
+          "Osstax",
+          "Fluoress"
+        ],
+        "time": "1d 6h",
+        "enhanced_time": "22h 30m"
+      }
     }
   }
 }

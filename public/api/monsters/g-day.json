@@ -9,5 +9,24 @@
   "variants": [
     "Rare G'day"
   ],
-  "breeding": {}
+  "breeding": {
+    "Magical Sanctum": {
+      "common": {
+        "pair": [
+          "Xyster",
+          "Fluoress"
+        ],
+        "time": "1d 6h",
+        "enhanced_time": "22h 30m"
+      },
+      "rare": {
+        "pair": [
+          "Xyster",
+          "Fluoress"
+        ],
+        "time": "1d 6h",
+        "enhanced_time": "22h 30m"
+      }
+    }
+  }
 }

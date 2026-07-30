@@ -26,6 +26,14 @@
         ],
         "time": "17h",
         "enhanced_time": "12h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Potbelly",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Earth Island": {
@@ -44,6 +52,14 @@
         ],
         "time": "17h",
         "enhanced_time": "12h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Potbelly",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Cold Island": {
@@ -62,6 +78,14 @@
         ],
         "time": "17h",
         "enhanced_time": "12h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Potbelly",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Shugabush Island": {
@@ -90,6 +114,14 @@
         ],
         "time": "17h",
         "enhanced_time": "12h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Potbelly",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     }
   }

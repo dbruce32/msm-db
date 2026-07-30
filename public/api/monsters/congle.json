@@ -27,6 +27,14 @@
         ],
         "time": "23h",
         "enhanced_time": "17h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Pango",
+          "Toe Jammer"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
       }
     },
     "Cold Island": {
@@ -45,6 +53,14 @@
         ],
         "time": "23h",
         "enhanced_time": "17h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Pango",
+          "Toe Jammer"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
       }
     },
     "Fire Oasis": {
@@ -63,6 +79,14 @@
         ],
         "time": "23h",
         "enhanced_time": "17h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Pango",
+          "Toe Jammer"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
       }
     }
   }

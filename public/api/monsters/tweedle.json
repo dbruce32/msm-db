@@ -17,6 +17,14 @@
         ],
         "time": "11h",
         "enhanced_time": "8h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Any Air Triple",
+          "Any Air Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Earth Island": {
@@ -27,6 +35,14 @@
         ],
         "time": "11h",
         "enhanced_time": "8h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Any Air Triple",
+          "Any Air Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Water Island": {
@@ -37,6 +53,14 @@
         ],
         "time": "11h",
         "enhanced_time": "8h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Any Air Triple",
+          "Any Air Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Cold Island": {
@@ -47,6 +71,14 @@
         ],
         "time": "11h",
         "enhanced_time": "8h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Any Air Triple",
+          "Any Air Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Fire Haven": {
@@ -57,6 +89,14 @@
         ],
         "time": "11h",
         "enhanced_time": "8h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Any Air Triple",
+          "Any Air Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Fire Oasis": {
@@ -67,6 +107,14 @@
         ],
         "time": "11h",
         "enhanced_time": "8h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Any Air Triple",
+          "Any Air Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     }
   }

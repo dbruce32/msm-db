@@ -26,6 +26,14 @@
         ],
         "time": "1d 1h",
         "enhanced_time": "18h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
       }
     },
     "Fire Haven": {
@@ -44,6 +52,14 @@
         ],
         "time": "1d 1h",
         "enhanced_time": "18h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
       }
     }
   }

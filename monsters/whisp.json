@@ -1,12 +1,40 @@
 {
   "name": "Whisp",
   "class": "Ethereal",
-  "elements": ["Plasma", "Shadow"],
-  "variants": ["Rare Whisp", "Epic Whisp"],
+  "elements": [
+    "Plasma",
+    "Shadow"
+  ],
+  "variants": [
+    "Rare Whisp",
+    "Epic Whisp"
+  ],
   "breeding": {
     "Ethereal Island": {
-      "common": { "pair": ["Ghazt", "Grumpyre"], "time": "1d 18h", "enhanced_time": "1d 7h 30m" },
-      "epic": { "pair": ["Nebulob", "Kazilleon"], "time": "1d 16h", "enhanced_time": "1d 6h" }
+      "common": {
+        "pair": [
+          "Ghazt",
+          "Grumpyre"
+        ],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Nebulob",
+          "Kazilleon"
+        ],
+        "time": "1d 16h",
+        "enhanced_time": "1d 6h"
+      },
+      "rare": {
+        "pair": [
+          "Ghazt",
+          "Grumpyre"
+        ],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
+      }
     }
   }
 }

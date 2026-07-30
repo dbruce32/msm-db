@@ -35,6 +35,14 @@
         ],
         "time": "1d 6h 34m",
         "enhanced_time": "22h 55m 30s"
+      },
+      "rare": {
+        "pair": [
+          "Reedling",
+          "Barrb"
+        ],
+        "time": "23h",
+        "enhanced_time": "17h 15m"
       }
     }
   }

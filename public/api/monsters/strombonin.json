@@ -25,6 +25,14 @@
         ],
         "time": "1d 10h 30m",
         "enhanced_time": "1d 1h 52m 30s"
+      },
+      "rare": {
+        "pair": [
+          "Spunge",
+          "Bowgart"
+        ],
+        "time": "23h",
+        "enhanced_time": "17h 15m"
       }
     },
     "Mythical Island": {

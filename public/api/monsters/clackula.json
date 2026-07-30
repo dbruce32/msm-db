@@ -18,6 +18,24 @@
         "time": "20h 6m",
         "enhanced_time": "15h 4m 30s"
       }
+    },
+    "Magical Sanctum": {
+      "rare": {
+        "pair": [
+          "Any Bone Triple",
+          "Any Bone Triple"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Enchantling",
+          "Osstax"
+        ],
+        "time": "20h 6m",
+        "enhanced_time": "15h 4m 30s"
+      }
     }
   }
 }

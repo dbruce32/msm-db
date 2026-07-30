@@ -25,11 +25,22 @@
         ],
         "time": "1d 9h 28m",
         "enhanced_time": "1d 1h 6m"
+      },
+      "rare": {
+        "pair": [
+          "Thumpies",
+          "PomPom"
+        ],
+        "time": "1d 4h",
+        "enhanced_time": "21h"
       }
     },
     "Mythical Island": {
       "epic": {
-        "pair": ["Cataliszt", "Buzzinga"],
+        "pair": [
+          "Cataliszt",
+          "Buzzinga"
+        ],
         "time": "1d 9h 28m",
         "enhanced_time": "1d 1h 6m"
       }

@@ -1,11 +1,31 @@
 {
   "name": "Xyster",
   "class": "Magical",
-  "elements": ["Psychic", "Bone"],
-  "variants": ["Rare Xyster"],
+  "elements": [
+    "Psychic",
+    "Bone"
+  ],
+  "variants": [
+    "Rare Xyster"
+  ],
   "breeding": {
     "Magical Sanctum": {
-      "common": { "pair": ["Theremind", "Clackula"], "time": "20h", "enhanced_time": "15h" }
+      "common": {
+        "pair": [
+          "Theremind",
+          "Clackula"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "rare": {
+        "pair": [
+          "Theremind",
+          "Clackula"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      }
     }
   }
 }

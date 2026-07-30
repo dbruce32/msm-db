@@ -26,6 +26,14 @@
         ],
         "time": "19h",
         "enhanced_time": "14h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Mammott",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
       }
     },
     "Light Island": {
@@ -44,6 +52,14 @@
         ],
         "time": "19h",
         "enhanced_time": "14h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Mammott",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
       }
     },
     "Faerie Island": {
@@ -62,6 +78,14 @@
         ],
         "time": "19h",
         "enhanced_time": "14h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Mammott",
+          "Kayna"
+        ],
+        "time": "10h",
+        "enhanced_time": "7h 30m"
       }
     }
   }

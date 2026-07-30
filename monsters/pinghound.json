@@ -12,14 +12,28 @@
   "breeding": {
     "Mythical Island": {
       "common": {
-        "pair": ["Cataliszt", "Anglow"],
+        "pair": [
+          "Cataliszt",
+          "Anglow"
+        ],
         "time": "1d 18h",
         "enhanced_time": "1d 7h 30m"
       },
       "epic": {
-        "pair": ["Cataliszt", "Strombonin"],
+        "pair": [
+          "Cataliszt",
+          "Strombonin"
+        ],
         "time": "2d 19h 30m",
         "enhanced_time": "2d 2h 37m 30s"
+      },
+      "rare": {
+        "pair": [
+          "Cataliszt",
+          "Anglow"
+        ],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
       }
     }
   }
