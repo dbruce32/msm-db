@@ -1,12 +1,40 @@
 {
   "name": "Sox",
   "class": "Ethereal",
-  "elements": ["Plasma", "Crystal"],
-  "variants": ["Rare Sox", "Epic Sox"],
+  "elements": [
+    "Plasma",
+    "Crystal"
+  ],
+  "variants": [
+    "Rare Sox",
+    "Epic Sox"
+  ],
   "breeding": {
     "Ethereal Island": {
-      "common": { "pair": ["Ghazt", "Jeeode"], "time": "1d 18h", "enhanced_time": "1d 7h 30m" },
-      "epic": { "pair": ["Jellbilly", "Bellowfish"], "time": "1d 12h", "enhanced_time": "1d 3h" }
+      "common": {
+        "pair": [
+          "Ghazt",
+          "Jeeode"
+        ],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
+      },
+      "epic": {
+        "pair": [
+          "Jellbilly",
+          "Bellowfish"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      },
+      "rare": {
+        "pair": [
+          "Ghazt",
+          "Jeeode"
+        ],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
+      }
     }
   }
 }

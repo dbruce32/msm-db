@@ -27,6 +27,14 @@
         ],
         "time": "17h",
         "enhanced_time": "12h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Dandidoo",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
       }
     },
     "Water Island": {
@@ -45,6 +53,14 @@
         ],
         "time": "17h",
         "enhanced_time": "12h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Dandidoo",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
       }
     },
     "Fire Haven": {
@@ -63,6 +79,14 @@
         ],
         "time": "17h",
         "enhanced_time": "12h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Dandidoo",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
       }
     }
   }

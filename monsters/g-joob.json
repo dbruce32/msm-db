@@ -25,11 +25,22 @@
         ],
         "time": "1d 9h 10m",
         "enhanced_time": "1d 52m 30s"
+      },
+      "rare": {
+        "pair": [
+          "Pummel",
+          "T-Rox"
+        ],
+        "time": "18h",
+        "enhanced_time": "13h 30m"
       }
     },
     "Mythical Island": {
       "epic": {
-        "pair": ["Cataliszt", "Yawstrich"],
+        "pair": [
+          "Cataliszt",
+          "Yawstrich"
+        ],
         "time": "1d 9h 10m",
         "enhanced_time": "1d 52m 30s"
       }

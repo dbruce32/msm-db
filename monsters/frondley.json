@@ -1,11 +1,32 @@
 {
   "name": "Frondley",
   "class": "Magical",
-  "elements": ["Psychic", "Light", "Faerie"],
-  "variants": ["Rare Frondley"],
+  "elements": [
+    "Psychic",
+    "Light",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Frondley"
+  ],
   "breeding": {
     "Magical Sanctum": {
-      "common": { "pair": ["Déjà-Jin", "Fluoress"], "time": "1d 6h", "enhanced_time": "22h 30m" }
+      "common": {
+        "pair": [
+          "D\u00e9j\u00e0-Jin",
+          "Fluoress"
+        ],
+        "time": "1d 6h",
+        "enhanced_time": "22h 30m"
+      },
+      "rare": {
+        "pair": [
+          "D\u00e9j\u00e0-Jin",
+          "Fluoress"
+        ],
+        "time": "1d 6h",
+        "enhanced_time": "22h 30m"
+      }
     }
   }
 }

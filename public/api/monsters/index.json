@@ -1,6 +1,102 @@
 {
-  "total": 180,
+  "total": 254,
   "monsters": [
+    {
+      "name": "Adult Attmoz",
+      "slug": "adult-attmoz",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
+      "name": "Adult Blasoom",
+      "slug": "adult-blasoom",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
+      "name": "Adult Furnoss",
+      "slug": "adult-furnoss",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
+      "name": "Adult Galvana",
+      "slug": "adult-galvana",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
+      "name": "Adult Glaishur",
+      "slug": "adult-glaishur",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
+      "name": "Adult Hornacle",
+      "slug": "adult-hornacle",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
+      "name": "Adult Loodvigg",
+      "slug": "adult-loodvigg",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
+      "name": "Adult Plixie",
+      "slug": "adult-plixie",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
+      "name": "Adult Scaratar",
+      "slug": "adult-scaratar",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
+      "name": "Adult Syncopite",
+      "slug": "adult-syncopite",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
+      "name": "Adult Torrt",
+      "slug": "adult-torrt",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
+      "name": "Adult Vhamp",
+      "slug": "adult-vhamp",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
     {
       "name": "Anglow",
       "slug": "anglow",
@@ -24,6 +120,20 @@
       "class": "Paironormal",
       "elements": [
         "Ruin"
+      ]
+    },
+    {
+      "name": "Astropod",
+      "slug": "astropod",
+      "class": "Wublin",
+      "elements": []
+    },
+    {
+      "name": "Attmoz",
+      "slug": "attmoz",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
       ]
     },
     {
@@ -107,6 +217,14 @@
       ]
     },
     {
+      "name": "Blasoom",
+      "slug": "blasoom",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
       "name": "Bleatnik",
       "slug": "bleatnik",
       "class": "Mythical",
@@ -114,6 +232,12 @@
         "Dream",
         "Mythical"
       ]
+    },
+    {
+      "name": "Blipsqueak",
+      "slug": "blipsqueak",
+      "class": "Wublin",
+      "elements": []
     },
     {
       "name": "Blow't",
@@ -125,6 +249,12 @@
         "Fire",
         "Light"
       ]
+    },
+    {
+      "name": "Bona-Petite",
+      "slug": "bona-petite",
+      "class": "Wublin",
+      "elements": []
     },
     {
       "name": "Bonkers",
@@ -192,6 +322,12 @@
         "Fire",
         "Faerie"
       ]
+    },
+    {
+      "name": "Brump",
+      "slug": "brump",
+      "class": "Wublin",
+      "elements": []
     },
     {
       "name": "Bulbo",
@@ -329,6 +465,12 @@
       ]
     },
     {
+      "name": "Creepuscule",
+      "slug": "creepuscule",
+      "class": "Wublin",
+      "elements": []
+    },
+    {
       "name": "Cybop",
       "slug": "cybop",
       "class": "Natural",
@@ -376,6 +518,12 @@
       ]
     },
     {
+      "name": "Dermit",
+      "slug": "dermit",
+      "class": "Wublin",
+      "elements": []
+    },
+    {
       "name": "Dragong",
       "slug": "dragong",
       "class": "Ethereal",
@@ -404,6 +552,12 @@
         "Earth",
         "Cold"
       ]
+    },
+    {
+      "name": "Dwumrohl",
+      "slug": "dwumrohl",
+      "class": "Wublin",
+      "elements": []
     },
     {
       "name": "Edamimi",
@@ -439,6 +593,102 @@
       ]
     },
     {
+      "name": "Epic Blipsqueak",
+      "slug": "epic-blipsqueak",
+      "class": "Epic Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Epic Bona-Petite",
+      "slug": "epic-bona-petite",
+      "class": "Epic Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Epic Brump",
+      "slug": "epic-brump",
+      "class": "Epic Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Epic Dermit",
+      "slug": "epic-dermit",
+      "class": "Epic Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Epic Dwumrohl",
+      "slug": "epic-dwumrohl",
+      "class": "Epic Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Epic Fleechwurm",
+      "slug": "epic-fleechwurm",
+      "class": "Epic Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Epic Gheegur",
+      "slug": "epic-gheegur",
+      "class": "Epic Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Epic Poewk",
+      "slug": "epic-poewk",
+      "class": "Epic Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Epic Thwok",
+      "slug": "epic-thwok",
+      "class": "Epic Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Epic Tympa",
+      "slug": "epic-tympa",
+      "class": "Epic Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Epic Zuuker",
+      "slug": "epic-zuuker",
+      "class": "Epic Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Epic Zynth",
+      "slug": "epic-zynth",
+      "class": "Epic Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
       "name": "Ffidyll",
       "slug": "ffidyll",
       "class": "Seasonal",
@@ -465,6 +715,12 @@
         "Crystal",
         "Poison"
       ]
+    },
+    {
+      "name": "Fleechwurm",
+      "slug": "fleechwurm",
+      "class": "Wublin",
+      "elements": []
     },
     {
       "name": "Floogull",
@@ -541,6 +797,14 @@
       ]
     },
     {
+      "name": "Furnoss",
+      "slug": "furnoss",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
       "name": "Fwog",
       "slug": "fwog",
       "class": "Natural",
@@ -578,11 +842,33 @@
       ]
     },
     {
+      "name": "Galvana",
+      "slug": "galvana",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
       "name": "Ghazt",
       "slug": "ghazt",
       "class": "Ethereal",
       "elements": [
         "Plasma"
+      ]
+    },
+    {
+      "name": "Gheegur",
+      "slug": "gheegur",
+      "class": "Wublin",
+      "elements": []
+    },
+    {
+      "name": "Glaishur",
+      "slug": "glaishur",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
       ]
     },
     {
@@ -666,6 +952,14 @@
       "class": "Seasonal",
       "elements": [
         "SummerSong"
+      ]
+    },
+    {
+      "name": "Hornacle",
+      "slug": "hornacle",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
       ]
     },
     {
@@ -777,6 +1071,14 @@
       ]
     },
     {
+      "name": "Loodvigg",
+      "slug": "loodvigg",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
       "name": "Maggpi",
       "slug": "maggpi",
       "class": "Legendary",
@@ -791,6 +1093,12 @@
       "elements": [
         "Cold"
       ]
+    },
+    {
+      "name": "Maulch",
+      "slug": "maulch",
+      "class": "Wublin",
+      "elements": []
     },
     {
       "name": "Maw",
@@ -973,6 +1281,12 @@
       ]
     },
     {
+      "name": "Pixolotl",
+      "slug": "pixolotl",
+      "class": "Wublin",
+      "elements": []
+    },
+    {
       "name": "Pladdie",
       "slug": "pladdie",
       "class": "Magical",
@@ -995,6 +1309,14 @@
       ]
     },
     {
+      "name": "Plixie",
+      "slug": "plixie",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
       "name": "Pluckbill",
       "slug": "pluckbill",
       "class": "Magical",
@@ -1002,6 +1324,12 @@
         "Fire",
         "Light"
       ]
+    },
+    {
+      "name": "Poewk",
+      "slug": "poewk",
+      "class": "Wublin",
+      "elements": []
     },
     {
       "name": "PomPom",
@@ -1077,6 +1405,158 @@
       "elements": [
         "Air",
         "Water"
+      ]
+    },
+    {
+      "name": "Rare Astropod",
+      "slug": "rare-astropod",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Blipsqueak",
+      "slug": "rare-blipsqueak",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Bona-Petite",
+      "slug": "rare-bona-petite",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Brump",
+      "slug": "rare-brump",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Creepuscule",
+      "slug": "rare-creepuscule",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Dermit",
+      "slug": "rare-dermit",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Dwumrohl",
+      "slug": "rare-dwumrohl",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Fleechwurm",
+      "slug": "rare-fleechwurm",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Gheegur",
+      "slug": "rare-gheegur",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Maulch",
+      "slug": "rare-maulch",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Pixolotl",
+      "slug": "rare-pixolotl",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Poewk",
+      "slug": "rare-poewk",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Scargo",
+      "slug": "rare-scargo",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Screemu",
+      "slug": "rare-screemu",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Thwok",
+      "slug": "rare-thwok",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Tympa",
+      "slug": "rare-tympa",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Whajje",
+      "slug": "rare-whajje",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Zuuker",
+      "slug": "rare-zuuker",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
+      ]
+    },
+    {
+      "name": "Rare Zynth",
+      "slug": "rare-zynth",
+      "class": "Rare Wublin",
+      "elements": [
+        "Wublin"
       ]
     },
     {
@@ -1159,12 +1639,32 @@
       ]
     },
     {
+      "name": "Scaratar",
+      "slug": "scaratar",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
+      "name": "Scargo",
+      "slug": "scargo",
+      "class": "Wublin",
+      "elements": []
+    },
+    {
       "name": "Schmoochle",
       "slug": "schmoochle",
       "class": "Seasonal",
       "elements": [
         "Season of Love"
       ]
+    },
+    {
+      "name": "Screemu",
+      "slug": "screemu",
+      "class": "Wublin",
+      "elements": []
     },
     {
       "name": "Scups",
@@ -1371,6 +1871,14 @@
       ]
     },
     {
+      "name": "Syncopite",
+      "slug": "syncopite",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
+      ]
+    },
+    {
       "name": "T-Rox",
       "slug": "t-rox",
       "class": "Natural",
@@ -1437,6 +1945,12 @@
       ]
     },
     {
+      "name": "Thwok",
+      "slug": "thwok",
+      "class": "Wublin",
+      "elements": []
+    },
+    {
       "name": "Tiawa",
       "slug": "tiawa",
       "class": "Fire",
@@ -1463,6 +1977,14 @@
         "Plant",
         "Fire",
         "Light"
+      ]
+    },
+    {
+      "name": "Torrt",
+      "slug": "torrt",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
       ]
     },
     {
@@ -1497,6 +2019,12 @@
       ]
     },
     {
+      "name": "Tympa",
+      "slug": "tympa",
+      "class": "Wublin",
+      "elements": []
+    },
+    {
       "name": "Uuduk",
       "slug": "uuduk",
       "class": "Magical",
@@ -1504,6 +2032,14 @@
         "Earth",
         "Fire",
         "Bone"
+      ]
+    },
+    {
+      "name": "Vhamp",
+      "slug": "vhamp",
+      "class": "Celestial",
+      "elements": [
+        "Celestial"
       ]
     },
     {
@@ -1545,6 +2081,12 @@
         "Mech",
         "Crystal"
       ]
+    },
+    {
+      "name": "Whajje",
+      "slug": "whajje",
+      "class": "Wublin",
+      "elements": []
     },
     {
       "name": "Wheezel",
@@ -1685,6 +2227,18 @@
         "Cold",
         "Fire"
       ]
+    },
+    {
+      "name": "Zuuker",
+      "slug": "zuuker",
+      "class": "Wublin",
+      "elements": []
+    },
+    {
+      "name": "Zynth",
+      "slug": "zynth",
+      "class": "Wublin",
+      "elements": []
     }
   ]
 }

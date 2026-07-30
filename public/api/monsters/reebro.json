@@ -25,6 +25,14 @@
         ],
         "time": "1d 10h",
         "enhanced_time": "1d 1h 30m"
+      },
+      "rare": {
+        "pair": [
+          "Riff",
+          "Any Triple"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
       }
     },
     "Ethereal Island": {
@@ -35,6 +43,14 @@
         ],
         "time": "9h 26m 40s",
         "enhanced_time": "7h 5m"
+      },
+      "rare": {
+        "pair": [
+          "Reebro",
+          "Any Single Ethereal"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
       }
     }
   }

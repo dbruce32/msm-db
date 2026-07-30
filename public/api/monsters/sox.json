@@ -26,6 +26,14 @@
         ],
         "time": "1d 12h",
         "enhanced_time": "1d 3h"
+      },
+      "rare": {
+        "pair": [
+          "Ghazt",
+          "Jeeode"
+        ],
+        "time": "1d 18h",
+        "enhanced_time": "1d 7h 30m"
       }
     }
   }

@@ -28,6 +28,14 @@
         ],
         "time": "1d 21h",
         "enhanced_time": "1d 9h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Bowgart",
+          "Noggin"
+        ],
+        "time": "1d",
+        "enhanced_time": "18h"
       }
     }
   }

@@ -26,6 +26,14 @@
         ],
         "time": "1d 3h",
         "enhanced_time": "20h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Earth Island": {
@@ -44,6 +52,14 @@
         ],
         "time": "1d 3h",
         "enhanced_time": "20h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Cold Island": {
@@ -62,6 +78,14 @@
         ],
         "time": "1d 3h",
         "enhanced_time": "20h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Fire Oasis": {
@@ -80,6 +104,14 @@
         ],
         "time": "1d 3h",
         "enhanced_time": "20h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Mammott"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     }
   }

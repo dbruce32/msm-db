@@ -27,6 +27,14 @@
         ],
         "time": "21h",
         "enhanced_time": "15h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Furcorn",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
       }
     },
     "Earth Island": {
@@ -45,6 +53,14 @@
         ],
         "time": "21h",
         "enhanced_time": "15h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Furcorn",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
       }
     }
   }

@@ -36,6 +36,14 @@
         ],
         "time": "9h",
         "enhanced_time": "6h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Plant Triple",
+          "Any Plant Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Water Island": {
@@ -46,6 +54,14 @@
         ],
         "time": "9h",
         "enhanced_time": "6h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Plant Triple",
+          "Any Plant Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Cold Island": {
@@ -56,6 +72,14 @@
         ],
         "time": "9h",
         "enhanced_time": "6h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Plant Triple",
+          "Any Plant Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Shugabush Island": {
@@ -66,6 +90,14 @@
         ],
         "time": "9h",
         "enhanced_time": "6h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Plant Triple",
+          "Any Plant Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Fire Haven": {
@@ -76,6 +108,14 @@
         ],
         "time": "9h",
         "enhanced_time": "6h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Plant Triple",
+          "Any Plant Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Light Island": {
@@ -86,6 +126,14 @@
         ],
         "time": "9h",
         "enhanced_time": "6h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Plant Triple",
+          "Any Plant Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Psychic Island": {
@@ -96,6 +144,14 @@
         ],
         "time": "9h",
         "enhanced_time": "6h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Plant Triple",
+          "Any Plant Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     }
   }

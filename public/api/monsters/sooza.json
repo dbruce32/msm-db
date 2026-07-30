@@ -27,6 +27,14 @@
         ],
         "time": "1d 3h",
         "enhanced_time": "20h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Flowah",
+          "Mammott"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
       }
     }
   }

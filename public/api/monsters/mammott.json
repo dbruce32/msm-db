@@ -36,6 +36,14 @@
         ],
         "time": "5h",
         "enhanced_time": "3h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Cold Triple",
+          "Any Cold Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Earth Island": {
@@ -46,6 +54,14 @@
         ],
         "time": "5h",
         "enhanced_time": "3h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Cold Triple",
+          "Any Cold Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Cold Island": {
@@ -56,6 +72,14 @@
         ],
         "time": "5h",
         "enhanced_time": "3h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Cold Triple",
+          "Any Cold Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Shugabush Island": {
@@ -66,6 +90,14 @@
         ],
         "time": "5h",
         "enhanced_time": "3h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Cold Triple",
+          "Any Cold Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Fire Oasis": {
@@ -76,6 +108,14 @@
         ],
         "time": "5h",
         "enhanced_time": "3h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Cold Triple",
+          "Any Cold Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Light Island": {
@@ -86,6 +126,14 @@
         ],
         "time": "5h",
         "enhanced_time": "3h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Cold Triple",
+          "Any Cold Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Faerie Island": {
@@ -96,6 +144,14 @@
         ],
         "time": "5h",
         "enhanced_time": "3h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Cold Triple",
+          "Any Cold Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     }
   }

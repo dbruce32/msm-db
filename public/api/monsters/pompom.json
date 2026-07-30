@@ -27,6 +27,14 @@
         ],
         "time": "1d 3h",
         "enhanced_time": "20h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Pango",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
       }
     },
     "Earth Island": {
@@ -45,6 +53,14 @@
         ],
         "time": "1d 3h",
         "enhanced_time": "20h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Pango",
+          "Noggin"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
       }
     },
     "Shugabush Island": {

@@ -18,6 +18,14 @@
         ],
         "time": "9h",
         "enhanced_time": "6h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Potbelly",
+          "Fluoress"
+        ],
+        "time": "9h",
+        "enhanced_time": "6h 45m"
       }
     }
   }

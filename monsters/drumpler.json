@@ -26,6 +26,14 @@
         ],
         "time": "15h",
         "enhanced_time": "11h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Noggin",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
       }
     },
     "Air Island": {
@@ -44,6 +52,14 @@
         ],
         "time": "15h",
         "enhanced_time": "11h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Noggin",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
       }
     },
     "Earth Island": {
@@ -62,6 +78,14 @@
         ],
         "time": "15h",
         "enhanced_time": "11h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Noggin",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
       }
     },
     "Faerie Island": {
@@ -80,6 +104,14 @@
         ],
         "time": "15h",
         "enhanced_time": "11h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Noggin",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
       }
     }
   }

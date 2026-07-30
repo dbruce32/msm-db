@@ -28,6 +28,14 @@
         ],
         "time": "1d 15h",
         "enhanced_time": "1d 5h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Congle",
+          "Noggin"
+        ],
+        "time": "1d",
+        "enhanced_time": "18h"
       }
     }
   }

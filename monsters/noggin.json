@@ -36,6 +36,14 @@
         ],
         "time": "1h",
         "enhanced_time": "45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Earth Triple",
+          "Any Earth Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Earth Island": {
@@ -46,6 +54,14 @@
         ],
         "time": "1h",
         "enhanced_time": "45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Earth Triple",
+          "Any Earth Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Water Island": {
@@ -56,6 +72,14 @@
         ],
         "time": "1h",
         "enhanced_time": "45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Earth Triple",
+          "Any Earth Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Fire Haven": {
@@ -66,6 +90,14 @@
         ],
         "time": "1h",
         "enhanced_time": "45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Earth Triple",
+          "Any Earth Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Bone Island": {
@@ -76,6 +108,14 @@
         ],
         "time": "1h",
         "enhanced_time": "45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Earth Triple",
+          "Any Earth Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Faerie Island": {
@@ -86,6 +126,14 @@
         ],
         "time": "1h",
         "enhanced_time": "45m"
+      },
+      "rare": {
+        "pair": [
+          "Any Earth Triple",
+          "Any Earth Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     }
   }

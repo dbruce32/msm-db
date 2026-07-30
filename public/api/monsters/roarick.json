@@ -8,5 +8,24 @@
   "variants": [
     "Rare Roarick"
   ],
-  "breeding": {}
+  "breeding": {
+    "Magical Sanctum": {
+      "common": {
+        "pair": [
+          "Clackula",
+          "Fluoress"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "rare": {
+        "pair": [
+          "Clackula",
+          "Fluoress"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      }
+    }
+  }
 }

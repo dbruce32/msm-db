@@ -9,5 +9,24 @@
   "variants": [
     "Rare Mushaboom"
   ],
-  "breeding": {}
+  "breeding": {
+    "Magical Sanctum": {
+      "common": {
+        "pair": [
+          "Osstax",
+          "Fluoress"
+        ],
+        "time": "1d 6h",
+        "enhanced_time": "22h 30m"
+      },
+      "rare": {
+        "pair": [
+          "Osstax",
+          "Fluoress"
+        ],
+        "time": "1d 6h",
+        "enhanced_time": "22h 30m"
+      }
+    }
+  }
 }

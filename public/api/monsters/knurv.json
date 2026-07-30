@@ -26,6 +26,14 @@
         ],
         "time": "2d 8h 10m",
         "enhanced_time": "1d 18h 7m 30s"
+      },
+      "rare": {
+        "pair": [
+          "Cataliszt",
+          "Buzzinga"
+        ],
+        "time": "1d 8h",
+        "enhanced_time": "1d"
       }
     }
   }

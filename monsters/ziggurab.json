@@ -27,6 +27,14 @@
         ],
         "time": "1d 11h",
         "enhanced_time": "1d 2h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Boskus",
+          "Noggin"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
       }
     }
   }

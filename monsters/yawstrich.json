@@ -25,11 +25,22 @@
         ],
         "time": "1d 14h 23m",
         "enhanced_time": "1d 4h 47m 15s"
+      },
+      "rare": {
+        "pair": [
+          "Scups",
+          "T-Rox"
+        ],
+        "time": "1d 4h",
+        "enhanced_time": "21h"
       }
     },
     "Mythical Island": {
       "epic": {
-        "pair": ["Cataliszt", "Strombonin"],
+        "pair": [
+          "Cataliszt",
+          "Strombonin"
+        ],
         "time": "1d 14h 23m",
         "enhanced_time": "1d 4h 47m 15s"
       }

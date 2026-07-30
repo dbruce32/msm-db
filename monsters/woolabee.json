@@ -27,6 +27,14 @@
         ],
         "time": "1d 19h",
         "enhanced_time": "1d 8h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Glowl",
+          "Mammott"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
       }
     }
   }

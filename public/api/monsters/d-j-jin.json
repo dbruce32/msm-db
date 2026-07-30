@@ -8,5 +8,24 @@
   "variants": [
     "Rare Déjà-Jin"
   ],
-  "breeding": {}
+  "breeding": {
+    "Magical Sanctum": {
+      "common": {
+        "pair": [
+          "Theremind",
+          "Floot Fly"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "rare": {
+        "pair": [
+          "Theremind",
+          "Floot Fly"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      }
+    }
+  }
 }

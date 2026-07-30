@@ -7,5 +7,16 @@
   "variants": [
     "Rare Theremind"
   ],
-  "breeding": {}
+  "breeding": {
+    "Magical Sanctum": {
+      "rare": {
+        "pair": [
+          "Any Psychic Triple",
+          "Any Psychic Triple"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      }
+    }
+  }
 }

@@ -26,6 +26,14 @@
         ],
         "time": "23h",
         "enhanced_time": "17h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Earth Island": {
@@ -44,6 +52,14 @@
         ],
         "time": "23h",
         "enhanced_time": "17h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Water Island": {
@@ -62,6 +78,14 @@
         ],
         "time": "23h",
         "enhanced_time": "17h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Fire Haven": {
@@ -80,6 +104,14 @@
         ],
         "time": "23h",
         "enhanced_time": "17h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Noggin"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     }
   }

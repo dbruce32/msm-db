@@ -27,6 +27,14 @@
         ],
         "time": "1d 1h",
         "enhanced_time": "18h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Dandidoo",
+          "Toe Jammer"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
       }
     },
     "Cold Island": {
@@ -45,6 +53,14 @@
         ],
         "time": "1d 1h",
         "enhanced_time": "18h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Dandidoo",
+          "Toe Jammer"
+        ],
+        "time": "12h",
+        "enhanced_time": "9h"
       }
     }
   }

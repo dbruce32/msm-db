@@ -26,6 +26,14 @@
         ],
         "time": "2d 34m",
         "enhanced_time": "1d 12h 25m 30s"
+      },
+      "rare": {
+        "pair": [
+          "Cataliszt",
+          "Cherubble"
+        ],
+        "time": "1d 3h",
+        "enhanced_time": "20h 15m"
       }
     }
   }

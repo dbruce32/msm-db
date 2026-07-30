@@ -10,5 +10,24 @@
   "variants": [
     "Rare Enchantling"
   ],
-  "breeding": {}
+  "breeding": {
+    "Magical Sanctum": {
+      "common": {
+        "pair": [
+          "Larvaluss",
+          "Fluoress"
+        ],
+        "time": "2d 2h",
+        "enhanced_time": "1d 13h 30m"
+      },
+      "rare": {
+        "pair": [
+          "Larvaluss",
+          "Fluoress"
+        ],
+        "time": "2d 2h",
+        "enhanced_time": "1d 13h 30m"
+      }
+    }
+  }
 }

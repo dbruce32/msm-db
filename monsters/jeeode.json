@@ -1,15 +1,57 @@
 {
   "name": "Jeeode",
   "class": "Ethereal",
-  "elements": ["Crystal"],
-  "variants": ["Rare Jeeode", "Epic Jeeode"],
+  "elements": [
+    "Crystal"
+  ],
+  "variants": [
+    "Rare Jeeode",
+    "Epic Jeeode"
+  ],
   "breeding": {
     "Water Island": {
-      "common": { "pair": ["Shellbeat", "Any Triple"], "time": "1d 12h", "enhanced_time": "1d 3h" },
-      "epic": { "pair": ["Pummel", "Quibble"], "time": "1d 2h", "enhanced_time": "19h 30m" }
+      "common": {
+        "pair": [
+          "Shellbeat",
+          "Any Triple"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      },
+      "epic": {
+        "pair": [
+          "Pummel",
+          "Quibble"
+        ],
+        "time": "1d 2h",
+        "enhanced_time": "19h 30m"
+      },
+      "rare": {
+        "pair": [
+          "Shellbeat",
+          "Any Triple"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      }
     },
     "Ethereal Island": {
-      "epic": { "pair": ["Jellbilly", "Arackulele"], "time": "7h 13m 20s", "enhanced_time": "5h 25m" }
+      "epic": {
+        "pair": [
+          "Jellbilly",
+          "Arackulele"
+        ],
+        "time": "7h 13m 20s",
+        "enhanced_time": "5h 25m"
+      },
+      "rare": {
+        "pair": [
+          "Reebro",
+          "Any Single Ethereal"
+        ],
+        "time": "1d 12h",
+        "enhanced_time": "1d 3h"
+      }
     }
   }
 }

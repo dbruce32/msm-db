@@ -27,6 +27,14 @@
         ],
         "time": "1d 15h",
         "enhanced_time": "1d 5h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Glowl",
+          "Potbelly"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
       }
     }
   }

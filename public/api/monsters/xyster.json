@@ -8,5 +8,24 @@
   "variants": [
     "Rare Xyster"
   ],
-  "breeding": {}
+  "breeding": {
+    "Magical Sanctum": {
+      "common": {
+        "pair": [
+          "Theremind",
+          "Clackula"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "rare": {
+        "pair": [
+          "Theremind",
+          "Clackula"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      }
+    }
+  }
 }

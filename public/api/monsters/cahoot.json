@@ -8,5 +8,24 @@
   "variants": [
     "Rare Cahoot"
   ],
-  "breeding": {}
+  "breeding": {
+    "Magical Sanctum": {
+      "common": {
+        "pair": [
+          "Theremind",
+          "Fluoress"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "rare": {
+        "pair": [
+          "Theremind",
+          "Fluoress"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      }
+    }
+  }
 }

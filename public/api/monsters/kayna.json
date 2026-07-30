@@ -17,6 +17,14 @@
         ],
         "time": "15h",
         "enhanced_time": "11h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Any Fire Triple",
+          "Any Fire Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Fire Oasis": {
@@ -27,6 +35,14 @@
         ],
         "time": "15h",
         "enhanced_time": "11h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Any Fire Triple",
+          "Any Fire Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Bone Island": {
@@ -37,6 +53,14 @@
         ],
         "time": "15h",
         "enhanced_time": "11h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Any Fire Triple",
+          "Any Fire Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Light Island": {
@@ -47,6 +71,14 @@
         ],
         "time": "15h",
         "enhanced_time": "11h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Any Fire Triple",
+          "Any Fire Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Psychic Island": {
@@ -57,6 +89,14 @@
         ],
         "time": "15h",
         "enhanced_time": "11h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Any Fire Triple",
+          "Any Fire Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     },
     "Faerie Island": {
@@ -67,6 +107,14 @@
         ],
         "time": "15h",
         "enhanced_time": "11h 15m"
+      },
+      "rare": {
+        "pair": [
+          "Any Fire Triple",
+          "Any Fire Triple"
+        ],
+        "time": "6h",
+        "enhanced_time": "4h 30m"
       }
     }
   }

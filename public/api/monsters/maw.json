@@ -26,6 +26,14 @@
         ],
         "time": "13h",
         "enhanced_time": "9h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Toe Jammer",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
       }
     },
     "Air Island": {
@@ -44,6 +52,14 @@
         ],
         "time": "13h",
         "enhanced_time": "9h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Toe Jammer",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
       }
     },
     "Cold Island": {
@@ -62,6 +78,14 @@
         ],
         "time": "13h",
         "enhanced_time": "9h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Toe Jammer",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
       }
     },
     "Fire Oasis": {
@@ -80,6 +104,14 @@
         ],
         "time": "13h",
         "enhanced_time": "9h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Toe Jammer",
+          "Mammott"
+        ],
+        "time": "30m",
+        "enhanced_time": "22m 30s"
       }
     }
   }

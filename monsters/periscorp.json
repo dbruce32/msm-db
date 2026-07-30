@@ -18,6 +18,14 @@
         ],
         "time": "16h",
         "enhanced_time": "12h"
+      },
+      "rare": {
+        "pair": [
+          "Yuggler",
+          "Toe Jammer"
+        ],
+        "time": "16h",
+        "enhanced_time": "12h"
       }
     }
   }

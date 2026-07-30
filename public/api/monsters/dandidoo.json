@@ -26,6 +26,14 @@
         ],
         "time": "1d 5h",
         "enhanced_time": "21h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Potbelly"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Water Island": {
@@ -44,6 +52,14 @@
         ],
         "time": "1d 5h",
         "enhanced_time": "21h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Potbelly"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Cold Island": {
@@ -62,6 +78,14 @@
         ],
         "time": "1d 5h",
         "enhanced_time": "21h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Potbelly"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     },
     "Fire Haven": {
@@ -80,6 +104,14 @@
         ],
         "time": "1d 5h",
         "enhanced_time": "21h 45m"
+      },
+      "rare": {
+        "pair": [
+          "Tweedle",
+          "Potbelly"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
       }
     }
   }

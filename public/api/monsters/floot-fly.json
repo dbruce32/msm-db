@@ -18,6 +18,24 @@
         "time": "19h 56m",
         "enhanced_time": "14h 57m"
       }
+    },
+    "Magical Sanctum": {
+      "rare": {
+        "pair": [
+          "Any Faerie Triple",
+          "Any Faerie Triple"
+        ],
+        "time": "8h",
+        "enhanced_time": "6h"
+      },
+      "epic": {
+        "pair": [
+          "Enchantling",
+          "Knucklehead"
+        ],
+        "time": "19h 56m",
+        "enhanced_time": "14h 57m"
+      }
     }
   }
 }

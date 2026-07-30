@@ -1,12 +1,40 @@
 {
   "name": "Knucklehead",
   "class": "Magical",
-  "elements": ["Light", "Faerie"],
-  "variants": ["Rare Knucklehead", "Epic Knucklehead"],
+  "elements": [
+    "Light",
+    "Faerie"
+  ],
+  "variants": [
+    "Rare Knucklehead",
+    "Epic Knucklehead"
+  ],
   "breeding": {
     "Magical Sanctum": {
-      "common": { "pair": ["Fluoress", "Floot Fly"], "time": "20h", "enhanced_time": "15h" },
-      "epic": { "pair": ["Larvaluss", "Cahoot"], "time": "2d 3h 49m", "enhanced_time": "1d 14h 51m 45s" }
+      "common": {
+        "pair": [
+          "Fluoress",
+          "Floot Fly"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "epic": {
+        "pair": [
+          "Larvaluss",
+          "Cahoot"
+        ],
+        "time": "2d 3h 49m",
+        "enhanced_time": "1d 14h 51m 45s"
+      },
+      "rare": {
+        "pair": [
+          "Fluoress",
+          "Floot Fly"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      }
     }
   }
 }

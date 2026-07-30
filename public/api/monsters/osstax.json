@@ -8,5 +8,24 @@
   "variants": [
     "Rare Osstax"
   ],
-  "breeding": {}
+  "breeding": {
+    "Magical Sanctum": {
+      "common": {
+        "pair": [
+          "Clackula",
+          "Floot Fly"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      },
+      "rare": {
+        "pair": [
+          "Clackula",
+          "Floot Fly"
+        ],
+        "time": "20h",
+        "enhanced_time": "15h"
+      }
+    }
+  }
 }
