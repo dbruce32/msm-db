@@ -1,0 +1,34 @@
+{
+  "name": "Rare Screemu",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "5 Keys",
+    "fill_price": "1,000 Diamonds",
+    "wildcards": 25,
+    "total": 10,
+    "release_date": "February 28th, 2024",
+    "requirements": [
+      {
+        "monster": "Rare Shellbeat",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Spunge",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Quibble",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Shrubb",
+        "quantity": 3
+      }
+    ]
+  }
+}

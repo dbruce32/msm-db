@@ -1,0 +1,42 @@
+{
+  "name": "Rare Astropod",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "10 Keys",
+    "fill_price": "1,700 Diamonds",
+    "wildcards": 47,
+    "total": 17,
+    "release_date": "September 20th, 2023",
+    "requirements": [
+      {
+        "monster": "Rare Shellbeat",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Deedge",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Reedling",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Scups",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Spunge",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Toe Jammer",
+        "quantity": 4
+      }
+    ]
+  }
+}

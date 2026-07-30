@@ -1,0 +1,46 @@
+{
+  "name": "Rare Creepuscule",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "7 Keys",
+    "fill_price": "2,100 Diamonds",
+    "wildcards": 55,
+    "total": 21,
+    "release_date": "August 9th, 2023",
+    "requirements": [
+      {
+        "monster": "Rare Deedge",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Shellbeat",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare T-Rox",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Pummel",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Congle",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Quibble",
+        "quantity": 4
+      },
+      {
+        "monster": "Rare Noggin",
+        "quantity": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Rare Blipsqueak",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "5 Keys",
+    "fill_price": "1,200 Diamonds",
+    "wildcards": 31,
+    "total": 12,
+    "release_date": "June 7th, 2023",
+    "requirements": [
+      {
+        "monster": "Rare Deedge",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare PomPom",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare T-Rox",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Cybop",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Toe Jammer",
+        "quantity": 2
+      }
+    ]
+  }
+}

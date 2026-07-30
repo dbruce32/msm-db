@@ -1,0 +1,86 @@
+{
+  "name": "Rare Dwumrohl",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "14 Keys",
+    "fill_price": "3,000 Diamonds",
+    "wildcards": 69,
+    "total": 30,
+    "release_date": "April 5th, 2023",
+    "requirements": [
+      {
+        "monster": "Rare Entbrat",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Deedge",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Riff",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Shellbeat",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Quarrister",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Reedling",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Scups",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Thumpies",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare PomPom",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Congle",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Pummel",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Bowgart",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Tweedle",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Potbelly",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Noggin",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Toe Jammer",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Mammott",
+        "quantity": 3
+      }
+    ]
+  }
+}

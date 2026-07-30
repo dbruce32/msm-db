@@ -1,0 +1,38 @@
+{
+  "name": "Rare Tympa",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "14 Keys",
+    "fill_price": "2,300 Diamonds",
+    "wildcards": 64,
+    "total": 23,
+    "release_date": "July 12th, 2023",
+    "requirements": [
+      {
+        "monster": "Rare Shellbeat",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare T-Rox",
+        "quantity": 4
+      },
+      {
+        "monster": "Rare Pummel",
+        "quantity": 4
+      },
+      {
+        "monster": "Rare Clamble",
+        "quantity": 4
+      },
+      {
+        "monster": "Rare Drumpler",
+        "quantity": 8
+      }
+    ]
+  }
+}

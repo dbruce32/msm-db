@@ -1,0 +1,58 @@
+{
+  "name": "Rare Thwok",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "7 Keys",
+    "fill_price": "1,500 Diamonds",
+    "wildcards": 46,
+    "total": 15,
+    "release_date": "April 5th, 2023",
+    "requirements": [
+      {
+        "monster": "Rare Entbrat",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Deedge",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Riff",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Shellbeat",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Quarrister",
+        "quantity": 1
+      },
+      {
+        "monster": "Rare Spunge",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare PomPom",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Bowgart",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Quibble",
+        "quantity": 2
+      },
+      {
+        "monster": "Rare Furcorn",
+        "quantity": 2
+      }
+    ]
+  }
+}

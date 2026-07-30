@@ -1,0 +1,46 @@
+{
+  "name": "Rare Pixolotl",
+  "class": "Rare Wublin",
+  "elements": [
+    "Wublin"
+  ],
+  "variants": [],
+  "breeding": {},
+  "eggs": {
+    "cost": "14 Keys",
+    "fill_price": "2,400 Diamonds",
+    "wildcards": 70,
+    "total": 24,
+    "release_date": "June 18th, 2024",
+    "requirements": [
+      {
+        "monster": "Rare Entbrat",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Riff",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Scups",
+        "quantity": 4
+      },
+      {
+        "monster": "Rare Pummel",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare T-Rox",
+        "quantity": 3
+      },
+      {
+        "monster": "Rare Cybop",
+        "quantity": 4
+      },
+      {
+        "monster": "Rare Fwog",
+        "quantity": 4
+      }
+    ]
+  }
+}
